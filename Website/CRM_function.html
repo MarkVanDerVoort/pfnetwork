@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="content-type" content="text/html; charset=UTF8">
+  <title>Nederlandse pensioenfonds</title>
+
+    <script type="text/javascript" src="visjs/vis.min.js"></script>
+    <link href="visjs/vis.min.css" rel="stylesheet" type="text/css" />
+
+<!-- Source: "networks/network-YEAR_TYPE.js", where YEAR is (2007,2014) or CRM and TYPE is [function, betweenness] -->  <script type="text/javascript" src="networks/network-CRM_function.js"></script>
+
+  <style type="text/css">
+    #mynetwork {
+      width: 1200px;
+      height: 600px;
+      border: 1px solid lightgray;
+    }
+  </style>
+</head>
+
+<body>
+
+<p>Netwerk van Nederlandse pensioenfonds. Plaats de muisaanwijzer op knooppunt naar meta-informatie te zien. Klik op het knooppunt om de eerste en tweede graad buren markeren.
+<br>
+Color coding:
+ <ul>
+  <li>Geel = Lid Raad van Toezicht of Voorzitter Raad van Toezicht</li>
+  <li>Blauw = Bestuurder, Bestuursvoorzitter of Mede-beleidsbepaler</li>
+  <li>Rood = Accountant of Actuaris</li>
+</ul>
+</p>
+
+<div id="mynetwork"></div>
+
+<div id="navigatie">
+    <button><a href="mailto:r.l.van.twiller@dnb.nl">Vragen en opmerkingen</a></button>
+</div>
+
+<script type="text/javascript" src="visjs/draw.highlighted.network.js">
+</script>
+
+</body>
+
+<div class="row">
+    <div class="col-xs-12">
+        <footer>
+            <p>Laatste update: 06. Apr 2016</p>
+        </footer>
+    </div>
+</div>
+
+</html>

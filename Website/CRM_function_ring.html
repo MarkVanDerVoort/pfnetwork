@@ -1,0 +1,68 @@
+<!doctype html>
+<meta charset="utf-8">
+
+<!-- load D3js -->
+<script src="http://www.d3plus.org/js/d3.js"></script>
+
+<!-- load D3plus after D3js -->
+<script src="http://www.d3plus.org/js/d3plus.js"></script>
+
+<script type="text/javascript" src="./networks/network-CRM_ring.js"></script>
+
+<script type="text/javascript">
+function GetUrlValue(VarSearch, orElse){
+    var SearchString = window.location.search.substring(1);
+    var VariableArray = SearchString.split('&');
+    for(var i = 0; i < VariableArray.length; i++){
+        var KeyValuePair = VariableArray[i].split('=');
+        if(KeyValuePair[0] == VarSearch){
+            var param = KeyValuePair[1];
+            return param.replace(/\+/g, ' ');
+        }
+    }
+    return orElse
+}
+</script>
+
+<!-- create container element for visualization -->
+<div id="viz"></div>
+
+<div id="navigatie">
+    <button id="btnContext">context</button>
+    <button><a href="mailto:r.l.van.twiller@dnb.nl">Vragen en opmerkingen</a></button>
+</div>
+
+
+<!--
+<script type="text/javascript" src="./networks/network-CRM_betweenness2.js"></script>
+<div id="vizall"></div>
+-->
+
+<script>
+  document.getElementById("btnContext").addEventListener("click", function(){
+      window.location.href = "CRM_betweenness.html";
+  });
+
+  var focusNode = GetUrlValue('node', "Brouwer, Hendrik");
+
+  // instantiate d3plus
+  var visualization = d3plus.viz()
+    .container("#viz")  // container DIV "target" hold the visualization
+    .type("rings")      // visualization type
+    .edges(connections) // list of node connections
+    .focus(focusNode)   // ID of the initial center node
+    .draw()             // finally, draw the visualization!
+
+
+  //gives nice legend but is really slow
+  // var visall = d3plus.viz()
+  //  .container("#vizall")
+  //  .type("network")
+  //  .edges(edges)
+  //  .nodes(nodes)
+  //  .tooltip(["label"])
+  //  .text(["label","id"])
+  //  .size(20)
+  //  .draw()
+
+</script>
