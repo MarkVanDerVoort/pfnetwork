@@ -1,0 +1,2202 @@
+ID,Relatienummer pensioenfonds,Naam pensioenfonds,Naam persoon,Relatienummer persoon,Rol
+118,608,Mn Services,"Luijk, Marc van",P123679,Accountant
+153,1491,Protector,"Rijst, Hendrikus van der",P121196,Accountant
+202,2392,Personeelspensioenfonds APG,"Besters, Jacob Coen",P122124,Accountant
+346,5543,Provisum,"Besters, Jacob Coen",P122124,Accountant
+712,13358,Notariaat,"Rijst, Hendrikus van der",P121196,Accountant
+779,15133,Betonproducten,"Rijst, Hendrikus van der",P121196,Accountant
+853,17571,Vlakglas Verf,"Rijst, Hendrikus van der",P121196,Accountant
+972,32489,TOTAL,"Luijk, Marc van",P123679,Accountant
+1038,34780,Mars,"Rijst, Hendrikus van der",P121196,Accountant
+1343,50052,Elsevier,"Luijk, Marc van",P123679,Accountant
+1415,60084,Witteveen & Bos,"Luijk, Marc van",P123679,Accountant
+1846,60777,SCA Hygiene,"Luijk, Marc van",P123679,Accountant
+1861,60788,Technische Groothandel Vroegpensioen,"Rijst, Hendrikus van der",P121196,Accountant
+10,2,Tandartsen  ,"Sprenkels, Rudolfus Hubertus",P121961,Actuaris
+28,4,Apothekers,"Sprenkels, Rudolfus Hubertus",P121961,Actuaris
+222,2607,ARCADIS Nederland,"Sprenkels, Rudolfus Hubertus",P121961,Actuaris
+452,7777,Cosun,"Wit, Marcel Gérard Andreas Bernhard de",P115964,Actuaris
+674,11756,Schoen en Leder,"Heemskerk, Marcus Wilhelmus",P106487,Actuaris
+759,14400,Waterbouw,"Heemskerk, Marcus Wilhelmus",P106487,Actuaris
+962,32436,Zoetwarenindustrie,"Kruijff, Rudi",P122096,Actuaris
+1033,34780,Mars,"Kruijff, Rudi",P122096,Actuaris
+1042,36105,Gasunie,"Kruijff, Rudi",P122096,Actuaris
+1057,36722,Agrarische,"Gelder, Martin de",P105294,Actuaris
+1105,39775,Hewitt Nederland,"Hammer, Carel Frederik",P116817,Actuaris
+1273,47985,TDV,"Sprenkels, Rudolfus Hubertus",P121961,Actuaris
+1383,60011,AZL,"Sprenkels, Rudolfus Hubertus",P121961,Actuaris
+1389,60019,Ten Cate,"Heijer, Dirk den",P103981,Actuaris
+1652,60540,Wolters Kluwer ,"Sprenkels, Rudolfus Hubertus",P121961,Actuaris
+1670,60561,Atos Origin,"Sprenkels, Rudolfus Hubertus",P121961,Actuaris
+1752,60677,TDF Botlek,Verschuren,P117042,Actuaris
+1881,60792,STIPP,Verschuren,P117042,Actuaris
+1995,60883,AVIKO,"Wit, Marcel Gérard Andreas Bernhard de",P115964,Actuaris
+2135,60943,Croda,Verschuren,P117042,Actuaris
+2,1,Huisartsen ,"Berg, Pieter Joseph Marie van den",P117496,Bestuurder
+3,1,Huisartsen ,"Binnekamp, Johannes",P115685,Bestuurder
+4,1,Huisartsen ,"Enneking, Thomas Robert Maria Quirinus",P131564,Bestuurder
+6,1,Huisartsen ,"Schreuder, Hendrik Jozef",P104773,Bestuurder
+7,1,Huisartsen ,"Slager, Alfredus Mattheus Harmen",P111800,Bestuurder
+8,2,Tandartsen  ,"Albrecht, Ferdinand Frederik",P108169,Bestuurder
+12,2,Tandartsen  ,"Zeverijn, Willem Sako",P104875,Bestuurder
+13,3,Medische Specialisten,"Biemond, Pieter",P108785,Bestuurder
+15,3,Medische Specialisten,"Bosman, Cornelis Hendrik Rudolf (Coks)",P131168,Bestuurder
+20,3,Medische Specialisten,"Stuijfzand, Eelco Paul",P100292,Bestuurder
+21,3,Medische Specialisten,"Tulder, Cornelus Antonius Maria",P106460,Bestuurder
+22,4,Apothekers,"Bakker, Alphons Johan Marie",P117720,Bestuurder
+23,4,Apothekers,"Brienen, Jan Willem",P111047,Bestuurder
+25,4,Apothekers,"Lustgraaf-Wielens, Maria Josephina Geertruida van de",P112062,Bestuurder
+26,4,Apothekers,"Menheere, Marjolein Marieke Joyce Jacqueline",P111444,Bestuurder
+29,7,Fysiotherapeuten,"Haasen, Alain Bruce van",P130233,Bestuurder
+30,7,Fysiotherapeuten,"Heuvel, Theodora, Paulina, Johanna, Adriana van den",P113692,Bestuurder
+31,7,Fysiotherapeuten,"Hofmans-Weijman, Maria Petronella Geertruida",P114187,Bestuurder
+32,7,Fysiotherapeuten,"Pommeren, René van",P112250,Bestuurder
+33,7,Fysiotherapeuten,"Sillen, Wilhelmus Joseph Theodoor",P127250,Bestuurder
+34,7,Fysiotherapeuten,"Sluis, Joachim Hugo",P130234,Bestuurder
+35,7,Fysiotherapeuten,"Spaan, Cornelis",P118070,Bestuurder
+37,8,Verloskundigen,"Berg, Maria Martha van der",P101724,Bestuurder
+38,8,Verloskundigen,"Elings, Maria Godefrida Petra Geertruida",P102417,Bestuurder
+39,8,Verloskundigen,"Kaan-van Arendonk, Aartje Maria",P131736,Bestuurder
+40,8,Verloskundigen,"Toet, Jacob",P102015,Bestuurder
+41,9,Dierenartsen,"Gils, Johannes Antonius Maria van",P131593,Bestuurder
+42,9,Dierenartsen,"Heuven-van Kats, Aleida Cornelia Maria van",P111733,Bestuurder
+43,9,Dierenartsen,"Ruijter, Ton de",P104335,Bestuurder
+45,9,Dierenartsen,"Stark, Lonneke Anne-Marie",P111727,Bestuurder
+46,9,Dierenartsen,"Vries, IJmert Riemert de",P125768,Bestuurder
+48,12,Loodsen,"Jonge, Robert de",P127499,Bestuurder
+49,12,Loodsen,"Kazemier, Leendert",P115255,Bestuurder
+51,13,Roeiers  ,"Cornelissen, Mark",P118474,Bestuurder
+52,13,Roeiers  ,"Crans, Ramon",P115503,Bestuurder
+53,13,Roeiers  ,Moonen,P117388,Bestuurder
+54,29,Notarieel,"Borren, Johannes (Hans)",P100835,Bestuurder
+59,29,Notarieel,"Oosterhout, Robert",P128951,Bestuurder
+60,29,Notarieel,"Schotanus à Steringa Idzerda, Hanso Henricus",P100286,Bestuurder
+61,29,Notarieel,"Waal, Marinus de",P129877,Bestuurder
+62,30,ABP ,"Berg, Willem Jelle",P121321,Bestuurder
+63,30,ABP ,"Damm, Michael",P112944,Bestuurder
+64,30,ABP ,"Doornekamp-Rijkers, Mariette",P111866,Bestuurder
+65,30,ABP ,"Eykelenburg, Carolus van",P126947,Bestuurder
+68,30,ABP ,"Houwelingen, Willem Hendrik van",P124485,Bestuurder
+69,30,ABP ,"Leegwater, Geertruida Alida Catharina (Geraldine)",P109779,Bestuurder
+71,30,ABP ,"Lunteren, Jacobus Nicolaas van",P107120,Bestuurder
+73,30,ABP ,"Meijer, Josepha",P126621,Bestuurder
+74,30,ABP,"Mulder-Volkers, Constance Maria",P118685,Bestuurder
+76,30,ABP,"Uyl, Xander Johannes den",P107770,Bestuurder
+77,30,ABP,"Veer, Corneille Jean Marie de",P104654,Bestuurder
+78,30,ABP,"Wortmann-Kool, Cornelia Maria",P130426,Bestuurder
+79,32,Spoorweg ,"Booij, George de",P127427,Bestuurder
+80,32,Spoorweg ,"Brouwer, Sietse",P112591,Bestuurder
+81,32,Spoorweg ,"Custers, Stephanus Maria Johannes",P121081,Bestuurder
+82,32,Spoorweg ,"Groten, Gerardus Theodorus Maria",P122659,Bestuurder
+83,32,Spoorweg ,"Ittersum, Marjanne Alette Julia van",P110145,Bestuurder
+84,32,Spoorweg ,"Leenders, Paul",P112604,Bestuurder
+85,32,Spoorweg ,"Leenhouts, Jannis Pieter",P131124,Bestuurder
+86,32,Spoorweg ,"Oldenkamp, Bart",P128927,Bestuurder
+87,32,Spoorweg ,"Oosting, Johannes",P132028,Bestuurder
+88,32,Spoorweg ,"Rens, Hendrik",P131123,Bestuurder
+89,32,Spoorweg ,"Vos, Johannes Josephus",P117146,Bestuurder
+90,32,Spoorweg ,"Wanrooij, Franciscus Lucien Joseph van",P113967,Bestuurder
+91,32,Spoorweg ,"Wijk-Russchen, Roerlofje van",P103012,Bestuurder
+92,44,Kuwait Petroleum Nederland,"Droste, Ernst",P101347,Bestuurder
+93,44,Kuwait Petroleum Nederland,"Meeusen, Alexander Ferdinand",P113851,Bestuurder
+95,44,Kuwait Petroleum Nederland,"Velden, Robert Jan van der",P107276,Bestuurder
+96,90,Sportfondsen,"Bijl, Mattheus Johannes",P104929,Bestuurder
+97,90,Sportfondsen,"Boer, Siemon-Jan",P106230,Bestuurder
+98,90,Sportfondsen,"Bruinings, Stefan",P100724,Bestuurder
+99,90,Sportfondsen,"Leeuwen, Rob Philip van",P119479,Bestuurder
+100,90,Sportfondsen,"Til, Jan Pieter van",P123092,Bestuurder
+101,90,Sportfondsen,"Tromp, Erik Johannes",P100721,Bestuurder
+102,102,Huysman,"Jonge, Frederik de",P118241,Bestuurder
+103,102,Huysman,"Kortekaas, Sander",P131536,Bestuurder
+104,102,Huysman,"Leeuwen, Johannes van",P127544,Bestuurder
+105,102,Huysman,"Naber, Petrus Simon Gertrudes (Piet)",P100820,Bestuurder
+107,102,Huysman,"Veltrop - Rol, Dieuwertje Margje",P113827,Bestuurder
+108,124,VIBA  ,"Harst, Adriaan van der",P100344,Bestuurder
+109,124,VIBA  ,"Veen, Hendrik IJsbrand",P123063,Bestuurder
+110,342,Henkel,"Bekker, Antonius Mattheus Joseph de",P119003,Bestuurder
+111,342,Henkel,"Benschop, Andre",P131368,Bestuurder
+112,342,Henkel,"Boer, Evert de",P132016,Bestuurder
+114,342,Henkel,"Klaassen, Willem Frederik Engelbertus (Wilfred) mr",P113607,Bestuurder
+115,342,Henkel,"Wetzold, Derk",P116026,Bestuurder
+116,608,Mn Services,"Benard, Pleun",P109297,Bestuurder
+120,608,Mn Services,"Ooms, Eduard",P128310,Bestuurder
+121,608,Mn Services,"Paassen - Mos, Viktorine Josephina Annegien van",P131443,Bestuurder
+124,608,Mn Services,"Willems, Martinus Petrus Cornelius Maria (Martijn)",P108498,Bestuurder
+125,692,TNO,"Boumans, Johannes, Wilhelmus, Leonardus",P132440,Bestuurder
+126,692,TNO,"Ekkers, Cornelis Ludovicus",P115096,Bestuurder
+127,692,TNO,"Marring, Francisca",P130999,Bestuurder
+128,692,TNO,"Paulus, Marinus",P132451,Bestuurder
+129,692,TNO,"Phillipson, Frank",P126976,Bestuurder
+130,692,TNO,"Ruijgrok, Johannes Theodorus",P120966,Bestuurder
+132,692,TNO,"Veltman, Johan Albert",P104661,Bestuurder
+133,692,TNO,"Vethaak, Jan Willem",P101235,Bestuurder
+134,692,TNO,"Westerlaken, Adriana, Cornelia",P132445,Bestuurder
+135,900,Philips,"Breimer, Pieter Heert",P118079,Bestuurder
+136,900,Philips,"Denteneer, T.J.J.",P130624,Bestuurder
+137,900,Philips,"Ekelschot, Paulus Johannes Maria (Paul)",P126270,Bestuurder
+138,900,Philips,"Geloven, Augustinus Petrus Adrianus van",P110590,Bestuurder
+139,900,Philips,"Kemme, Jasper Bernard Joseph",P125296,Bestuurder
+140,900,Philips,"Kuijsten, Johannes Adriaan",P131415,Bestuurder
+141,900,Philips,"Lindenhovius, Bernard Frederik Willem",P132416,Bestuurder
+142,900,Philips,"Mangelmans, Reinoud Wilhelmus Laurentius Maria",P100091,Bestuurder
+143,900,Philips,"Scholing, Johannes Hendrik",P126271,Bestuurder
+144,900,Philips,"Schreur, Robertus Johannes",P130625,Bestuurder
+145,900,Philips,"Steen, Paul van der",P132444,Bestuurder
+146,900,Philips,"Uittenbroek, Arie Leendert",P130626,Bestuurder
+148,1491,Protector,"Hertog, Maarten Johan den",P113548,Bestuurder
+150,1491,Protector,"Mertens, Paulus Josephus Cosmas",P108616,Bestuurder
+151,1491,Protector,"Meulblok, Maarten",P113534,Bestuurder
+152,1491,Protector,"Muffels, Justus Johannes Maria",P108793,Bestuurder
+154,1491,Protector,"Shultz-Sibbel, Gerarda Martine Wilhelmina (Gerda)",P113917,Bestuurder
+155,1491,Protector,"Weijel, Paul",P108610,Bestuurder
+157,1626,Media PNO ,"Hofman, Geert Pieter",P103224,Bestuurder
+158,1626,Media PNO ,"Hoof, Karel Cornelis Clemens Maria van",P127839,Bestuurder
+159,1626,Media PNO ,"Kate, Pepijn ten",P101951,Bestuurder
+160,1626,Media PNO ,"Leyendekker, Ruwardus Adrianus Leonardus",P130606,Bestuurder
+161,1626,Media PNO ,"Loon, Eric Jan",P116700,Bestuurder
+162,1626,Media PNO ,"Olde Scholtenhuis, Patrick Robertus Aloysius",P129591,Bestuurder
+166,1626,Media PNO ,"Spek, Willem Arie van der",P105389,Bestuurder
+167,1626,Media PNO ,"Sterk, Ronald",P114781,Bestuurder
+168,1626,Media PNO ,"Terpstra, Sybren Henk",P103231,Bestuurder
+169,1626,Media PNO ,"Waart, Madelon Elise van",P130607,Bestuurder
+170,1757,Heineken,"Berg, Robert van den",P132342,Bestuurder
+171,1757,Heineken,"Beukhof, Richard Charles",P127522,Bestuurder
+172,1757,Heineken,"Geenen-van Straaten, Leonarda Petronella",P125709,Bestuurder
+173,1757,Heineken,"Groot, Nicolaas",P109123,Bestuurder
+175,1757,Heineken,"Konijn, Hendrikus Fredrikus Martinus",P116168,Bestuurder
+176,1757,Heineken,"Vervark - Straathof, Monica Helena Cornelia",P130957,Bestuurder
+177,1757,Heineken,"Weeda, Johannis Henry",P109425,Bestuurder
+178,2199,KLM Algemeen,"Brink, Jan van den",P121228,Bestuurder
+179,2199,KLM Algemeen,"Bruijn, Hans Karel de",P112225,Bestuurder
+180,2199,KLM Algemeen,"Essenberg, Hendrikus Arnoldus",P111060,Bestuurder
+181,2199,KLM Algemeen,"Gent, Pieter Adrianus van",P121235,Bestuurder
+182,2199,KLM Algemeen,"Jansen, Paulus Johannes Maria",P104789,Bestuurder
+183,2199,KLM Algemeen,"Jong, Arend Reinier de",P107474,Bestuurder
+184,2199,KLM Algemeen,"Kies, Robert",P110615,Bestuurder
+185,2199,KLM Algemeen,"Kok, Eltjo Herman",P100474,Bestuurder
+186,2199,KLM Algemeen,"Lagendaal, Gerardus Klaas Reinier",P121234,Bestuurder
+187,2199,KLM Algemeen,"Landen, Gerda Elisabeth van der",P125388,Bestuurder
+188,2199,KLM Algemeen,"Raaijmakers, Martijn",P103710,Bestuurder
+189,2199,KLM Algemeen,"Roos, Hans Willem de",P131229,Bestuurder
+190,2199,KLM Algemeen,"Schelvis, Petrus Maria (Peter)",P120267,Bestuurder
+191,2199,KLM Algemeen,"Stienen, Maarten, Pieter, Alexander",P128247,Bestuurder
+192,2200,KLM Vliegend Personeel,"Griffioen, Peter Paul",P121313,Bestuurder
+193,2200,KLM Vliegend Personeel,"Jansen, Paulus Johannes Maria",P104789,Bestuurder
+194,2200,KLM Vliegend Personeel,"Jong, Arend Reinier de",P107474,Bestuurder
+195,2200,KLM Vliegend Personeel,"Kartman, Miriam Inez",P109736,Bestuurder
+197,2200,KLM Vliegend Personeel,"Lingen, Ronald ter",P112272,Bestuurder
+198,2200,KLM Vliegend Personeel,"Munster, Lourens van",P107818,Bestuurder
+199,2200,KLM Vliegend Personeel,"Oudshoorn, Aalbert (Bert)",P121307,Bestuurder
+200,2200,KLM Vliegend Personeel,"Pol, van der",P121314,Bestuurder
+201,2200,KLM Vliegend Personeel,"Tettero, Johannes Cornelis",P104720,Bestuurder
+204,2392,Personeelspensioenfonds APG,"Giersbergen, Robert Franciscus Adriaan van",P130619,Bestuurder
+205,2392,Personeelspensioenfonds APG,"Jonis, Schenly Antolin",P130618,Bestuurder
+206,2392,Personeelspensioenfonds APG,"Oerlemans, Alwin Gerolt",P116437,Bestuurder
+207,2392,Personeelspensioenfonds APG,"Philippa, Wilhelmus Gerardus",P130617,Bestuurder
+208,2392,Personeelspensioenfonds APG,"Schaft, Gerardus Maria Gemma van der",P114074,Bestuurder
+209,2392,Personeelspensioenfonds APG,"van der Zeeuw, René",P130278,Bestuurder
+210,2392,Personeelspensioenfonds APG,"Zanden, Cornelus Pieter van",P103884,Bestuurder
+211,2585,GE Artesia Bank,"Have, Albert Gerhard ten",P118058,Bestuurder
+212,2585,GE Artesia Bank,"Hoedemaker, Franciscus Petrus",P121705,Bestuurder
+213,2585,GE Artesia Bank,"Peters, Bastiaan Johannes Jacobus",P131183,Bestuurder
+215,2585,GE Artesia Bank,"Weering, Irma Henriëtte",P131594,Bestuurder
+216,2607,ARCADIS Nederland,"Bakker, Rutgerus Leonardus Petrus",P118608,Bestuurder
+217,2607,ARCADIS Nederland,"Benima, Danny",P130168,Bestuurder
+218,2607,ARCADIS Nederland,"Corver, Antonius Willem Maria",P104561,Bestuurder
+219,2607,ARCADIS Nederland,"Elsen, Paulus Engelbertha Aloysius van den",P123731,Bestuurder
+220,2607,ARCADIS Nederland,"Honig, Yolande Anja",P115648,Bestuurder
+221,2607,ARCADIS Nederland,"Mommers, Bram Bernardus Johannes Maria",P131298,Bestuurder
+223,2609,Productschappen,"Graaf, Willem Frederik de",P109448,Bestuurder
+224,2609,Productschappen,"Kuijvenhoven, Cornelis",P120637,Bestuurder
+225,2776,HAL,"Eisma, Sjoerd Eise",P121594,Bestuurder
+226,2776,HAL,Snelleman,P121593,Bestuurder
+228,2776,HAL,"Visser, Richard Lodewijk de",P128004,Bestuurder
+230,2931,Lucht- en Ruimtevaartlaboratorium,"Groot, Adriaan de",P100679,Bestuurder
+231,2931,Lucht- en Ruimtevaartlaboratorium,"Pielstroom, Marcel Alexander",P105125,Bestuurder
+232,2931,Lucht- en Ruimtevaartlaboratorium,"Randwijck, Odette Elisabeth van",P113284,Bestuurder
+233,2931,Lucht- en Ruimtevaartlaboratorium,"Stoel, Herma Jacoba van der",P131028,Bestuurder
+234,2931,Lucht- en Ruimtevaartlaboratorium,"Veerman, Hendrikus Petrus Josef",P112682,Bestuurder
+235,2931,Lucht- en Ruimtevaartlaboratorium,"Welman, Carl Gustaaf Maria",P118050,Bestuurder
+236,3053,Grolsch Bierbrouwerij,"Bosman, Erwin Hermanus Wilhelmus",P115387,Bestuurder
+237,3053,Grolsch Bierbrouwerij,"Domhof, Franciscus Wilhelmus Maria (Frank)",P126432,Bestuurder
+238,3053,Grolsch Bierbrouwerij,"Gierveld, Jeroen Frank",P127300,Bestuurder
+239,3053,Grolsch Bierbrouwerij,"Meijerink, Albertus Jacobus",P128229,Bestuurder
+240,3053,Grolsch Bierbrouwerij,"Paternotte, Eveline Petra",P131738,Bestuurder
+242,3053,Grolsch Bierbrouwerij,"Vermeulen, Wilhelmus Cornelis Maria",P115138,Bestuurder
+243,3054,British American Tobacco,Bollen,P131610,Bestuurder
+244,3054,British American Tobacco,"Doejaaren, Roderik Pieter",P122595,Bestuurder
+246,3054,British American Tobacco,"Pennings, Robert Hubertus",P129008,Bestuurder
+247,3054,British American Tobacco,"Sommeling, Richard Jelle",P128363,Bestuurder
+248,3062,Deutsche Bank Nederland,"Dornseiffen, Boudewijn Scato",P111678,Bestuurder
+250,3062,Deutsche Bank Nederland,"Medico, Pieternella Enza Jenneke",P100154,Bestuurder
+251,3062,Deutsche Bank Nederland,"Mulder-Mosman, Elisabeth Mathilda",P123877,Bestuurder
+252,3062,Deutsche Bank Nederland,"Raghoebarsing, Vinod Raveendra Kumar",P101843,Bestuurder
+253,3062,Deutsche Bank Nederland,"Reenen, Cornelis Wouter (Kees) van",P116274,Bestuurder
+254,3062,Deutsche Bank Nederland,"Segers, Franciscus Theodorus Gerardus Johannes",P104099,Bestuurder
+255,3062,Deutsche Bank Nederland,"Vermin, Leonardus Petrus Antonius",P103306,Bestuurder
+257,3580,Norit,"Huppertz, Anthonius Philippus Maria",P107620,Bestuurder
+258,3580,Norit,"Knuttel, Maarten",P113419,Bestuurder
+259,3580,Norit,"Kruijff, Rudi",P122096,Bestuurder
+260,3580,Norit,"Leeuwen, Teunis van",P103799,Bestuurder
+261,3580,Norit,"Vos, Roelf",P121631,Bestuurder
+266,3691,ANWB ,"Philippus, Marlene",P114598,Bestuurder
+267,3691,ANWB ,"Tol, Sophia Etha van",P132429,Bestuurder
+268,3691,ANWB ,"Velde, Ebelien Alberta (Eliena) van der",P105378,Bestuurder
+269,3691,ANWB ,"Wanders, Rolandus Jacobus Xaverius",P112920,Bestuurder
+270,3691,ANWB ,"Willemssen, Petronella (Nellie)",P122533,Bestuurder
+271,4071,Douwe Egberts,"Berkestijn, Anne Barbara",P131487,Bestuurder
+272,4071,Douwe Egberts,"Burgers, Leendert",P105939,Bestuurder
+273,4071,Douwe Egberts,"Elsen, Stefan Adriaan Nicolaas",P132369,Bestuurder
+275,4071,Douwe Egberts,"Meerema, Sijtze",P128679,Bestuurder
+276,4071,Douwe Egberts,"Spoorenberg, Emmeke Charlotte Marije",P125783,Bestuurder
+277,4071,Douwe Egberts,"Vink, Menno Gijsbert",P132366,Bestuurder
+278,4257,Roba,"Cohn, Paul Steven",P114881,Bestuurder
+279,4257,Roba,"Doorn, Dirk Everardus van",P122046,Bestuurder
+280,4257,Roba,"Mannee, Maarten Roelof",P114991,Bestuurder
+281,4257,Roba,"Roij, Gerard Albert Willem Marie de",P116330,Bestuurder
+282,4257,Roba,"Spek- Kober, Hanna",P131144,Bestuurder
+283,4257,Roba,"Wiggen, Petrus Cornelis van",P110748,Bestuurder
+284,4306,Kas Bank ,"Buisman, Ronald",P122791,Bestuurder
+285,4306,Kas Bank,"Dieker, Remko Willem",P101609,Bestuurder
+286,4306,Kas Bank,"Jaeger, Leopold Hendrikus Eduardus de",P132120,Bestuurder
+288,4306,Kas Bank,"Stoffels, Mark Rene",P105808,Bestuurder
+289,4306,Kas Bank,"Stuker, Johannes Tamis",P108404,Bestuurder
+290,4306,Kas Bank,"Valk-Noordbruis, Petra",P108409,Bestuurder
+291,4306,Kas Bank,"Voskuilen, Jan",P129886,Bestuurder
+293,4308,ERIKS ,"Heuvel, Hendrik van den",P126720,Bestuurder
+294,4308,ERIKS ,"Koolbergen, Frans",P110372,Bestuurder
+295,4308,ERIKS ,"Varst, van der",P116986,Bestuurder
+296,4308,ERIKS ,"Vollering, Franciscus Adrianus Maria",P114573,Bestuurder
+297,4335,Ford Nederland,"Hartman, Joris Herman",P103893,Bestuurder
+298,4335,Ford Nederland,"Huurne, Gerhardus Antonius Joseph ter",P117186,Bestuurder
+299,4343,Huntsman Rozenburg,"Impens, Anna Cornelia Johanna",P108425,Bestuurder
+300,4343,Huntsman Rozenburg,"Janssen, Martin Raymond",P126294,Bestuurder
+301,4343,Huntsman Rozenburg,Maliepaard,P117872,Bestuurder
+302,4343,Huntsman Rozenburg,"Mol, Niek",P128262,Bestuurder
+303,4343,Huntsman Rozenburg,"Oostveen, Petrus Cornelis",P108429,Bestuurder
+304,4343,Huntsman Rozenburg,"Plaisier, Gerrit",P101077,Bestuurder
+307,4634,Shell (SSPF),"Deiters, Pieter Hendrik Maria",P130483,Bestuurder
+308,4634,Shell (SSPF),"Fermin, Bjorn Alezander",P111521,Bestuurder
+309,4634,Shell (SSPF),"Hes, Caroline Johanna Hendrika",P107913,Bestuurder
+310,4634,Shell (SSPF),"Leer, Bastiaan Cornelis van der",P107855,Bestuurder
+311,4634,Shell (SSPF),"Lemmink, Frank Hendrikus",P132371,Bestuurder
+313,4634,Shell (SSPF),"Luijk, Naboth Cornelis van",P102411,Bestuurder
+314,4634,Shell (SSPF),"Morshuis, Paul Alexander",P125858,Bestuurder
+315,4634,Shell (SSPF),"Tabak, Stefan Rafael",P117936,Bestuurder
+316,4634,Shell (SSPF),"Werner, Erik Svend Ernst",P130484,Bestuurder
+317,4654,Hagee,"Burgh, Kees van der",P113460,Bestuurder
+318,4654,Hagee,"Groningen, Robbert van",P122793,Bestuurder
+320,4654,Hagee,"Korving, Willem",P131444,Bestuurder
+321,4654,Hagee,"Labree, Jacobus Johannes",P100130,Bestuurder
+322,4654,Hagee,"Melchior, Titus",P125559,Bestuurder
+323,4654,Hagee,"Mes, Helene Jacintha Maria",P129069,Bestuurder
+324,4654,Hagee,"Oude Reimer, Marianne Monique",P117722,Bestuurder
+325,4654,Hagee,"Vries, Gerrit de",P113821,Bestuurder
+326,5032,Chevron,"Bierens, Bernardus Augustinus Marie",P100225,Bestuurder
+327,5032,Chevron,"Dongen, Cornelis Wilhelmus Hendrikus van",P114053,Bestuurder
+328,5032,Chevron,"Esseboom, Margaretha",P112415,Bestuurder
+329,5032,Chevron,"Klink, van",P117390,Bestuurder
+330,5032,Chevron,"McNair, Duncan Robert",P116112,Bestuurder
+331,5032,Chevron,"Verlinde, Marcel",P116979,Bestuurder
+332,5087,Cindu International,"Alderlieste, Marco Erwin Pim",P113992,Bestuurder
+333,5087,Cindu International,"Koene, Rudolf Sjoerd",P108507,Bestuurder
+334,5087,Cindu International,"Meijer, W.B.",P118403,Bestuurder
+336,5087,Cindu International,"Santen, Petrus Aloysius Willibrordus",P117505,Bestuurder
+337,5087,Cindu International,"Schroers, Johan Wilhelm Frederik",P114453,Bestuurder
+338,5514,Ballast Nedam,"Berg, Norma van den",P128439,Bestuurder
+339,5514,Ballast Nedam,"Hubeek, Willem Jan Hubert",P104822,Bestuurder
+340,5514,Ballast Nedam,"Kersten, Antonius Petrus Adrianus",P122532,Bestuurder
+341,5514,Ballast Nedam,"Lind, Michel",P122062,Bestuurder
+342,5514,Ballast Nedam,"Sikkema, Susanne Trudie",P132319,Bestuurder
+344,5514,Ballast Nedam,"Voorrips, Jan Hendrik",P114172,Bestuurder
+345,5543,Provisum,"Bergen, Nancy Adriana Leonarda Christina van",P125673,Bestuurder
+347,5543,Provisum,"Bosch, Thomas Michiel van den",P101736,Bestuurder
+348,5543,Provisum,"Brink, Franciscus Antonius Maria ten",P108789,Bestuurder
+349,5543,Provisum,"Deen, Robert",P128730,Bestuurder
+350,5543,Provisum,"Duindam, Josephus Hendricus Maria",P104887,Bestuurder
+351,5543,Provisum,"Engers, Joost Paul Marie van",P108544,Bestuurder
+352,5543,Provisum,"Grizell, Johan Karel Frank",P110646,Bestuurder
+353,5543,Provisum,"Mol, Remco",P125899,Bestuurder
+355,5580,Transport,"Baaij, Johannes Gijsbertus",P126867,Bestuurder
+356,5580,Transport,"Bassant, Marcel Leonardus Joseph",P111150,Bestuurder
+357,5580,Transport,"Benten, Wouter Franciscus van",P125390,Bestuurder
+358,5580,Transport,"Bil, Anton Simon",P126161,Bestuurder
+359,5580,Transport,"Bubenheim, Manfred",P130181,Bestuurder
+360,5580,Transport,"Cudok, Jozef Johannes Antonius",P104891,Bestuurder
+361,5580,Transport,"Molen, Henk van der",P121202,Bestuurder
+362,5580,Transport,"Visser, Josephus Adrianus Bernardus",P126701,Bestuurder
+364,5580,Transport,"Ybema, Bart Gerrit",P129704,Bestuurder
+365,5991,Kaufmann,"Leers, Peter",P118235,Bestuurder
+366,6004,Thales  ,"Bruijn, Dirk Johannes Hendrik de",P113206,Bestuurder
+367,6004,Thales  ,"Dekker, Pieter Marinus",P102678,Bestuurder
+368,6004,Thales  ,"Mulders, Gerardus Johannes",P113136,Bestuurder
+369,6004,Thales  ,"Soepenberg, Jan Hendrik Egbert",P128271,Bestuurder
+370,6004,Thales  ,"Stolp, Emie Rene",P110854,Bestuurder
+371,6004,Thales  ,"Visser, Jozef Gerardus Engelbertus",P113210,Bestuurder
+372,6065,CRH,"Boesjes, Robert Jan",P129969,Bestuurder
+373,6065,CRH,"Brouwer, Frederik Adrianus Johannes",P132431,Bestuurder
+374,6065,CRH,"Herremans, Elis Jelle Sims",P131740,Bestuurder
+375,6065,CRH,"Kok, Rolf Wilhelmus Theadora Henricus de",P105131,Bestuurder
+376,6065,CRH,"Schie, van",P118116,Bestuurder
+377,6085,Ernst & Young,"Appel, Esther Jolanda",P131804,Bestuurder
+378,6085,Ernst & Young,"Besters, Jacob Coen",P122124,Bestuurder
+379,6085,Ernst & Young,"Haring, Elisabeth",P128802,Bestuurder
+381,6085,Ernst & Young,"Koekkoek, Huibert Pieter",P102725,Bestuurder
+382,6085,Ernst & Young,"Ramaekers, Matheus Wilhelmus",P109819,Bestuurder
+383,6085,Ernst & Young,"Wierenga, Eva",P104294,Bestuurder
+384,6102,Mercer,"Beenen, Jelle",P107800,Bestuurder
+385,6102,Mercer,"Bunicich, Bob",P122181,Bestuurder
+386,6102,Mercer,"Geven, Jeroen",P131080,Bestuurder
+387,6102,Mercer,"Heemskerk, Marcus Wilhelmus",P106487,Bestuurder
+388,6102,Mercer,"Luyten, Lucienne Caroline Josephina Maria",P131081,Bestuurder
+390,6172,Stork,"Beus, Dick Johan de",P119233,Bestuurder
+391,6172,Stork,"Bruinsma, Theo Rein",P100341,Bestuurder
+392,6172,Stork,"Damad, Jean Jacques",P110470,Bestuurder
+393,6172,Stork,"Dijk, Roland Antonie Mario van",P125341,Bestuurder
+394,6172,Stork,"Dijkshoorn, Maarten Willem",P119312,Bestuurder
+395,6172,Stork,"Dorp, Willem Frank (Pim) van",P118286,Bestuurder
+396,6172,Stork,"Duijst, Hendrik",P100037,Bestuurder
+397,6172,Stork,"Eikens, Bernardus Johannes Jozeph",P113297,Bestuurder
+398,6172,Stork,"Janssen, Guus",P110583,Bestuurder
+399,6172,Stork,"Plat, Jan Charles",P126550,Bestuurder
+400,6172,Stork,"Thoman, Henri Jacques",P119229,Bestuurder
+401,6172,Stork,"Uijen, Everhardus Anthonius Wilhelmus Maria",P116805,Bestuurder
+402,6184,De Hoop,"Datthijn, Alexander Jacobus Josephus",P126404,Bestuurder
+403,6184,De Hoop,"Feijter, Jacobus de",P117185,Bestuurder
+404,6184,De Hoop,"Kempe, Cornelis",P117318,Bestuurder
+405,6184,De Hoop,"Koning, Martinus Ferdinand Rene de",P106028,Bestuurder
+407,6184,De Hoop,"Remoortere, Paul Albert Eulalie van",P117319,Bestuurder
+408,7044,Hoogovens,"Blok, Hans",P111119,Bestuurder
+409,7044,Hoogovens,"Borst, Jacob Jan",P117816,Bestuurder
+410,7044,Hoogovens,"Candel, Frans",P106035,Bestuurder
+411,7044,Hoogovens,"Haveman, Geert Jan",P120923,Bestuurder
+412,7044,Hoogovens,"Keilman, Gustaaf Jan",P123688,Bestuurder
+413,7044,Hoogovens,"Kiliaan, Juanita",P100838,Bestuurder
+414,7044,Hoogovens,"Littmann, Hubertus Johannes Arnoldus (Hub)",P131322,Bestuurder
+416,7044,Hoogovens,"Neelis, Bastiaan Maarten",P131089,Bestuurder
+417,7044,Hoogovens,"Nielsen, Frants Otto",P128123,Bestuurder
+418,7044,Hoogovens,"Ridder, Johannes Theodorus de",P106036,Bestuurder
+419,7044,Hoogovens,"Verhoef, Rob",P129051,Bestuurder
+420,7065,NIBC,"Jansen, Judith Elisabeth Maria",P131066,Bestuurder
+421,7065,NIBC,"Nagtegaal, Johan Adriaan",P111503,Bestuurder
+423,7065,NIBC,"Rhijn, IJsbrand Sebastianus Maria van",P111133,Bestuurder
+424,7065,NIBC,"Scheer, Frits Jeroen van der",P106618,Bestuurder
+425,7113,ABN AMRO Bank,"Bergen, Vincent Emanuel van",P104734,Bestuurder
+426,7113,ABN AMRO Bank,"Buitenhuis, Paul Alexander",P123507,Bestuurder
+427,7113,ABN AMRO Bank,"Dorssen, Joyce Rafaële Eglantine van",P132267,Bestuurder
+428,7113,ABN AMRO Bank,"Hooglander, Mattijs Rogier",P102745,Bestuurder
+429,7113,ABN AMRO Bank,"Horst, Frans Marcel Robert van der",P124705,Bestuurder
+431,7113,ABN AMRO Bank,"Leegwater, Geertruida Alida Catharina (Geraldine)",P109779,Bestuurder
+432,7113,ABN AMRO Bank,"Pee, Cornelis de",P123708,Bestuurder
+433,7113,ABN AMRO Bank,"Poelgeest, Neoletta",P111551,Bestuurder
+434,7113,ABN AMRO Bank,"Roest, Maarten",P130025,Bestuurder
+435,7113,ABN AMRO Bank,"Roozemond, Christine Elizabeth",P100615,Bestuurder
+436,7113,ABN AMRO Bank,"Westerborg - de Haan, Wilhelmina",P108932,Bestuurder
+437,7158,Heinz,"Bouwman, Wilhelmus Joseph Franciscus Gerardus",P125706,Bestuurder
+438,7158,Heinz,"Hofstra, Marten",P102819,Bestuurder
+439,7158,Heinz,"Janssen, Wim",P112796,Bestuurder
+440,7158,Heinz,"Nieuwenhof, Wilhelmus Petrus Charles van den",P125807,Bestuurder
+442,7158,Heinz,"Veld, Caroline Marianne in 't",P131569,Bestuurder
+443,7777,Cosun,"Dienst, Adriaan Jacobus van",P103794,Bestuurder
+444,7777,Cosun,"Knottnerus, Peter Martijn",P130982,Bestuurder
+446,7777,Cosun,"Pirée, Wynand Pieter Alexander",P110662,Bestuurder
+447,7777,Cosun,"Rheenen, Olaf Andreas van",P106368,Bestuurder
+448,7777,Cosun,"Scheper, Johannes",P129649,Bestuurder
+449,7777,Cosun,"Veldhoven, Peter Wilhelmus Maria van",P106373,Bestuurder
+450,7777,Cosun,"Vriends, Johannes Petrus Marie",P129653,Bestuurder
+451,7777,Cosun,"Werken, Teuni Adriana van de",P127444,Bestuurder
+454,7781,APF,"Brouwer, Hendrik",P128458,Bestuurder
+456,7781,APF,"Jalink, Gustaaf Henri",P130580,Bestuurder
+460,7781,APF,"Vries, Stefanie Marie Louise de",P106879,Bestuurder
+461,7781,APF,"Zee, Hendrikus Cornelis Bernardinus van der",P107282,Bestuurder
+462,7781,APF,"Zuijlen, van",P118673,Bestuurder
+463,7837,Nederlandsche Bank,"Dam, Reinder van",P131959,Bestuurder
+464,7837,Nederlandsche Bank,"Elvers, Eric",P113192,Bestuurder
+467,7837,Nederlandsche Bank,"Hendriks, Dirk",P119806,Bestuurder
+468,7837,Nederlandsche Bank,"Loo, Pieter Dingenis van",P107801,Bestuurder
+471,7837,Nederlandsche Bank,"Tiellemans, Gijsberdina Francisca Theodora",P122698,Bestuurder
+472,7837,Nederlandsche Bank,"Wechem, Laurentius Joannes van",P129642,Bestuurder
+473,7837,Nederlandsche Bank,"Weert, Franciscus Johannes de",P103808,Bestuurder
+474,7837,Nederlandsche Bank,"Westeneind, Paulus Wilhelmus Gijsbertus Franciscus ten",P130523,Bestuurder
+476,7842,Co-op,"Boer, Herman Jacob",P105961,Bestuurder
+478,7842,Co-op,"Grutters, Hendrikus Bernardus Maria",P126993,Bestuurder
+479,7842,Co-op,"Louwhoff, Henricus Antonius",P102835,Bestuurder
+480,7842,Co-op,"Passchier, Nicolaas Johannes",P127508,Bestuurder
+481,7842,Co-op,"Verspuij, Hendrik W.G. (Erik)",P130762,Bestuurder
+482,7842,Co-op,"Wegh, Gerardus Wilhelmus",P118272,Bestuurder
+483,8416,Grontmij,"Betzema, Johan Jacob",P121453,Bestuurder
+484,8416,Grontmij,"Dalen, Niels Josephus Martinus van",P111643,Bestuurder
+485,8416,Grontmij,"Groenevelt, Hendrik Wllem",P110924,Bestuurder
+486,8416,Grontmij,"Reeskamp, Johannes Jacobus",P113792,Bestuurder
+487,8416,Grontmij,"Schoppink, Marius Albert Herman",P111621,Bestuurder
+488,8416,Grontmij,"Snoek, Herman",P110396,Bestuurder
+491,9041,Alliance,"Ende, Danielle van der",P108714,Bestuurder
+492,9041,Alliance,"Griffioen, Gerrit",P131474,Bestuurder
+493,9041,Alliance,"Kamer, Hendrikus Johannes Adrianus van de",P118017,Bestuurder
+494,9041,Alliance,"Klapwijk, Pieter Simon Adriaan",P109257,Bestuurder
+495,9041,Alliance,"Kneipe, Philippe",P127403,Bestuurder
+496,9041,Alliance,"Leenstra, Marinus Giljam",P112495,Bestuurder
+497,9041,Alliance,"Renders, Lucas Maria",P116656,Bestuurder
+498,9041,Alliance,"Schreurs, Michael",P116258,Bestuurder
+499,9873,IFF,"Aa, Franciscus Theodoor van der",P117373,Bestuurder
+500,9873,IFF,"Aarts, Gerardus Peter Cornelis",P114577,Bestuurder
+501,9873,IFF,"Ambergen, Johannes Antonius",P131695,Bestuurder
+503,9873,IFF,"Leijs, Johannes Josephus Cornelis Maria",P114588,Bestuurder
+504,9873,IFF,"Niekus-van Waveren, Hannah Elise",P114711,Bestuurder
+505,9873,IFF,"Walsum, Arnoud van",P127072,Bestuurder
+506,10036,Lanschot,"Feltz-Doude van Troostwijk, Reiniera Frederica van der",P131064,Bestuurder
+507,10036,Lanschot,"Kempen, Hans Adriaan",P106743,Bestuurder
+508,10036,Lanschot,"Rab, Markus Franciscus",P106742,Bestuurder
+509,10036,Lanschot,Verberne,P118810,Bestuurder
+510,10036,Lanschot,"Winkelhuijzen, Wendy",P132197,Bestuurder
+511,10036,Lanschot,"Zeverijn, Willem Sako",P104875,Bestuurder
+515,10541,"Mode-, Interieur-, Tapijt- en Textielindustrie (MITT)","Hasselman, Jan",P102319,Bestuurder
+517,10541,"Mode-, Interieur-, Tapijt- en Textielindustrie (MITT)","Jochems, Josephus Joannes Christianus",P109593,Bestuurder
+518,10541,"Mode-, Interieur-, Tapijt- en Textielindustrie (MITT)","Katerberg, Thie",P118702,Bestuurder
+519,10541,"Mode-, Interieur-, Tapijt- en Textielindustrie (MITT)","Lamers, Gerardus Adrianus Joseph",P102317,Bestuurder
+520,10541,"Mode-, Interieur-, Tapijt- en Textielindustrie (MITT)","Meer, Hendrik Jan van der",P116814,Bestuurder
+521,10541,"Mode-, Interieur-, Tapijt- en Textielindustrie (MITT)","Plat, Jacob",P115773,Bestuurder
+522,10541,"Mode-, Interieur-, Tapijt- en Textielindustrie (MITT)","Raadgever, Leendert Pieter",P120646,Bestuurder
+523,10541,"Mode-, Interieur-, Tapijt- en Textielindustrie (MITT)","Raaijmakers, Martijn",P103710,Bestuurder
+524,10541,"Mode-, Interieur-, Tapijt- en Textielindustrie (MITT)","Spruijt, Johannes Adrianus",P109559,Bestuurder
+526,10541,"Mode-, Interieur-, Tapijt- en Textielindustrie (MITT)","Verstraten, Marcel Cornelius Johannes",P109418,Bestuurder
+527,10542,Metalektro (PME),"Andringa, Marcel René",P128828,Bestuurder
+529,10542,Metalektro (PME),"Brocken, Josephus Petrus Maria",P118093,Bestuurder
+530,10542,Metalektro (PME),"Charro, Rudolphus Franciscus Maria de",P116995,Bestuurder
+531,10542,Metalektro (PME),"Duijst, Hendrik",P100037,Bestuurder
+532,10542,Metalektro (PME),"Kroezen, Hendrik",P115984,Bestuurder
+533,10542,Metalektro (PME),"Nagtegaal, Andries Abert (Dries)",P121999,Bestuurder
+534,10542,Metalektro (PME),"Noordman, Willem Johannes Maria",P120002,Bestuurder
+535,10542,Metalektro (PME),"Raadgever, Leendert Pieter",P120646,Bestuurder
+536,10542,Metalektro (PME),"Simons, Maria Henriëtte Adriana Catharina Joanna",P125955,Bestuurder
+537,10542,Metalektro (PME),"Slikkerveer, Ivo",P111378,Bestuurder
+538,10542,Metalektro (PME),"Til, Gerardus Evernardus Arnoldus van",P126943,Bestuurder
+539,10542,Metalektro (PME),"Uijen, Everhardus Anthonius Wilhelmus Maria",P116805,Bestuurder
+540,10542,Metalektro (PME),"Vlasblom, Wouter",P122854,Bestuurder
+541,10547,Bouwnijverheid,"Bastiaansen, Cornelis Antonius Jozef",P131592,Bestuurder
+542,10547,Bouwnijverheid,"Berke, Leen",P131072,Bestuurder
+543,10547,Bouwnijverheid,"Blomberg, Miranda Alexandra",P108631,Bestuurder
+544,10547,Bouwnijverheid,"Brink, Aart van den",P126862,Bestuurder
+546,10547,Bouwnijverheid,"Heijnen, Antonius Alfred Joseph",P118363,Bestuurder
+548,10547,Bouwnijverheid,"Houwelingen, Willem Johannes van",P129204,Bestuurder
+549,10547,Bouwnijverheid,"Hulshof-Bink, Roeland Erik",P106361,Bestuurder
+550,10547,Bouwnijverheid,"Klein Poelhuis, Henk",P100051,Bestuurder
+551,10547,Bouwnijverheid,"Koomans, Johannes Bernardus",P121971,Bestuurder
+553,10547,Bouwnijverheid,"Raessens, Georges Frederik Maria Bernadette",P121513,Bestuurder
+554,10547,Bouwnijverheid,Rohof,P118506,Bestuurder
+556,10547,Bouwnijverheid,"Scheepens, Louter Cornelis Adriaan",P127429,Bestuurder
+558,10549,"Schilders-, Afwerkings- en Glaszetbedrijf","Berg, A.L.W. van den",P130288,Bestuurder
+560,10549,"Schilders-, Afwerkings- en Glaszetbedrijf","Buller, Adrianus Philippus Maria",P114462,Bestuurder
+562,10549,"Schilders-, Afwerkings- en Glaszetbedrijf","Leisink, Leonardus Carolus Maria",P109450,Bestuurder
+563,10549,"Schilders-, Afwerkings- en Glaszetbedrijf","Loon, Elisabeth Johanna Petronella Maria van",P130842,Bestuurder
+565,10549,"Schilders-, Afwerkings- en Glaszetbedrijf","Roos, Peter Henk",P121065,Bestuurder
+566,10549,"Schilders-, Afwerkings- en Glaszetbedrijf","Rosenberg, Marcus Henricus",P113791,Bestuurder
+569,10549,"Schilders-, Afwerkings- en Glaszetbedrijf","Werf-de Koning, Catharina Maria van der",P100240,Bestuurder
+570,10549,"Schilders-, Afwerkings- en Glaszetbedrijf","Wuijten, Hendrik Jacobus",P109929,Bestuurder
+571,10557,Metaal en Techniek (PMT),"Akkerman, Albert Johannes",P107460,Bestuurder
+572,10557,Metaal en Techniek (PMT),"Balluseck, Felix Sàndor von",P124935,Bestuurder
+573,10557,Metaal en Techniek (PMT),"Berghuis, Jan",P117735,Bestuurder
+574,10557,Metaal en Techniek (PMT),"Brocken, Josephus Petrus Maria",P118093,Bestuurder
+575,10557,Metaal en Techniek (PMT),"Hulsegge, Marcel",P111543,Bestuurder
+576,10557,Metaal en Techniek (PMT),"Keijer, Harm Jan",P120935,Bestuurder
+578,10557,Metaal en Techniek (PMT),"Kortbeek, Michaël",P118905,Bestuurder
+579,10557,Metaal en Techniek (PMT),"Luunen, Hijbert Jacobus van",P116458,Bestuurder
+580,10557,Metaal en Techniek (PMT),"Popta, Klaas Benne van",P121257,Bestuurder
+581,10557,Metaal en Techniek (PMT),"Rhijn, Arie Theodorus van",P100027,Bestuurder
+582,10557,Metaal en Techniek (PMT),"Schouten, Josephus Johannes Petrus",P119670,Bestuurder
+583,10557,Metaal en Techniek (PMT),"Spruijt, Johannes Adrianus",P109559,Bestuurder
+587,10559,Houthandel,"Biezen, Olaf van",P126998,Bestuurder
+588,10559,Houthandel,"Boer, Franciscus Antonius de",P101917,Bestuurder
+590,10559,Houthandel,"Groen, Wirtje Bryce",P120834,Bestuurder
+591,10559,Houthandel,"Leisink, Leonardus Carolus Maria",P109450,Bestuurder
+592,10559,Houthandel,"Meerten, van",P117638,Bestuurder
+594,10559,Houthandel,"Raadgever, Leendert Pieter",P120646,Bestuurder
+596,10560,Sigarenindustrie,"Crijnen, Marcel Herman Jean Marie",P102684,Bestuurder
+597,10560,Sigarenindustrie,"Dassen-Soons, Charlotte",P125385,Bestuurder
+599,10560,Sigarenindustrie,"Gooijer, Cornelis Nicolaas Jan Marco de",P102664,Bestuurder
+601,10560,Sigarenindustrie,"Kaspers, Richard Alphons Johan",P101389,Bestuurder
+602,10560,Sigarenindustrie,"Koudys, George Helmert",P118200,Bestuurder
+605,10560,Sigarenindustrie,"Verheggen, Paul Marie Alphonse Joseph",P117751,Bestuurder
+606,10561,Slagersbedrijf,"Baars, Antonius Johannes Gerardus van",P111936,Bestuurder
+609,10561,Slagersbedrijf,"Daams-van Geijn, Wilhelmina Constantia Maria",P100924,Bestuurder
+610,10561,Slagersbedrijf,"Dik, Roel",P109910,Bestuurder
+611,10561,Slagersbedrijf,"Geurts, Walter Andreas Johannes",P109549,Bestuurder
+612,10561,Slagersbedrijf,"Hoogenboom, Willem Peter",P110347,Bestuurder
+613,10561,Slagersbedrijf,"Keijzer, Johannes Martinus Jacobus Josephus de",P106461,Bestuurder
+614,10561,Slagersbedrijf,"Kessel, Robertus Bernardus Elisatbeth van",P112422,Bestuurder
+616,10561,Slagersbedrijf,"Meer, Hendrik Jan van der",P116814,Bestuurder
+617,10561,Slagersbedrijf,Runderkamp,P120879,Bestuurder
+620,10561,Slagersbedrijf,"Veen, Frans Auke van de",P109116,Bestuurder
+621,10561,Slagersbedrijf,"Vlietman, Robert Wijnand",P126896,Bestuurder
+623,10565,Landbouw,"Crucq, Franciscus Maria",P118199,Bestuurder
+625,10565,Landbouw,"Gertsen, Hendrikus Frederikus Maria",P125123,Bestuurder
+626,10565,Landbouw,"Hakhoff- Daamen, Monique Johanna Antonia Maria",P129212,Bestuurder
+628,10565,Landbouw,"Koudys, George Helmert",P118200,Bestuurder
+629,10565,Landbouw,"Leeuwen, Johannes Wilhelmus Jacobus van",P128794,Bestuurder
+630,10565,Landbouw,"Maris, Jan",P126605,Bestuurder
+631,10565,Landbouw,"Onstwedder, Henk",P108856,Bestuurder
+633,10565,Landbouw,"Rosenberg, Marcus Henricus",P113791,Bestuurder
+635,10565,Landbouw,"Starre, Jacobus Hendrikus",P132288,Bestuurder
+636,10565,Landbouw,"Vulto, Hermanus Theodorus Johannes",P121300,Bestuurder
+638,10682,Bakkersbedrijf,"Borghouts, Stephanus Johannes Henricus",P130670,Bestuurder
+640,10682,Bakkersbedrijf,"Heijden, Petrus Franz Jozef van der",P114607,Bestuurder
+641,10682,Bakkersbedrijf,"Hienen, Adrianus Antonius van",P113091,Bestuurder
+642,10682,Bakkersbedrijf,"Jacobs-Teunissen, Maureen Henrica Anna",P114972,Bestuurder
+643,10682,Bakkersbedrijf,"Kroft, Jeannette Johanna Cornelia van der",P128369,Bestuurder
+644,10682,Bakkersbedrijf,"Lahoye, René Antonius Johannes",P117431,Bestuurder
+646,10682,Bakkersbedrijf,"Mannaert, Peter",P117180,Bestuurder
+648,10682,Bakkersbedrijf,"Straten, Marco Willem van",P104731,Bestuurder
+649,10682,Bakkersbedrijf,"Tromp, Adriaan Christiaan",P127594,Bestuurder
+651,10682,Bakkersbedrijf,"Volkeri, Theodorus Leendert",P118083,Bestuurder
+653,11322,Koopvaardij,"Dam, Marcel Hubert Wilfried van",P128826,Bestuurder
+655,11322,Koopvaardij,"Horst, Peter Gijsbert van der",P127476,Bestuurder
+656,11322,Koopvaardij,"Hulshof-Bink, Roeland Erik",P106361,Bestuurder
+658,11322,Koopvaardij,"Lange, Henriëtte Wilhelmina Laurina Adriana de",P109836,Bestuurder
+659,11322,Koopvaardij,"Lefel, Franciscius Martinus Antonius",P125877,Bestuurder
+661,11322,Koopvaardij,"Sluis, Corstiaan Christina van der",P120603,Bestuurder
+663,11322,Koopvaardij,"Zier, Maarten Warnardus",P119687,Bestuurder
+664,11322,Koopvaardij,"Zimmerman, Antonius Wilhelmus Paulus Marie",P120538,Bestuurder
+666,11492,Telegraaf,"Groot, Hendrik de",P130272,Bestuurder
+667,11492,Telegraaf,"Hoff, Jurriën van den",P107803,Bestuurder
+668,11492,Telegraaf,"Leeuwen, Abraham van",P121627,Bestuurder
+669,11492,Telegraaf,"Meersma, Jeroen Henrik",P132384,Bestuurder
+670,11492,Telegraaf,"Neumann, Nathalie Odette",P128821,Bestuurder
+671,11492,Telegraaf,"Reekers, Arnoldus Jacobus",P129767,Bestuurder
+672,11492,Telegraaf,"Visser-Moos, Monique",P103216,Bestuurder
+675,11756,Schoen en Leder,"Herpen, Harry van",P121077,Bestuurder
+676,11756,Schoen en Leder,"Katerberg, Thie",P118702,Bestuurder
+681,11756,Schoen en Leder,"Wendel, Hans Wilhelm Johannes",P109806,Bestuurder
+683,12212,Meubelindustrie,"Brummel, Jan",P120701,Bestuurder
+684,12212,Meubelindustrie,"Custers, Stephanus Maria Johannes",P121081,Bestuurder
+685,12212,Meubelindustrie,"Dijk, Robertus Gerardus Antonius van",P110522,Bestuurder
+686,12212,Meubelindustrie,"Heijnen, Marinus Theodorus Johannes",P112219,Bestuurder
+687,12212,Meubelindustrie,"Leisink, Leonardus Carolus Maria",P109450,Bestuurder
+688,12212,Meubelindustrie,"Nieuwenhuis, Gerrit Harm",P107924,Bestuurder
+689,12212,Meubelindustrie,"Priester, Peter",P107702,Bestuurder
+690,12212,Meubelindustrie,"Wuijten, Hendrik Jacobus",P109929,Bestuurder
+705,13358,Notariaat,"Bosselaar, Lourens",P100231,Bestuurder
+706,13358,Notariaat,"Gaalen, Mathijs Alexander van",P111553,Bestuurder
+707,13358,Notariaat,"Geest, Klazina Adriana Jacoba van",P121559,Bestuurder
+709,13358,Notariaat,"Hoekstra, Albertus",P117553,Bestuurder
+710,13358,Notariaat,"Loof, Jan Pieter",P116061,Bestuurder
+715,13358,Notariaat,"Werf, Molle Johannes van der",P118445,Bestuurder
+717,13579,Will Niemeijer,"Bolhuis, Jan Peter",P131013,Bestuurder
+718,13579,Will Niemeijer,"Faber, Ynze",P117860,Bestuurder
+719,13579,Will Niemeijer,"Klinken, Marvin Oliver Roman van",P110587,Bestuurder
+721,13579,Will Niemeijer,"Tammens, Eppo",P129062,Bestuurder
+722,13579,Will Niemeijer,"Veen, Gijbert Christiaan van der",P104240,Bestuurder
+723,13579,Will Niemeijer,"Viring, Ronald",P102570,Bestuurder
+725,14089,Grafische Bedrijven (PGB),"Coenradie, Lambertus",P110345,Bestuurder
+727,14089,Grafische Bedrijven (PGB),"Elzerman, Hubertus Adrianus",P120995,Bestuurder
+728,14089,Grafische Bedrijven (PGB),"Haan, Frans de",P118619,Bestuurder
+729,14089,Grafische Bedrijven (PGB),"Heerkens, Robertus Wilhelmus Jozef",P116851,Bestuurder
+730,14089,Grafische Bedrijven (PGB),Jansen,P116441,Bestuurder
+731,14089,Grafische Bedrijven (PGB),"Kapteijn-Fokkens, Hendrikje",P113512,Bestuurder
+734,14089,Grafische Bedrijven (PGB),"Verplancke, Arnoldus Maria",P120569,Bestuurder
+736,14089,Grafische Bedrijven (PGB),"Vollebergh, Thomas Jacobus Franciscus",P130676,Bestuurder
+737,14089,Grafische Bedrijven (PGB),"Wilson, Peggy Mildred Beatrice (Peggy)",P101071,Bestuurder
+738,14311,Vleesindustrie,"Beek, Jan van",P120395,Bestuurder
+739,14311,Vleesindustrie,"Dobbelaar, Paul Joseph Maria",P110376,Bestuurder
+740,14311,Vleesindustrie,"Driessen, Christiaan Clement Hubertus Johannes",P114891,Bestuurder
+742,14311,Vleesindustrie,"Kruijk, Richard Peter van der",P129562,Bestuurder
+743,14311,Vleesindustrie,"Muusers, Daniel Hendrikus Maria",P128040,Bestuurder
+744,14311,Vleesindustrie,"Odink, Berend Jan",P101545,Bestuurder
+746,14311,Vleesindustrie,"Ploeg, Roelf Kornelis van der",P131265,Bestuurder
+747,14311,Vleesindustrie,"Post, Barthold Jacob",P116576,Bestuurder
+749,14311,Vleesindustrie,"Trepels, Johannes Petrus Gerardus Marie (Johan)",P112316,Bestuurder
+751,14311,Vleesindustrie,"Vesseur, Petrus Christoffel",P115661,Bestuurder
+752,14311,Vleesindustrie,"Wevers, Jan Willem",P118800,Bestuurder
+753,14311,Vleesindustrie,"Wichems, Gerrit Jan (Geke)",P115940,Bestuurder
+754,14400,Waterbouw,"Beusekom, Marsha van",P100324,Bestuurder
+755,14400,Waterbouw,"Brink, Aart van den",P126862,Bestuurder
+758,14400,Waterbouw,"Haaster, Theodorus Johannes Maria van",P116713,Bestuurder
+760,14400,Waterbouw,"Jong, Huibert de",P115049,Bestuurder
+761,14400,Waterbouw,"Kamps, Johannes Hendrikus",P120263,Bestuurder
+764,14400,Waterbouw,"Strang, Henk-Jan Paul",P130965,Bestuurder
+766,14682,Honeywell,"Falier, Marco Jozef Martinus van",P121388,Bestuurder
+767,14682,Honeywell,"Huigen, Johannes",P116104,Bestuurder
+768,14682,Honeywell,"Oetelaar, Franciscus Henricus Maria van den",P105662,Bestuurder
+769,14682,Honeywell,"Voort-Bergman, Cindy van der",P104491,Bestuurder
+770,14682,Honeywell,"Vries, Jan de",P101427,Bestuurder
+771,15133,Betonproducten,"Blom, Johannes Cornelis",P101878,Bestuurder
+772,15133,Betonproducten,"Borghouts, Stephanus Johannes Henricus",P130670,Bestuurder
+773,15133,Betonproducten,"Bruns, Laura Leonore",P100741,Bestuurder
+774,15133,Betonproducten,"Folkers, Yvonne",P100271,Bestuurder
+775,15133,Betonproducten,"Jorna, André",P101070,Bestuurder
+777,15133,Betonproducten,"Peijl, Govert Willem van der",P118573,Bestuurder
+782,15133,Betonproducten,"Slob, Dirk Pieter",P109148,Bestuurder
+783,15133,Betonproducten,"Wuijten, Hendrik Jacobus",P109929,Bestuurder
+784,15565,Medewerkers Apotheken,"Bal, Andreas Albertus",P120348,Bestuurder
+785,15565,Medewerkers Apotheken,"Basten Batenburg, Joris Hubertus Marie van",P105314,Bestuurder
+787,15565,Medewerkers Apotheken,"Boon, Johannes Paulus Cornelis Ireneus",P107537,Bestuurder
+788,15565,Medewerkers Apotheken,"Eeken, Johannes Petrus",P117696,Bestuurder
+789,15565,Medewerkers Apotheken,"Hagenzieker, Mark Anton",P120550,Bestuurder
+790,15565,Medewerkers Apotheken,Hertroys,P116565,Bestuurder
+791,15565,Medewerkers Apotheken,"Huizenga, Jurrien Gerrit",P116799,Bestuurder
+792,15565,Medewerkers Apotheken,"Jong, Jan Janse de",P107260,Bestuurder
+794,15565,Medewerkers Apotheken,"Lunsingh, Rudolf Eduard",P131517,Bestuurder
+795,15565,Medewerkers Apotheken,"Meenink-Bouwman, Raymond",P127030,Bestuurder
+796,15565,Medewerkers Apotheken,"Smals, Bart Max Geert",P115817,Bestuurder
+798,15565,Medewerkers Apotheken,"Teitsma, Tonny",P105048,Bestuurder
+799,15565,Medewerkers Apotheken,"Veenhuizen, Johan Paulus",P126378,Bestuurder
+800,15565,Medewerkers Apotheken,"Wijst, Antonius Henricus Lambertus van der",P127446,Bestuurder
+802,15629,Houtverwerkende industrie,"Blomberg, Miranda Alexandra",P108631,Bestuurder
+803,15629,Houtverwerkende industrie,"Ceelaert, Alphonsus Josephus Maria",P118725,Bestuurder
+805,15629,Houtverwerkende industrie,"Faber, Frank Frederik",P104588,Bestuurder
+806,15629,Houtverwerkende industrie,"Heuvel, Jan Jeroen van den",P129771,Bestuurder
+807,15629,Houtverwerkende industrie,"Houwelingen, Willem Johannes van",P129204,Bestuurder
+811,15629,Houtverwerkende industrie,"Roeten, Harm",P121190,Bestuurder
+812,15629,Houtverwerkende industrie,Schuil,P102685,Bestuurder
+815,16458,Bouwmaterialen,"Beer, Franciscus Johannes Maria de",P130928,Bestuurder
+817,16458,Bouwmaterialen,"Heiningen, Gerardus Petrus Theodorus van",P132276,Bestuurder
+820,16458,Bouwmaterialen,"Maden-van der Ploeg, Sandra van der",P103024,Bestuurder
+821,16458,Bouwmaterialen,"Schoon, Hendrikus Johannes Julius",P120168,Bestuurder
+822,16458,Bouwmaterialen,"Slingerland, Arrian Niels",P111682,Bestuurder
+823,16458,Bouwmaterialen,"Vaes, Mathieu Johannes Josephus",P130927,Bestuurder
+824,16458,Bouwmaterialen,"Vijver, Marc Patrick",P113095,Bestuurder
+827,16534,Architectenbureaus,"Dekkers, Gerrit Frederik",P111696,Bestuurder
+829,16534,Architectenbureaus,"Hees, Gerardus Johannes Andreas van",P120221,Bestuurder
+830,16534,Architectenbureaus,"Heuts, Wilhelmus Guillaume",P116355,Bestuurder
+831,16534,Architectenbureaus,"Nagtegaal, Robert George",P120788,Bestuurder
+834,16534,Architectenbureaus,"Schuijt, Hendrik",P107719,Bestuurder
+835,16534,Architectenbureaus,"Slikkerveer, Ivo",P111378,Bestuurder
+836,16534,Architectenbureaus,"Vaan, Hendrikus Wilhelmus Theodorus de",P118043,Bestuurder
+837,16534,Architectenbureaus,"Vledder, Roeland Henricus Adrianus van",P126806,Bestuurder
+838,16761,Delta Lloyd,"Alphen, Hieronymus Marinus Bouke (Joeri) van",P126849,Bestuurder
+839,16761,Delta Lloyd,"Galesloot-Vaal, Elisabeth Wilhelmina (Liesbeth)",P108787,Bestuurder
+840,16761,Delta Lloyd,"Geboers, Herma Arnolda Norbertina",P117254,Bestuurder
+842,16761,Delta Lloyd,"Rooijen, Gerardus Johannes van",P104658,Bestuurder
+843,16761,Delta Lloyd,"Roos, Thomas Jan Matthijs",P123933,Bestuurder
+844,16761,Delta Lloyd,"Roos, Thomas Jan Matthijs",P123933,Bestuurder
+845,17571,Vlakglas Verf,"Borm, Josephus Adrianus Johannes Maria",P121243,Bestuurder
+846,17571,Vlakglas Verf,"Janssen, Johannes Petrus Maria (Piet)",P101873,Bestuurder
+847,17571,Vlakglas Verf,"Kiffen, Aleidus Albertus",P119751,Bestuurder
+848,17571,Vlakglas Verf,"Leeuwen, Antje van",P132229,Bestuurder
+849,17571,Vlakglas Verf,"Lundgren, Elina Victoria",P127244,Bestuurder
+850,17571,Vlakglas Verf,"Lustgraaf, Evert Eduard",P116584,Bestuurder
+856,17571,Vlakglas Verf,"Vlietman, Robert Wijnand",P126896,Bestuurder
+857,17687,Bibliotheken,"Grootendorst, Eldert Cornelis",P117577,Bestuurder
+861,17687,Bibliotheken,"Oosterink, Willem Roelof",P123687,Bestuurder
+862,17687,Bibliotheken,"Pronk, Robert Johannes",P107323,Bestuurder
+863,17687,Bibliotheken,"Ruiter, Gerrit de",P107495,Bestuurder
+865,17687,Bibliotheken,"Yagoubi, Hanan",P107947,Bestuurder
+866,18397,Molenaars,"Altundal, Nurettin",P110134,Bestuurder
+867,18397,Molenaars,"Benthem, Evert van",P130227,Bestuurder
+868,18397,Molenaars,"Booij, Broer",P111840,Bestuurder
+869,18397,Molenaars,"Haegens, Antonius Johannes Hubertus Mathijs",P109634,Bestuurder
+870,18397,Molenaars,"Koudys, George Helmert",P118200,Bestuurder
+874,18397,Molenaars,"Weele, Helena Corinne van",P113285,Bestuurder
+877,20117,Rijn- en Binnenvaart,"Blokzijl, Cornelis Hubertus",P100016,Bestuurder
+878,20117,Rijn- en Binnenvaart,"d'Hooghe, Jean-Louis Aloijs Maria",P129371,Bestuurder
+879,20117,Rijn- en Binnenvaart,"Egmond, Johannes Theodorus van",P102734,Bestuurder
+880,20117,Rijn- en Binnenvaart,"Hylkema, Hijlke Johan Augustinus Hubertus",P115315,Bestuurder
+881,20117,Rijn- en Binnenvaart,"Kester, Gerardus Karel Maria",P105648,Bestuurder
+882,20117,Rijn- en Binnenvaart,"Knaap, Hans Daniel van der",P120662,Bestuurder
+883,20117,Rijn- en Binnenvaart,"Koning, Michiel Jacobus Martinus",P116527,Bestuurder
+884,20117,Rijn- en Binnenvaart,"Meulmeester, Leenderd Johannes",P127210,Bestuurder
+887,20117,Rijn- en Binnenvaart,"Vlietman, Robert Wijnand",P126896,Bestuurder
+888,20117,Rijn- en Binnenvaart,"Vogelaar, Jan",P105645,Bestuurder
+889,20117,Rijn- en Binnenvaart,"Vos, Michael",P111848,Bestuurder
+890,20117,Rijn- en Binnenvaart,"Zwan, Arend van der",P118630,Bestuurder
+891,20118,Woningcorporaties,"Blomberg, Miranda Alexandra",P108631,Bestuurder
+892,20118,Woningcorporaties,"Brink, Aart van den",P126862,Bestuurder
+894,20118,Woningcorporaties,"Debrauwer, Hubertus Jasper Jozef",P115977,Bestuurder
+896,20118,Woningcorporaties,"Kestens, Johannes Christoffel Antonius",P119873,Bestuurder
+897,20118,Woningcorporaties,"Raaijmakers, Martijn",P103710,Bestuurder
+898,20118,Woningcorporaties,"Rosenberg, Marcus Henricus",P113791,Bestuurder
+900,20118,Woningcorporaties,"Sluis, Corstiaan Christina van der",P120603,Bestuurder
+904,20269,Atradius,"Harten, Miranda van",P109218,Bestuurder
+905,20269,Atradius,"Klouth, Robert Charles",P129490,Bestuurder
+906,20269,Atradius,"Nibbering, Richard",P122662,Bestuurder
+907,20269,Atradius,"Roelands-Pol, Frederika Geertruida",P129479,Bestuurder
+908,20269,Atradius,"Sung, June Doe (Jack)",P101019,Bestuurder
+909,20875,Aon Groep Nederland,"Beld, Fredrikus Jacobus Hendrikus Josephus van den",P108528,Bestuurder
+910,20875,Aon Groep Nederland,"Buijzen, Maurice John Henri Marie",P101998,Bestuurder
+911,20875,Aon Groep Nederland,"Langenberg, Leonardus Johannes",P113993,Bestuurder
+912,20875,Aon Groep Nederland,"Mandos, René Johannes",P113498,Bestuurder
+913,20875,Aon Groep Nederland,"Nuninga, Ivo Martin",P108362,Bestuurder
+914,20875,Aon Groep Nederland,"Schagen, Petrus Wilhelmus van",P126178,Bestuurder
+915,20875,Aon Groep Nederland,"Wekking, Theodora Elisabeth Maria",P126372,Bestuurder
+916,22742,Nielsen AC,"Deij, Marc Joseph",P100046,Bestuurder
+918,22742,Nielsen AC,"Mensing, Willem Cornelis Johannes Jozef",P105525,Bestuurder
+919,22742,Nielsen AC,"Vos, Jacob de",P106027,Bestuurder
+920,23361,Zorgverzekeraars,"Brink, Johannes Gerardus Adrianus van den",P121406,Bestuurder
+921,23361,Zorgverzekeraars,"Feltz-Doude van Troostwijk, Reiniera Frederica van der",P131064,Bestuurder
+922,23361,Zorgverzekeraars,"Groot, Sjerk Arjen de",P129602,Bestuurder
+923,23361,Zorgverzekeraars,"Hees, Ronald Maria van",P124636,Bestuurder
+924,23361,Zorgverzekeraars,"Hol, Franciscus Aloysius Gemma",P120138,Bestuurder
+925,23361,Zorgverzekeraars,"Koomans, Johannes Bernardus",P121971,Bestuurder
+926,23361,Zorgverzekeraars,"Limberger, Hinderikus Harmannus B",P102089,Bestuurder
+927,23361,Zorgverzekeraars,"Veldt, Otto",P111603,Bestuurder
+928,23361,Zorgverzekeraars,"Wilson, Peggy Mildred Beatrice (Peggy)",P101071,Bestuurder
+930,30355,Drankindustrie,"Bergervoet, Jacqueline Aleida Maria",P121377,Bestuurder
+933,30355,Drankindustrie,"Eggen, Johannes Wilhelmus",P122708,Bestuurder
+934,30355,Drankindustrie,"Emmen, Alouisius Jacobus Hermen Jozef",P108384,Bestuurder
+935,30355,Drankindustrie,"Gianotten, Raymond Josephus Maria",P101882,Bestuurder
+936,30355,Drankindustrie,"Hamminga, Christiaan Theodoor",P101695,Bestuurder
+937,30355,Drankindustrie,"Kerkmeester, Marcel Bertil",P107190,Bestuurder
+938,30355,Drankindustrie,"Lahoye, René Antonius Johannes",P117431,Bestuurder
+939,30355,Drankindustrie,"Munniks, Robert René",P101661,Bestuurder
+940,30355,Drankindustrie,"Rijken, Hendrikus",P130953,Bestuurder
+941,30355,Drankindustrie,"Steijaert, Andre August Marie",P102090,Bestuurder
+943,30355,Drankindustrie,Voogt,P117060,Bestuurder
+945,32181,Schoenmakerij,"Dalen, Cornelis van",P116828,Bestuurder
+947,32181,Schoenmakerij,"Dik, Roel",P109910,Bestuurder
+948,32181,Schoenmakerij,"Elferink, Franciscus Henricus Maria",P118423,Bestuurder
+950,32181,Schoenmakerij,"Katerberg, Thie",P118702,Bestuurder
+951,32181,Schoenmakerij,"Kock, Lenie de",P129496,Bestuurder
+952,32181,Schoenmakerij,"Lubbi, Margaretha Wilhelmina",P131958,Bestuurder
+957,32436,Zoetwarenindustrie,"Graaff, Jozina Andrea Willy de",P111716,Bestuurder
+958,32436,Zoetwarenindustrie,"Groen, Jan",P113677,Bestuurder
+959,32436,Zoetwarenindustrie,"Hendriks, Jos",P116578,Bestuurder
+960,32436,Zoetwarenindustrie,"Hermans, Hans Eric",P130621,Bestuurder
+964,32436,Zoetwarenindustrie,"Lahoye, René Antonius Johannes",P117431,Bestuurder
+966,32436,Zoetwarenindustrie,"Schuurhuis, Evert",P131169,Bestuurder
+967,32436,Zoetwarenindustrie,"Spruijt, Johannes Adrianus",P109559,Bestuurder
+968,32489,TOTAL,"Baras, Nathalie Albine Julie",P108879,Bestuurder
+969,32489,TOTAL,"Boonman, Raoul Stéphane Georges",P118879,Bestuurder
+970,32489,TOTAL,"Dorsten, Derk van",P113655,Bestuurder
+971,32489,TOTAL,"Lievense, Wim Paul",P103489,Bestuurder
+973,32489,TOTAL,"Rinkel-Peeters, Tamara",P114908,Bestuurder
+975,32489,TOTAL,"Smits- Enters, Petra Hendrika Abigael",P130947,Bestuurder
+976,32595,Textielverzorging,"Duijvestijn, Leonardus Paulus Maria",P127859,Bestuurder
+977,32595,Textielverzorging,"Hetem, Michael Antonius Johannes",P104583,Bestuurder
+980,32595,Textielverzorging,"Wennekes, Petrus Nicolaus Maria",P115109,Bestuurder
+981,32595,Textielverzorging,"Zwijnenburg, Ronald",P110130,Bestuurder
+983,32868,Horeca,"Claes, Mathieu Hendrik Jozef",P107897,Bestuurder
+984,32868,Horeca,"Ekelenburg, Cornelis Arie van",P109348,Bestuurder
+987,32868,Horeca,"Jansen, Franciscus Bernardus Petrus (Frank)",P112684,Bestuurder
+988,32868,Horeca,"Markus, Martinus Joseph Maria",P116612,Bestuurder
+990,32868,Horeca,"Schmidt, Aloysius Jozef Marie",P130914,Bestuurder
+991,32868,Horeca,"Straten, Marco Willem van",P104731,Bestuurder
+992,32868,Horeca,"Veltkamp, Johannes Danïel Wilhelm",P107458,Bestuurder
+994,32868,Horeca,"Wit, Harry de",P112557,Bestuurder
+995,33519,Beroepsvervoer,"Ballegooijen, Martijn van",P125391,Bestuurder
+997,33519,Beroepsvervoer,"Blom- de Ruiter, Catharina Johanna",P129871,Bestuurder
+999,33519,Beroepsvervoer,"Busser, Cornelis",P117183,Bestuurder
+1003,33519,Beroepsvervoer,"Jansen, Leonne Fransisca Aleida Maria",P127257,Bestuurder
+1004,33519,Beroepsvervoer,"Kievit, Pieter Willem",P113817,Bestuurder
+1005,33519,Beroepsvervoer,"Kraaijenoord-Willems, Saskia",P121074,Bestuurder
+1006,33519,Beroepsvervoer,"Kusters, Wybren",P117909,Bestuurder
+1007,33519,Beroepsvervoer,"Stokman, Jacobus Jozef",P118902,Bestuurder
+1009,33708,Kunststof- en Rubber,"Bulten, Chantal Francina Johanna",P130709,Bestuurder
+1010,33708,Kunststof- en Rubber,"Fraterman, Albert",P107717,Bestuurder
+1011,33708,Kunststof- en Rubber,"Gele, Carl Ivan van",P126071,Bestuurder
+1013,33708,Kunststof- en Rubber,"Kort, e/v Kleinpenning, Margo Henrique De",P105881,Bestuurder
+1014,33708,Kunststof- en Rubber,"Roeten, Harm",P121190,Bestuurder
+1015,33708,Kunststof- en Rubber,"Verkleij, Johannes Antonius Maria (Hans)",P126785,Bestuurder
+1016,34124,Hunter Douglas,"Hoek, Willem Bastiaan van der",P113283,Bestuurder
+1017,34124,Hunter Douglas,"Koning, Eildert",P121332,Bestuurder
+1019,34124,Hunter Douglas,"Nusteling, Richard Hyginus Antonius",P118062,Bestuurder
+1020,34124,Hunter Douglas,"Slingerland, Clemens Maria Antonius van",P106274,Bestuurder
+1023,34561,Levensmiddelen Groothandel,"Griffioen, Jelle",P131222,Bestuurder
+1024,34561,Levensmiddelen Groothandel,"Heineman, Boudewijn Pieter",P112058,Bestuurder
+1026,34561,Levensmiddelen Groothandel,"Kok, Berend Otto",P103010,Bestuurder
+1027,34561,Levensmiddelen Groothandel,"Krah, Maurice Elisabeth",P109914,Bestuurder
+1028,34561,Levensmiddelen Groothandel,"Raaijmakers, Martijn",P103710,Bestuurder
+1030,34561,Levensmiddelen Groothandel,"Wegh, Gerardus Wilhelmus",P118272,Bestuurder
+1032,34780,Mars,"Faassen, Hendricus Leonardus Petrus",P120250,Bestuurder
+1034,34780,Mars,"Laar, Wilhelmus Gerardus Johannes Maria van de",P118119,Bestuurder
+1035,34780,Mars,"Lith, Jacobus Adrianus Josephus Maria van",P118117,Bestuurder
+1036,34780,Mars,"Mars, Marjolein de",P108990,Bestuurder
+1037,34780,Mars,"Poliquin, Anne Maria",P107478,Bestuurder
+1039,36105,Gasunie,"Herder, Adriaan Jan den",P132150,Bestuurder
+1040,36105,Gasunie,"Hermes, Janneke",P103486,Bestuurder
+1041,36105,Gasunie,"Jong-Nonner, Anna de",P102889,Bestuurder
+1043,36105,Gasunie,"Kwast, Peter Lodewijk",P113370,Bestuurder
+1044,36105,Gasunie,"Oudejans, Ireneus Maria",P110766,Bestuurder
+1046,36105,Gasunie,"Snijder, René",P130675,Bestuurder
+1047,36105,Gasunie,"Wilde, Maurice Woutherus Johannes de",P130699,Bestuurder
+1048,36548,Verzicht,"Verboon, Hans Hendrik",P117779,Bestuurder
+1049,36548,Verzicht,"Weers, van",P117777,Bestuurder
+1050,36722,Agrarische,"Bergervoet, Jacqueline Aleida Maria",P121377,Bestuurder
+1051,36722,Agrarische,"Boersma, Onno Folkert",P109372,Bestuurder
+1052,36722,Agrarische,"Brekel, Timotheus Johannes Clemens van den",P103637,Bestuurder
+1053,36722,Agrarische,"Bugdayci-Karatas, Fatma",P123673,Bestuurder
+1055,36722,Agrarische,"Dekkers, Gerrit Frederik",P111696,Bestuurder
+1056,36722,Agrarische,"Folkers, Yvonne",P100271,Bestuurder
+1058,36722,Agrarische,"Hess, Arjan Max",P109088,Bestuurder
+1059,36722,Agrarische,"Lonsain, Christian",P102997,Bestuurder
+1060,36722,Agrarische,"Meijer, Nico",P117576,Bestuurder
+1062,36722,Agrarische,"Molenaar, Henk",P126987,Bestuurder
+1063,36722,Agrarische,"Muusers, Daniel Hendrikus Maria",P128040,Bestuurder
+1064,36722,Agrarische,"Peeters, Ruben Cornelis Robertus Marie",P117888,Bestuurder
+1066,36722,Agrarische,"Vellenga, Harry Jacob",P123008,Bestuurder
+1067,36722,Agrarische,Welschen,P116869,Bestuurder
+1068,36722,Agrarische,"Zuiderwijk, Petrus Leonardus Maria",P109367,Bestuurder
+1069,36945,Zeevisserij,"Ansink, Collin",P116490,Bestuurder
+1070,36945,Zeevisserij,"Blonk, Cornelis",P121487,Bestuurder
+1071,36945,Zeevisserij,"Brink, Aart van den",P126862,Bestuurder
+1072,36945,Zeevisserij,"Hylkema, Hijlke Johan Augustinus Hubertus",P115315,Bestuurder
+1073,36945,Zeevisserij,"Jansen, Joseph Antoon Marie",P113809,Bestuurder
+1074,36945,Zeevisserij,"Jong, Thomas de",P117300,Bestuurder
+1075,36945,Zeevisserij,"Kremers-de Col, Martha",P129507,Bestuurder
+1077,37247,Rabobank,"Ariaans, Misha Alan Serge",P127236,Bestuurder
+1078,37247,Rabobank,"Brendel, Eric Gerard",P101094,Bestuurder
+1080,37247,Rabobank,"Damen-Evers, Cornelia Adriana Thérèse",P130988,Bestuurder
+1081,37247,Rabobank,"Heikoop, Martinus",P103626,Bestuurder
+1082,37247,Rabobank,"Hoon, Antonius Bernardus Johannes Marie de",P120173,Bestuurder
+1083,37247,Rabobank,"Roman, Berend",P110712,Bestuurder
+1084,37247,Rabobank,"Verbugt, Petronella Johanna Leonarda",P110836,Bestuurder
+1085,37247,Rabobank,"Winterink, Johannes Albertus Willem",P132141,Bestuurder
+1086,37678,Accountancy,"Arkel-Rijbroek, Anne Marike van",P128874,Bestuurder
+1087,37678,Accountancy,"Frijlink, Paul",P115331,Bestuurder
+1088,37678,Accountancy,"Goense, Cornelis Petrus Rudolf",P132076,Bestuurder
+1089,37678,Accountancy,"Kompagnie, Harm (Harry)",P131296,Bestuurder
+1090,37678,Accountancy,"Nijkamp, Hendrik Gerard",P118679,Bestuurder
+1091,37678,Accountancy,"Raaijmakers, Johannes Jacobus Maria",P126441,Bestuurder
+1092,37678,Accountancy,"Rebel, Gerbert",P107327,Bestuurder
+1093,37678,Accountancy,"Vermeulen, Paulus Maria Silvester",P118678,Bestuurder
+1094,37678,Accountancy,"Vermin, Martinus Antonius Francisus",P126434,Bestuurder
+1095,37681,Forbo,"Bults, Marcel Adriaan",P104038,Bestuurder
+1096,37681,Forbo,"Keetlaer, Anthonus Dignus",P112063,Bestuurder
+1097,37681,Forbo,"Koning, Marjolein",P111063,Bestuurder
+1099,37681,Forbo,Mol,P118012,Bestuurder
+1100,37681,Forbo,Soppe,P121371,Bestuurder
+1101,37681,Forbo,"Uitvlugt - Manné, Danielle",P128555,Bestuurder
+1102,37681,Forbo,"Verbakel, Adrianus Johannes",P109781,Bestuurder
+1103,39775,Hewitt Nederland,"Beusekom, Marsha van",P100324,Bestuurder
+1104,39775,Hewitt Nederland,"Grashoff, Martin",P114871,Bestuurder
+1106,39775,Hewitt Nederland,"Janssen, Gerardus Johannes Hendrikus",P112203,Bestuurder
+1108,41098,Citigroup,"Deetman, Egbert Jacob",P113814,Bestuurder
+1109,41098,Citigroup,"Folmer, Bob Antonius Gerardus",P106785,Bestuurder
+1110,41098,Citigroup,"Nord, Jan-Olov",P118723,Bestuurder
+1111,41098,Citigroup,"Rooijen, A.B.J. van",P124925,Bestuurder
+1112,41098,Citigroup,"Vos, Dietert Harm",P112351,Bestuurder
+1113,41098,Citigroup,"Zeguers, Floor Daphne",P111956,Bestuurder
+1114,42049,Groothandel,"Brak, Hans Jan Anthonie",P115111,Bestuurder
+1115,42049,Groothandel,"Brink, Johannes Gerardus Adrianus van den",P121406,Bestuurder
+1116,42049,Groothandel,"Filippini, Cornelis, Hubertus, Lucien Maria",P106398,Bestuurder
+1119,42049,Groothandel,"Lonsain, Christian",P102997,Bestuurder
+1120,42049,Groothandel,"Marchée, MauriceEduard Theodoor",P122413,Bestuurder
+1123,42049,Groothandel,"Steijaert, Andre August Marie",P102090,Bestuurder
+1125,42467,Levensmiddelen,"Filippini, Cornelis, Hubertus, Lucien Maria",P106398,Bestuurder
+1126,42467,Levensmiddelen,"Grutters, Hendrikus Bernardus Maria",P126993,Bestuurder
+1128,42467,Levensmiddelen,"Hoogstraaten, Patricia Elza Hillegonda",P118163,Bestuurder
+1129,42467,Levensmiddelen,"Houwelingen, Willem Johannes van",P129204,Bestuurder
+1130,42467,Levensmiddelen,"Kat, Jan",P116277,Bestuurder
+1131,42467,Levensmiddelen,"Muusers, Daniel Hendrikus Maria",P128040,Bestuurder
+1132,42467,Levensmiddelen,"Seffinga, Jan Gerrit",P105438,Bestuurder
+1133,42467,Levensmiddelen,"Sloot-Mulder, Frouwke",P131172,Bestuurder
+1135,42467,Levensmiddelen,"Verhoog, Pieter Jan",P118158,Bestuurder
+1138,42469,Tandtechniek,"Heijn, Ronaldus Adrianus Leonardus",P104092,Bestuurder
+1139,42469,Tandtechniek,"Meer, Hendrik Jan van der",P116814,Bestuurder
+1141,42469,Tandtechniek,"Peters, Pepijn Hubert Willem Maarten",P116910,Bestuurder
+1142,42469,Tandtechniek,"Poorthuis, Franciscus Marinus Maria",P130402,Bestuurder
+1144,42469,Tandtechniek,"Riet, Clemens Maria Adrianus van",P125476,Bestuurder
+1145,42469,Tandtechniek,"Roeten, Harm",P121190,Bestuurder
+1146,42469,Tandtechniek,"Smits, Rudolf Wilhelmus Maria",P108643,Bestuurder
+1147,42569,Deloitte,"Hendriks, Johannes Cornelis Maria",P118085,Bestuurder
+1148,42569,Deloitte,"Hoeven, Ralph Leonhard ter",P131364,Bestuurder
+1149,42569,Deloitte,"Hoorn, Louis Marie Henri Joseph van",P103742,Bestuurder
+1150,42569,Deloitte,"Laan, Irene Maria",P123623,Bestuurder
+1151,42569,Deloitte,"Luijk, Marc van",P123679,Bestuurder
+1153,42569,Deloitte,"Zijlman, Reint Jan",P116605,Bestuurder
+1154,42937,Schoonmaak- en Glazenwassers,"Kwakkelstein, Cornelia Hendrina Liduina (Elly)",P103169,Bestuurder
+1155,42937,Schoonmaak- en Glazenwassers,"Muusers, Daniel Hendrikus Maria",P128040,Bestuurder
+1157,42937,Schoonmaak- en Glazenwassers,"Roeten, Harm",P121190,Bestuurder
+1158,42937,Schoonmaak- en Glazenwassers,"Schets, Theresia Fransisca Maria",P116948,Bestuurder
+1159,42937,Schoonmaak- en Glazenwassers,"Simons, Evelyne Andrea",P116134,Bestuurder
+1160,42937,Schoonmaak- en Glazenwassers,"Sprenkels, Rudolfus Hubertus",P121961,Bestuurder
+1161,42937,Schoonmaak- en Glazenwassers,"Vermeulen, Gijsbrecht Ferdinand",P103768,Bestuurder
+1162,42937,Schoonmaak- en Glazenwassers,"Weiler-van Hartingsveldt, Esther von",P128825,Bestuurder
+1163,43756,OWASE,"Brookhuis, Rene",P111833,Bestuurder
+1164,43756,OWASE,"Dries, Harm",P120172,Bestuurder
+1165,43756,OWASE,"Elst, Alex Jan van den",P103171,Bestuurder
+1166,43756,OWASE,"Floor, Jan Willem",P128299,Bestuurder
+1168,43756,OWASE,"Stoffelsma, Jan Uilke",P111839,Bestuurder
+1169,43756,OWASE,"Terhalle, Jasper Gert Antors",P130622,Bestuurder
+1170,44057,Randstad,"Gianotten, Bart Jeroen",P105317,Bestuurder
+1171,44057,Randstad,"Hopmans, Antonius Johannes",P111717,Bestuurder
+1172,44057,Randstad,"Kitslaar, Wilhelmus Franciscus Johannes Maria",P118758,Bestuurder
+1174,44057,Randstad,"Overeijnder-Schalker, Solange Monique",P104267,Bestuurder
+1175,44057,Randstad,"Poort, Mark",P114777,Bestuurder
+1176,44057,Randstad,"Ruiter, Albertus Johannes Cornelis",P130866,Bestuurder
+1178,44057,Randstad,"Suarez Menendez, José",P101017,Bestuurder
+1180,44380,Kappersbedrijf,"Boekhorst, Katinka",P116068,Bestuurder
+1183,44380,Kappersbedrijf,"Kuilen, Gerard Elbertus van de",P113957,Bestuurder
+1185,44380,Kappersbedrijf,"Sirks, Gerardus Laurens",P112981,Bestuurder
+1186,44380,Kappersbedrijf,"Steijaert, Andre August Marie",P102090,Bestuurder
+1187,44380,Kappersbedrijf,"Wuffel, Charles Theodorus de",P120220,Bestuurder
+1188,44381,Wonen,"Atema, Jochem",P118157,Bestuurder
+1189,44381,Wonen,"Grutters, Hendrikus Bernardus Maria",P126993,Bestuurder
+1190,44381,Wonen,"Heijden, Adrianus Wilhelmus Maria van der",P106803,Bestuurder
+1191,44381,Wonen,"Lonsain, Christian",P102997,Bestuurder
+1193,44381,Wonen,Prosman,P117104,Bestuurder
+1194,44381,Wonen,"Steenvoorden, Gerardus Johannes",P104860,Bestuurder
+1195,44381,Wonen,"Steijaert, Andre August Marie",P102090,Bestuurder
+1197,44381,Wonen,"Streuer, Mark",P109823,Bestuurder
+1200,44862,Zorg en Welzijn,"Bakker, Age Feite Poppe",P113964,Bestuurder
+1201,44862,Zorg en Welzijn,"Bergsma, Gerard Hendrik",P114057,Bestuurder
+1202,44862,Zorg en Welzijn,"Bolderen, Alex Wilhelmus Johannes Maria van",P107297,Bestuurder
+1203,44862,Zorg en Welzijn,"Bruijn-Nooteboom, Petra Arina de",P100065,Bestuurder
+1204,44862,Zorg en Welzijn,"Dert, Cornelis Ludovicus",P112293,Bestuurder
+1207,44862,Zorg en Welzijn,"Fey, Patrick Johannes Henriette",P117635,Bestuurder
+1209,44862,Zorg en Welzijn,"Merlijn, Elisabeth Wilhelmina Maria",P106242,Bestuurder
+1210,44862,Zorg en Welzijn,"Moors, Jacques (Jacobus Mathias Josephus)",P126602,Bestuurder
+1211,44862,Zorg en Welzijn,"Perik, Odette Marie Constance",P132089,Bestuurder
+1212,44862,Zorg en Welzijn,"Vedder - Wubben, Hendrika Cornelia Maria",P121873,Bestuurder
+1213,44862,Zorg en Welzijn,"Vink, Albertus Jacobus",P107775,Bestuurder
+1214,44862,Zorg en Welzijn,"Vlak, Florentius Franciscus Ludovicus",P123717,Bestuurder
+1215,44862,Zorg en Welzijn,"Weelden, Guus Bastiaan Ferdinand van",P128258,Bestuurder
+1216,46210,Allianz Nederland,"Bijkerk, Peter Jacobus",P130409,Bestuurder
+1218,46210,Allianz Nederland,"Heuvel, Erik Richard van den",P100848,Bestuurder
+1219,46210,Allianz Nederland,"Hout, Jan van der",P132328,Bestuurder
+1220,46210,Allianz Nederland,"Rijn, Diederik Gijsbert van",P131476,Bestuurder
+1221,46210,Allianz Nederland,"Staffhorst, Maarten Adrianus Hubertus Maria",P130417,Bestuurder
+1222,46210,Allianz Nederland,"Vollebregt, Cornelis Antonius",P128908,Bestuurder
+1223,46609,Equens,"Bamberg, Guido",P125193,Bestuurder
+1224,46609,Equens,"Haasdijk, Bernard Johan (Ben)",P117372,Bestuurder
+1225,46609,Equens,"Jong, Pieter Jacob Siert de",P107182,Bestuurder
+1226,46609,Equens,"Scheepers, Gerard Maarten",P131084,Bestuurder
+1227,46609,Equens,"Steenwinkel, Frederik Frans",P105632,Bestuurder
+1228,46609,Equens,"Verhoef, Simone Elisabeth Margareta",P110375,Bestuurder
+1229,47068,Ardagh,"Gils, Johannes Cornelis Matheus",P121381,Bestuurder
+1230,47068,Ardagh,"Hillen, Theodorus Willibrordus Franciscus",P127249,Bestuurder
+1231,47068,Ardagh,"Hoevenaars, Cornelis Martinus Joseph",P116766,Bestuurder
+1232,47068,Ardagh,"Schalken, Wim",P104409,Bestuurder
+1233,47068,Ardagh,"Veldhuis, Johannes Leonardus Hendrikus",P111414,Bestuurder
+1235,47074,Metro,"Dijkstra, Pieter",P121088,Bestuurder
+1236,47074,Metro,"Duijst, Frank Theodoor",P110982,Bestuurder
+1237,47074,Metro,"Ittmann, Cesar Willem",P112333,Bestuurder
+1238,47074,Metro,"Jorna - van Veenendaal, Manon",P130703,Bestuurder
+1239,47074,Metro,"Mol, Niek",P128262,Bestuurder
+1241,47121,Nedlloyd,"Knapper, Kunno Hendrik",P111777,Bestuurder
+1243,47121,Nedlloyd,"Meurs, Henri Francois",P131434,Bestuurder
+1244,47121,Nedlloyd,"Poldervaart, Abraham Pieter",P118240,Bestuurder
+1245,47121,Nedlloyd,"Schenkel, Mark",P104253,Bestuurder
+1246,47121,Nedlloyd,"Sikkens, Daniel Eric",P107722,Bestuurder
+1247,47121,Nedlloyd,"Tas, Jacob",P106606,Bestuurder
+1249,47162,Calpam,"Flint-Vogelzang, Babette",P114780,Bestuurder
+1250,47162,Calpam,"Foursoff, Alexander Iwan",P118110,Bestuurder
+1251,47162,Calpam,"Theunisz, Johannes Franciscus Maria",P107239,Bestuurder
+1252,47162,Calpam,"Waal, de",P116572,Bestuurder
+1254,47678,Detailhandel,"Dorssen, Arend van",P111206,Bestuurder
+1255,47678,Detailhandel,"Filippini, Cornelis, Hubertus, Lucien Maria",P106398,Bestuurder
+1256,47678,Detailhandel,"Grutters, Hendrikus Bernardus Maria",P126993,Bestuurder
+1258,47678,Detailhandel,"Lege, Bastiaan Adriaan de",P102558,Bestuurder
+1259,47678,Detailhandel,Meerman,P117740,Bestuurder
+1261,47678,Detailhandel,"Poelgeest, Neoletta",P111551,Bestuurder
+1263,47678,Detailhandel,Rolf,P117176,Bestuurder
+1265,47678,Detailhandel,"Seffinga, Jan Gerrit",P105438,Bestuurder
+1267,47985,TDV,"Bekker, Antonius Mattheus Joseph de",P119003,Bestuurder
+1268,47985,TDV,"Buiten, Ellen van",P109012,Bestuurder
+1269,47985,TDV,"Hess, Barend Pieter",P111787,Bestuurder
+1272,47985,TDV,"Montfort, Leon Marie Octave van",P108080,Bestuurder
+1274,47985,TDV,"Terpstra, Franciscus Catharinus Lucas",P105039,Bestuurder
+1275,47985,TDV,Veld,P116987,Bestuurder
+1276,47985,TDV,"Vissers, Johannes Charles Elisabeth Marie",P120503,Bestuurder
+1277,48375,Staples,"Boevé, Coen",P113458,Bestuurder
+1278,48375,Staples,"Capel, Manon Barbara Antoinette",P104744,Bestuurder
+1280,48375,Staples,"Heuff, Eduard Roeland Robert",P102079,Bestuurder
+1281,48375,Staples,"Kraan, Marco",P114137,Bestuurder
+1282,48375,Staples,"Lamein, Frank Peter",P129088,Bestuurder
+1283,48375,Staples,"Martens, Paulus Antonius Herman",P100007,Bestuurder
+1284,48375,Staples,"Martens, Petrus Arnoldus Hendrikus",P104231,Bestuurder
+1285,48375,Staples,"Monnens, Raf",P130387,Bestuurder
+1286,48375,Staples,"Vader, Hendrik Jan",P128397,Bestuurder
+1287,48375,Staples,"Zwart, Jacobus Cornelis Johannis",P129850,Bestuurder
+1288,48477,Dow,"d'Hooghe, Edward Louis Julia Clothilda Joseph",P125806,Bestuurder
+1289,48477,Dow,"Kort, Ronny Petrus Maria de",P114697,Bestuurder
+1290,48477,Dow,"Kroes, Hubert Cornelis",P131556,Bestuurder
+1291,48477,Dow,"Merckx, Michael Josef",P108148,Bestuurder
+1292,48477,Dow,"Molster, Jan Wolter",P111527,Bestuurder
+1293,48477,Dow,"Raemdonck, Tonie",P131015,Bestuurder
+1294,48477,Dow,"Ruiter-Verhelst, Annelieke Catherina Antoinet",P128737,Bestuurder
+1295,48477,Dow,"Schmid, Bernard",P127843,Bestuurder
+1296,48477,Dow,"Smet, Carlo Rudy Harold de",P111091,Bestuurder
+1297,48477,Dow,"Taalman, Petrus Johannes Lucia Maria",P111905,Bestuurder
+1299,48477,Dow,"Vogt, Wilhelmus Johannes Hermanus Maria",P123485,Bestuurder
+1300,48965,Legal & General,"Ankone-van Lith, Antoinette Francisca Maria",P131851,Bestuurder
+1301,48965,Legal & General,"Baar, Hendrikus Jacobus van",P131591,Bestuurder
+1303,48965,Legal & General,"Ende, Hendrik Jan van ´t",P126839,Bestuurder
+1304,48965,Legal & General,"Groenewoud, Jean-Paul",P101603,Bestuurder
+1305,48965,Legal & General,"Hoof, Hermann Wilhelm van",P130934,Bestuurder
+1306,48965,Legal & General,"Lefering, Jan-Chris",P101608,Bestuurder
+1307,49417,DSM,"Boer, Antonius Maria Jean de",P118647,Bestuurder
+1308,49417,DSM,"Engelen, Johannes Fredericus van",P118536,Bestuurder
+1309,49417,DSM,"Fransen van de Putte, Johannes Justus",P117697,Bestuurder
+1310,49417,DSM,"Heeswijk-Kuster, Monique Elisabeth Paula Josephina van",P123217,Bestuurder
+1314,49417,DSM,"Mesters, Roland Johannes Hubertus Maria",P131981,Bestuurder
+1315,49417,DSM,"Nabben, Pol",P130932,Bestuurder
+1317,49417,DSM,"Nieboer, Geert Jan",P127541,Bestuurder
+1318,49417,DSM,"Pikaart, Krijn Arie",P111713,Bestuurder
+1319,49417,DSM,"Rennen, Petrus Antonius Maria",P104314,Bestuurder
+1320,49417,DSM,"Ubachs, Michiel Marie Gerardus",P104545,Bestuurder
+1321,50018,Brocacef,"Eeken, Johannes Petrus",P117696,Bestuurder
+1323,50018,Brocacef,"Esschoten, Nicolaas van",P102644,Bestuurder
+1324,50018,Brocacef,"Galen, Lambertus Hendrik Hugo Oscar van",P118656,Bestuurder
+1325,50018,Brocacef,"Huisman, Frits",P101232,Bestuurder
+1326,50018,Brocacef,"Kappert, Harry",P109919,Bestuurder
+1327,50018,Brocacef,"Tromp, Amasja Moon Sook Ne tal",P111847,Bestuurder
+1328,50018,Brocacef,"Venema, Mark Peter",P106003,Bestuurder
+1329,50018,Brocacef,"Wit, Johannes de",P101494,Bestuurder
+1330,50051,MSD,"Beijer, Johan Hendrik",P110705,Bestuurder
+1331,50051,MSD,"Doorn, Alfred Jan Antonie van",P114854,Bestuurder
+1332,50051,MSD,"Eilers, Louis Ferdinand Maria",P108890,Bestuurder
+1333,50051,MSD,"Koning, Jacobus Clemens Johannes",P101489,Bestuurder
+1335,50051,MSD,"Melenhorst, Jozef Theodorus Hendrikus",P106893,Bestuurder
+1336,50051,MSD,"Onzenoort, Marijtje van",P108502,Bestuurder
+1337,50051,MSD,"Raaijmakers, Wilhelmina Hendrika Maria",P132355,Bestuurder
+1338,50052,Elsevier,"Berrevoets, Remco Richard",P131133,Bestuurder
+1340,50052,Elsevier,"Kuipers, Jacob",P125615,Bestuurder
+1341,50052,Elsevier,"Laeven, Johannes Mathijs",P102318,Bestuurder
+1342,50052,Elsevier,"Lievaart-Bode, Anne Margaretha",P109022,Bestuurder
+1344,50052,Elsevier,"Merwe)-van der Laan, Renee Ann (van de",P114599,Bestuurder
+1345,50052,Elsevier,"Nods, Remko",P102832,Bestuurder
+1346,50052,Elsevier,"Rijst, Hendrikus van der",P121196,Bestuurder
+1348,50052,Elsevier,"Vries, Han Cornelis de",P129846,Bestuurder
+1349,50555,Heijmans,"Duijn, Maarten Gijsbert Johannes van",P102289,Bestuurder
+1350,50555,Heijmans,"Jonge, Hubregt de",P114565,Bestuurder
+1352,50555,Heijmans,"Raessens, Georges Frederik Maria Bernadette",P121513,Bestuurder
+1353,50555,Heijmans,"Telling, Jacob Gijsbert",P130593,Bestuurder
+1354,50558,Wijsmuller,"Jager, Engel de",P114611,Bestuurder
+1356,50558,Wijsmuller,"Weerelt, Anthonius Maria van",P121268,Bestuurder
+1357,50558,Wijsmuller,"Westerweel, Daniel Berend",P114922,Bestuurder
+1358,50560,Lloyd's Register,"Dekker, Wim den",P128861,Bestuurder
+1359,50560,Lloyd's Register,"Halkes, Richard Anthonius Petrus",P117534,Bestuurder
+1361,50560,Lloyd's Register,"Jong, Rutgerus Johannes Maria de",P110976,Bestuurder
+1362,50560,Lloyd's Register,"Rijks, Geerten Steef",P132351,Bestuurder
+1363,50560,Lloyd's Register,"Spronk, Franciscus Nicolaas",P106358,Bestuurder
+1364,51180,Robeco,"Breugel, Cornelis Peter van",P123967,Bestuurder
+1365,51180,Robeco,"Bruin, Gerard de",P127042,Bestuurder
+1368,51180,Robeco,"Groot, Wilhelmina Annemarie de",P130187,Bestuurder
+1369,51180,Robeco,"Horlings, Wubbe Harm",P130175,Bestuurder
+1371,51180,Robeco,"Roodhorst, Johannes Antoon",P113252,Bestuurder
+1372,51180,Robeco,"Snoek, Martine Corina",P104341,Bestuurder
+1373,51180,Robeco,"Steenkamp, Thomas Bonifacius Maria",P127333,Bestuurder
+1374,51180,Robeco,"Stegmann, Jurrianus Bernardus Johannes",P124840,Bestuurder
+1376,53150,Voorzieningsfonds Verwelius,"Hordijk, Eddy",P101943,Bestuurder
+1377,53150,Voorzieningsfonds Verwelius,"Verwelius, Lambert Stefanus",P105159,Bestuurder
+1379,60011,AZL,"Gubbels, Josephus Eduard",P125369,Bestuurder
+1380,60011,AZL,"Kochen, Judith Johanna Maria",P122518,Bestuurder
+1381,60011,AZL,"Quaden, Hendrikus Hubertus Elisabeth Joseph",P116808,Bestuurder
+1382,60011,AZL,"Schuurs, Robertus Antonius",P129670,Bestuurder
+1384,60011,AZL,"Starren, Martinus Hubertus Petrus",P112758,Bestuurder
+1385,60011,AZL,"Volders, Ronald Jean Gerald Nico",P129683,Bestuurder
+1386,60019,Ten Cate,"Bosch, René Gerhardus Lambertus",P125621,Bestuurder
+1387,60019,Ten Cate,"Getkate, Gerrit Jan",P120549,Bestuurder
+1388,60019,Ten Cate,"Halkes, Johannes Cornelis Maria",P105036,Bestuurder
+1390,60019,Ten Cate,"Hennepe, Simon te",P112706,Bestuurder
+1391,60019,Ten Cate,"Kleinjan, Dinand Berend Jan",P130987,Bestuurder
+1392,60019,Ten Cate,"Lemmens, Peter Willem Iskander",P100082,Bestuurder
+1393,60019,Ten Cate,"Lock, Jacob",P106153,Bestuurder
+1394,60019,Ten Cate,Malgaz,P120697,Bestuurder
+1396,60019,Ten Cate,Spaan,P117622,Bestuurder
+1397,60019,Ten Cate,"Troost, Cornelis",P102996,Bestuurder
+1398,60056,Vitol Anker,"Clercq Zubli, Klaus Jorgen de",P105707,Bestuurder
+1400,60056,Vitol Anker,"Neufeglise, Rogier",P131723,Bestuurder
+1401,60056,Vitol Anker,"Rijt, Gerardus Josephus Anthonius van",P111448,Bestuurder
+1402,60056,Vitol Anker,"Waas, Johannes Cornelis Maria van",P129068,Bestuurder
+1403,60064,Merrill Lynch,"Bleeker, Rudolf Cornelis Maria",P117608,Bestuurder
+1404,60082,Coram,"Adriaans, Renier Marinus",P107977,Bestuurder
+1405,60082,Coram,"Debrauwer, Hubertus Jasper Jozef",P115977,Bestuurder
+1406,60082,Coram,"Haisma, Johannes Hendrikus",P126335,Bestuurder
+1408,60082,Coram,"Kalkhoven, Jeroen Carolus Josephus",P117366,Bestuurder
+1409,60082,Coram,"Rosenau, Richard Anthony Michael",P107497,Bestuurder
+1410,60082,Coram,"Rutten, Marcus Johannes Gerardus Maria",P103674,Bestuurder
+1411,60084,Witteveen & Bos,"Beer, Ids Johan Martin de",P110534,Bestuurder
+1412,60084,Witteveen & Bos,"Boomgaard, Wim Peter",P125967,Bestuurder
+1414,60084,Witteveen & Bos,"Koning, Jacobus Nicolaas de",P112510,Bestuurder
+1416,60084,Witteveen & Bos,"Nieboer, Henk Evert",P127203,Bestuurder
+1417,60085,Rockwool,"Boonen, Peter Godfried Simon Marie",P109167,Bestuurder
+1418,60085,Rockwool,"Capitain, Erwin Robert",P110208,Bestuurder
+1419,60085,Rockwool,"Meulen, John van der",P104592,Bestuurder
+1420,60085,Rockwool,"Ramakers, Jacobus Martinus Maria",P109163,Bestuurder
+1421,60085,Rockwool,"Ruijters, Joannes Peter Bernardus",P109165,Bestuurder
+1425,60109,KLM-Cabinepersoneel,"Berk, Pauline Johanna Gerarda van den",P121174,Bestuurder
+1426,60109,KLM-Cabinepersoneel,"Geerlings, Stefan",P103624,Bestuurder
+1427,60109,KLM-Cabinepersoneel,"Groeneveld, Annette",P103608,Bestuurder
+1428,60109,KLM-Cabinepersoneel,"Halder, Eugène Johannes Josephus Andreas van",P121176,Bestuurder
+1429,60109,KLM-Cabinepersoneel,"Jansen, Paulus Johannes Maria",P104789,Bestuurder
+1430,60109,KLM-Cabinepersoneel,"Jong, Arend Reinier de",P107474,Bestuurder
+1431,60109,KLM-Cabinepersoneel,"Kartman, Miriam Inez",P109736,Bestuurder
+1433,60109,KLM-Cabinepersoneel,"Koster, Rob Charles",P121179,Bestuurder
+1434,60109,KLM-Cabinepersoneel,"Nijssen, Daniël Bavo Maria",P110116,Bestuurder
+1435,60109,KLM-Cabinepersoneel,"Porskamp, Kees",P122656,Bestuurder
+1436,60109,KLM-Cabinepersoneel,"Tilgenkamp, Terence",P103620,Bestuurder
+1437,60109,KLM-Cabinepersoneel,"Vanagt, Pieter Jan",P108093,Bestuurder
+1438,60114,Progress Unilever,"Clement, Robert",P124479,Bestuurder
+1439,60114,Progress Unilever,"Dongen, Lambertus Johannes van",P112395,Bestuurder
+1440,60114,Progress Unilever,"Lang, Peter de",P115904,Bestuurder
+1441,60114,Progress Unilever,"Post, Herman Ulko",P132357,Bestuurder
+1442,60114,Progress Unilever,"Roovers, Michael Gerardus",P102630,Bestuurder
+1443,60114,Progress Unilever,"Rots, Maria Johanna Francisca (Marianne)",P108188,Bestuurder
+1445,60114,Progress Unilever,"Zoeten, Gijsbert de",P104792,Bestuurder
+1446,60123,Fluor Nederland,"Blom, Martin",P130197,Bestuurder
+1447,60123,Fluor Nederland,"Heijningen, Franciscus Jacobus (Frank) van",P130613,Bestuurder
+1448,60123,Fluor Nederland,"Hoog, Bastiaan Arend de",P103685,Bestuurder
+1449,60123,Fluor Nederland,"Lohuizen, Rob van",P111450,Bestuurder
+1450,60123,Fluor Nederland,"Mali, Pieter Cornelis",P110476,Bestuurder
+1451,60123,Fluor Nederland,"Pluimers, Petrus Johannes",P107791,Bestuurder
+1452,60123,Fluor Nederland,"Schaaf, Geert (Ger) van der",P100692,Bestuurder
+1454,60127,VNU,"Borkink, Markus Johannes",P125798,Bestuurder
+1456,60127,VNU,"Riet, Marieke van 't",P130425,Bestuurder
+1457,60127,VNU,"Rutte, Marcellus Johannes Bartholomeus (Marcel)",P125654,Bestuurder
+1458,60127,VNU,"Wanschers, Franciscus Gerhardus Maria",P113021,Bestuurder
+1459,60127,VNU,"Wiss-Wegh, Geertje Johanna",P109986,Bestuurder
+1460,60171,Unirobe Meeus,"Bergenhenegouwen, Francisca Cornelia Van",P130852,Bestuurder
+1461,60171,Unirobe Meeus,"Gelderen-Akkerman, Elisabeth Gezina van",P106179,Bestuurder
+1462,60171,Unirobe Meeus,"Kuenen, Joris Donald",P117490,Bestuurder
+1463,60171,Unirobe Meeus,"Mans-Swalef, Monica Wilhelmina Johanna",P114639,Bestuurder
+1465,60171,Unirobe Meeus,"Pol, Willem Lambertus",P105646,Bestuurder
+1466,60171,Unirobe Meeus,"Rovers, Roland Andreas Gerardus Cornelis",P130674,Bestuurder
+1467,60171,Unirobe Meeus,"Wit, Richard Cornelis de",P106172,Bestuurder
+1468,60196,Holland Casino,"Bos-Steen, Adriana Maria van den",P110539,Bestuurder
+1469,60196,Holland Casino,"Coeleman, Carola",P101023,Bestuurder
+1470,60196,Holland Casino,Kooijman,P118304,Bestuurder
+1471,60196,Holland Casino,"Mensonides, Jelle",P114077,Bestuurder
+1472,60196,Holland Casino,"Schuijt, Hendrik",P107719,Bestuurder
+1473,60196,Holland Casino,"Slooten, Erik van",P115501,Bestuurder
+1474,60212,Fresenius ,"Abelen, Elisabeth Catharina Maria",P108951,Bestuurder
+1475,60212,Fresenius ,"Brake, Harmen van de",P101399,Bestuurder
+1476,60212,Fresenius ,"Dijkstra, Hendrik Jelmer",P122738,Bestuurder
+1477,60212,Fresenius ,"Goertz, Joseph",P118591,Bestuurder
+1478,60212,Fresenius ,"Renting, Annichje",P118593,Bestuurder
+1480,60216,Hewlett-Packard,"Dekker, Jacob Pieter",P106072,Bestuurder
+1481,60216,Hewlett-Packard,"Dijkhuizen, Simon Pieter",P113867,Bestuurder
+1482,60216,Hewlett-Packard,"Korevaar, Robert",P106890,Bestuurder
+1484,60216,Hewlett-Packard,"Mentink- Wegerif, Anna Christina",P104334,Bestuurder
+1485,60216,Hewlett-Packard,"Splint, Hendrik Adrianus",P103167,Bestuurder
+1486,60216,Hewlett-Packard,"Sutherland, John Eric",P110942,Bestuurder
+1487,60216,Hewlett-Packard,"Terwel, Lennert",P107896,Bestuurder
+1488,60216,Hewlett-Packard,"Timmer, Coen Eric",P100294,Bestuurder
+1489,60216,Hewlett-Packard,"Warmerdam, Renatus Huibertus Phillippus van",P105038,Bestuurder
+1490,60216,Hewlett-Packard,"Zelst, Gerardus Pius maria van",P127861,Bestuurder
+1491,60245,Avery Dennison,"Gijn, Huibert Nicolaas van",P101832,Bestuurder
+1492,60245,Avery Dennison,"Megchelse, Eveline Christine",P111342,Bestuurder
+1493,60245,Avery Dennison,"Steeman, Franciscus Willibrordus Maria",P100927,Bestuurder
+1494,60245,Avery Dennison,"Veltkamp, Frank Willem",P128459,Bestuurder
+1495,60245,Avery Dennison,"Voskuilen, Edwin",P114015,Bestuurder
+1496,60263,Bisdommen,"Bijloos, Cornelis Jsephus",P124814,Bestuurder
+1497,60263,Bisdommen,"Bultsma, Arjen",P115870,Bestuurder
+1499,60263,Bisdommen,"Kalb, Thomas Reinardus (Thom)",P102349,Bestuurder
+1500,60263,Bisdommen,"Schoenmakers, Vincentius Gerardus Petrus Johannes Maria",P101622,Bestuurder
+1501,60263,Bisdommen,"Vergroesen, Petrus Johannes",P130972,Bestuurder
+1502,60263,Bisdommen,"Verhoeven, Laurentinus Josephus Wilhelmus",P111355,Bestuurder
+1503,60263,Bisdommen,"Vuylsteke, Michael Joannes Marie Wolterus",P101624,Bestuurder
+1504,60276,Openbaar Vervoer,"Anker, Pieter Burg",P123784,Bestuurder
+1506,60276,Openbaar Vervoer,"Doerga, Ramdoelarie Ingrid",P132329,Bestuurder
+1507,60276,Openbaar Vervoer,"Elberse, Robertus Minte Jan",P131796,Bestuurder
+1508,60276,Openbaar Vervoer,"Hannema, Jitze",P116988,Bestuurder
+1509,60276,Openbaar Vervoer,"Heilig, Jan",P117242,Bestuurder
+1510,60276,Openbaar Vervoer,"Ketting, Dirk",P129175,Bestuurder
+1511,60276,Openbaar Vervoer,"Modderman, Hendrik Jan Ewoud",P131417,Bestuurder
+1512,60276,Openbaar Vervoer,Persijn,P117960,Bestuurder
+1513,60276,Openbaar Vervoer,"Peters, Hedwig Gerarda Ignata Maria",P128873,Bestuurder
+1516,60276,Openbaar Vervoer,"Wevers, Jan Willem",P118800,Bestuurder
+1518,60291,Remia,"Berg, Arie Jan van den",P106662,Bestuurder
+1520,60291,Remia,"Ginkel, Johannes Gijsbertus van",P114869,Bestuurder
+1521,60291,Remia,"Heezik, Johannes van",P129840,Bestuurder
+1522,60291,Remia,"Straalen, Renatus Gijsbertus Johannes van",P129861,Bestuurder
+1523,60291,Remia,"Vroom, Maartje Elisabeth de",P130437,Bestuurder
+1524,60294,Cargill,"Hoedelmans, Christiaan Cornelis Antonius",P107227,Bestuurder
+1525,60294,Cargill,"Dierendonck, Jean-Paul Antonius Cyrilles van",P128468,Bestuurder
+1526,60294,Cargill,"Goossens, Cijrillus Rudi Justine",P118867,Bestuurder
+1527,60294,Cargill,"Koppen, Charles Albert",P116467,Bestuurder
+1528,60294,Cargill,"Oostdam, Jacobus Gijsbertus",P112139,Bestuurder
+1529,60294,Cargill,"Plas, Engelbertus Jacobus van der",P128408,Bestuurder
+1530,60294,Cargill,Vermeersch,P118785,Bestuurder
+1531,60294,Cargill,"Wees, Reinerus Johannes Jacobus van",P117160,Bestuurder
+1532,60294,Cargill,"Zoethout, Bauke Piebe",P116472,Bestuurder
+1533,60304,Transavia vliegers,"Bosma, Renault Herbert Peter",P104758,Bestuurder
+1534,60304,Transavia vliegers,"Bouquet, Jan Willem Matthijs",P113029,Bestuurder
+1535,60304,Transavia vliegers,"Braam, Sanne Pauline",P123621,Bestuurder
+1536,60304,Transavia vliegers,"Evers, Hendrikus Johannes",P117238,Bestuurder
+1537,60304,Transavia vliegers,"Gerritsma, Albert Willem",P121173,Bestuurder
+1538,60304,Transavia vliegers,"Marée, Paulinus Antonius Maria",P104759,Bestuurder
+1539,60327,Martinair Vliegers,"Botman, Frans Federik",P114198,Bestuurder
+1540,60327,Martinair Vliegers,"Frijns, Herbert",P105857,Bestuurder
+1542,60327,Martinair Vliegers,"Limburg, Albert Louis Johan Karel",P111846,Bestuurder
+1543,60327,Martinair Vliegers,"Lorier, Andries Johannes",P104719,Bestuurder
+1544,60327,Martinair Vliegers,"Mante, Aert Laurens",P107582,Bestuurder
+1545,60327,Martinair Vliegers,"Polderman, Robert",P111951,Bestuurder
+1546,60342,TBI,"Breemen, Robert van",P110754,Bestuurder
+1547,60342,TBI,"Hoog, Antonie de",P107318,Bestuurder
+1548,60342,TBI,"Kooman, Jeanelle",P130457,Bestuurder
+1549,60342,TBI,"Lems, Rene",P111006,Bestuurder
+1550,60342,TBI,"Meerkerk, Frits Willem van",P101168,Bestuurder
+1552,60348,BP,"Bakels, Arnold",P127434,Bestuurder
+1553,60348,BP,"Baltussen, Arno",P126582,Bestuurder
+1554,60348,BP,"Bergmans, Nicolaas Johannes Cornelis",P100978,Bestuurder
+1556,60348,BP,"Koole, Paul",P109509,Bestuurder
+1557,60348,BP,"Lindaart, Harm Jan",P130166,Bestuurder
+1558,60348,BP,"Nieuwenhuize, Jannis Abraham",P118125,Bestuurder
+1559,60348,BP,"Roberts, Mark Andres",P107748,Bestuurder
+1560,60374,Banden- en Wielen,"Bikkers, Carel",P101963,Bestuurder
+1562,60374,Banden- en Wielen,"Dwarswaard, Jacobus Cornelis",P120246,Bestuurder
+1564,60374,Banden- en Wielen,"Geus, Paul Willem de",P130669,Bestuurder
+1565,60374,Banden- en Wielen,"Heijer, Martijn den",P122500,Bestuurder
+1566,60374,Banden- en Wielen,"Passchier, Nicolaas Johannes",P127508,Bestuurder
+1567,60374,Banden- en Wielen,"Pavert, Wilhelmus Arnoldus van den",P129529,Bestuurder
+1568,60374,Banden- en Wielen,"Pluijm, Gerardus Wilhelmus Johannes maria van der",P105315,Bestuurder
+1570,60374,Banden- en Wielen,Schaacke,P120460,Bestuurder
+1571,60374,Banden- en Wielen,"Simon, Maas",P120260,Bestuurder
+1573,60376,Getronics,"Dijkstra, Johannes Klaas",P130706,Bestuurder
+1574,60376,Getronics,"Ebbers, Marcus Henrikus Bernardus",P109186,Bestuurder
+1575,60376,Getronics,"Jong, Gerrit de",P131494,Bestuurder
+1576,60376,Getronics,"Meurs, Eric Fraciscus Maria",P127116,Bestuurder
+1578,60376,Getronics,"Rollfs of Roelofs, Cornelis",P130185,Bestuurder
+1580,60388,Unisys,"Dulk, Johannes den",P102940,Bestuurder
+1581,60388,Unisys,"Eisma, Johanna Maria",P102933,Bestuurder
+1582,60388,Unisys,"Gunning, Christopher Joseph",P102937,Bestuurder
+1583,60388,Unisys,"Hamaekers, Bastiaan Pieter Cornelis",P132525,Bestuurder
+1584,60388,Unisys,"Heijma, Athanasius",P121567,Bestuurder
+1585,60388,Unisys,"Kleij, Johannes Cornelis",P131346,Bestuurder
+1586,60388,Unisys,"Topsvoort, Ronald Nicolaas",P104004,Bestuurder
+1588,60397,AHOLD,"Hellendoorn, Jan Christiaan",P114439,Bestuurder
+1589,60397,AHOLD,"Jansen, Frank Johan",P107207,Bestuurder
+1590,60397,AHOLD,"Kokkedee, Willem (Wim)",P107704,Bestuurder
+1591,60397,AHOLD,"Koster, Mellius Maria",P122911,Bestuurder
+1592,60397,AHOLD,"Miedema, Klaas",P112242,Bestuurder
+1593,60419,SC Johnson,"Bakker, Robertus Cornelis Louis",P102309,Bestuurder
+1594,60419,SC Johnson,"Fijma, Gijsberthus",P118499,Bestuurder
+1595,60419,SC Johnson,"Reenen, Henri Marie van",P101275,Bestuurder
+1596,60442,V.O.R. Pensioen B.V.,Vermeer-Soepnel,P106651,Bestuurder
+1597,60448,Excedent 1987,"Eng, Wilhelmus Cornelis Leonardus van der",P121304,Bestuurder
+1598,60448,Excedent 1987,"Kievit, Marinus",P121305,Bestuurder
+1599,60448,Excedent 1987,"Maas, Johannes Petrus Jozef",P121303,Bestuurder
+1600,60463,PostNL,"Dorrestijn, Petrus Gerardus Johannes",P123798,Bestuurder
+1601,60463,PostNL,"Eijgermans, Susan Yvon",P108306,Bestuurder
+1602,60463,PostNL,"Grootendorst, Eldert Cornelis",P117577,Bestuurder
+1603,60463,PostNL,"Kieft, Lubertus Cornelis (Rene) van de",P103909,Bestuurder
+1604,60463,PostNL,"Kiep, Bastiaan Huibertus",P126579,Bestuurder
+1605,60463,PostNL,"Put, Leendert Jeroen van der",P109790,Bestuurder
+1606,60463,PostNL,"Spigt, Willem Jacob",P130704,Bestuurder
+1607,60465,Loodswezen,"Barnhoorn, Robert",P118415,Bestuurder
+1608,60465,Loodswezen,"Dam, Hendrikus van",P100902,Bestuurder
+1609,60465,Loodswezen,"Goudoever, Bart van",P131779,Bestuurder
+1610,60465,Loodswezen,"Roorda, Marguerite Marie Elisabeth",P131916,Bestuurder
+1612,60465,Loodswezen,"Waal, Alexander Victor de",P115948,Bestuurder
+1613,60465,Loodswezen,"Wittkampf, Theodorus Antonius",P100908,Bestuurder
+1614,60513,Panteia,"Bangma, Klaas",P126347,Bestuurder
+1615,60513,Panteia,"Grood, Thomas Johannes de",P106374,Bestuurder
+1616,60513,Panteia,"Korfage, Jan",P111136,Bestuurder
+1617,60513,Panteia,"Rossum, Ronald van",P106372,Bestuurder
+1618,60513,Panteia,"Ruijgrok, Wim",P106371,Bestuurder
+1619,60513,Panteia,"Walree, Reinier Alexander van",P118788,Bestuurder
+1620,60513,Panteia,"Zwart, Gerben Hendrik Kerst",P111018,Bestuurder
+1621,60514,Particuliere Beveiliging,"Bakker, Albert Frederik Andreas",P112445,Bestuurder
+1622,60514,Particuliere Beveiliging,"Goossens, Monique Thérése",P100809,Bestuurder
+1623,60514,Particuliere Beveiliging,"Herpen, Harry van",P121077,Bestuurder
+1625,60514,Particuliere Beveiliging,"Kraaier, Tim",P103332,Bestuurder
+1626,60514,Particuliere Beveiliging,"Lonsain, Christian",P102997,Bestuurder
+1627,60514,Particuliere Beveiliging,Neijenhuijs,P118807,Bestuurder
+1628,60514,Particuliere Beveiliging,"Priester, Peter",P107702,Bestuurder
+1629,60514,Particuliere Beveiliging,"Uittenbogaard, Thomas",P112927,Bestuurder
+1630,60523,Security,"Bijlsma, Martin Alexander",P132196,Bestuurder
+1631,60523,Security,"Bouwmeester, Gerhard",P108086,Bestuurder
+1632,60523,Security,"Molenaar, Hendrikus Silvester",P109097,Bestuurder
+1633,60523,Security,"Wuijten, Hendrik Jacobus",P109929,Bestuurder
+1634,60523,Security,"Zandt, Marcus Maria (Marc) van der",P100667,Bestuurder
+1637,60527,Towers Watson,"Heijer, Dirk den",P103981,Bestuurder
+1638,60527,Towers Watson,"Sieben-van de Graaf, Corneliske Theodora",P127113,Bestuurder
+1639,60527,Towers Watson,"Thien, Richtje Annemieke",P108235,Bestuurder
+1640,60534,PPG Industries ,"Burger, Gerardus Jan",P103772,Bestuurder
+1641,60534,PPG Industries ,"Heuvelen, Freerk Koert van",P114001,Bestuurder
+1642,60534,PPG Industries ,"Huisman, Frederika Jacoba",P100745,Bestuurder
+1643,60534,PPG Industries ,"Jongejan, Remmelt",P100738,Bestuurder
+1644,60534,PPG Industries ,"Niewold, Willem",P109923,Bestuurder
+1645,60534,PPG Industries ,"Schimmel, Petrus Johannes Cornelis",P100965,Bestuurder
+1646,60540,Wolters Kluwer ,"Aalst, Paul Cornelis van",P123584,Bestuurder
+1647,60540,Wolters Kluwer ,"Buren, Francois André Johan van",P102021,Bestuurder
+1648,60540,Wolters Kluwer ,"Derriks, Johannes Christoffel",P118088,Bestuurder
+1649,60540,Wolters Kluwer ,"Gelmers-Hollink, Marie Chantal",P113947,Bestuurder
+1650,60540,Wolters Kluwer ,"Pouwe, Mirjam Emma",P131160,Bestuurder
+1651,60540,Wolters Kluwer ,"Schaafsma, Dorien",P131801,Bestuurder
+1653,60540,Wolters Kluwer ,"Swens, Ronald Henri",P122976,Bestuurder
+1654,60543,Cap Gemini ,"Heukels, Willem Frederik",P130602,Bestuurder
+1655,60543,Cap Gemini ,"Holsappel, Albert Jan",P112194,Bestuurder
+1656,60543,Cap Gemini ,"Hooijdonk, Jacobus Antonius van",P118420,Bestuurder
+1658,60543,Cap Gemini ,"Neuhaus, Dirk Willem",P130174,Bestuurder
+1659,60543,Cap Gemini ,"Weber, Désirée Josephina Maria",P109861,Bestuurder
+1660,60553,Astellas,"Beijert, Arjan",P109187,Bestuurder
+1661,60553,Astellas,"Janssen, Henricus Jules Laurentius dr.",P108497,Bestuurder
+1662,60553,Astellas,"Rot, Vincent Alfred Wijnandus Maria",P113736,Bestuurder
+1664,60553,Astellas,"Vermazen, Arie Gerrit Cornelis",P126287,Bestuurder
+1665,60561,Atos Origin,"Buuren, Arend van",P126506,Bestuurder
+1666,60561,Atos Origin,"Elshout, Arnold Martin",P130578,Bestuurder
+1667,60561,Atos Origin,"Noort, Pieter Frederik van",P107054,Bestuurder
+1669,60561,Atos Origin,"Peters, Wilhelm Hendrikus Leonardus Maria",P101319,Bestuurder
+1671,60561,Atos Origin,"Winnubst, Franciscus Theodorus Wilhelmus",P131581,Bestuurder
+1672,60564,Campina,"Adriaans, Johannes Leonardus Maria",P127408,Bestuurder
+1673,60564,Campina,"Fakkert, Anonius Wilhelmus Maria",P105486,Bestuurder
+1674,60564,Campina,"Hammer, Carel Frederik",P116817,Bestuurder
+1675,60564,Campina,"Molenaar, Simon Andreas",P106800,Bestuurder
+1678,60564,Campina,"Vellenga, Harry Jacob",P123008,Bestuurder
+1679,60564,Campina,"Verveld, Frank",P122950,Bestuurder
+1680,60564,Campina,"Vredendaal, Wouter Jan van",P131844,Bestuurder
+1681,60592,Urenco,"Berke, Leen",P131072,Bestuurder
+1682,60592,Urenco,"Broekman, Gerardus Johannes",P112623,Bestuurder
+1683,60592,Urenco,"Ham, Remco Franciscus Henricus van",P132520,Bestuurder
+1684,60592,Urenco,"Koning, Gerardus Nicolaas",P113214,Bestuurder
+1685,60592,Urenco,"Riele, Paul Hendrikus Maria te",P131071,Bestuurder
+1686,60592,Urenco,"Valley, Heinz Rudiger",P112620,Bestuurder
+1688,60592,Urenco,"Vrieze, Johannes Jacob de",P114461,Bestuurder
+1690,60602,Avebe,"Mijnen, Mark Herman Edward",P107900,Bestuurder
+1691,60602,Avebe,"Oostland, Freerk",P104967,Bestuurder
+1692,60602,Avebe,"Vos, Joris",P122667,Bestuurder
+1693,60607,Alcatel-Lucent,"Beek, Martijn Simon van",P110617,Bestuurder
+1694,60607,Alcatel-Lucent,"Dröge, Ronaldus Nicolaas",P117218,Bestuurder
+1696,60607,Alcatel-Lucent,"Leerdam, Jan T van",P106008,Bestuurder
+1697,60607,Alcatel-Lucent,"Lustig, Koen",P105239,Bestuurder
+1698,60607,Alcatel-Lucent,"Musters, Franciscus Jacobus Maria",P105145,Bestuurder
+1699,60607,Alcatel-Lucent,"Thurkow, Jan Willem",P127869,Bestuurder
+1700,60607,Alcatel-Lucent,"Wijthoff, Jacobus Pieter Simon",P106520,Bestuurder
+1701,60607,Alcatel-Lucent,Zeeman,P116514,Bestuurder
+1702,60627,Goudse Haven,"Bruijne, Mattheus Hendrik Jan de",P110262,Bestuurder
+1703,60627,Goudse Haven,Friederich,P118068,Bestuurder
+1704,60627,Goudse Haven,"Hof, Godefridus Johannes Josephus van 't",P118326,Bestuurder
+1705,60627,Goudse Haven,"Krot, Sjoerd Alexander",P118065,Bestuurder
+1706,60641,Astellas Fut,"Beijert, Arjan",P109187,Bestuurder
+1707,60641,Astellas Fut,"Janssen, Henricus Jules Laurentius dr.",P108497,Bestuurder
+1708,60641,Astellas Fut,"Rot, Vincent Alfred Wijnandus Maria",P113736,Bestuurder
+1710,60641,Astellas Fut,"Vermazen, Arie Gerrit Cornelis",P126287,Bestuurder
+1711,60655,Werk en (re)Integratie (PWRI),"Bethlehem, Cornelis Jan",P107867,Bestuurder
+1714,60655,Werk en (re)Integratie (PWRI),"Kastelein, Maarten",P117540,Bestuurder
+1715,60655,Werk en (re)Integratie (PWRI),"Kelderman, Harmen",P126118,Bestuurder
+1716,60655,Werk en (re)Integratie (PWRI),"Oomen- Ruijten, Maria",P131025,Bestuurder
+1718,60655,Werk en (re)Integratie (PWRI),"Uyl, Xander Johannes den",P107770,Bestuurder
+1719,60655,Werk en (re)Integratie (PWRI),"Vink, Albertus Jacobus",P107775,Bestuurder
+1720,60655,Werk en (re)Integratie (PWRI),"Wiselius, Hermina Henriette",P104070,Bestuurder
+1721,60655,Werk en (re)Integratie (PWRI),"Wit, Cornelis Jacobus Maria de",P117136,Bestuurder
+1722,60661,McCain,"Ars, Rinus",P117016,Bestuurder
+1724,60661,McCain,"Guchte, Johannes Jacobus van de",P101997,Bestuurder
+1725,60661,McCain,"Kamerling, Kornelis Hendrik",P131876,Bestuurder
+1726,60661,McCain,"Koolen, Johannes Franciscus",P130910,Bestuurder
+1727,60661,McCain,Tholhuijsen,P118814,Bestuurder
+1728,60661,McCain,"Zonnenberg, Olaf Patrick Geerlig",P126539,Bestuurder
+1729,60668,ING,"Boers, Johannes Martinus Maria",P116270,Bestuurder
+1730,60668,ING,"Kastelijn, Wilhelmus Maria",P131432,Bestuurder
+1731,60668,ING,"Koopmans, Paulus Johannes Hendricus",P128570,Bestuurder
+1732,60668,ING,"Oosterhout, Robert",P128951,Bestuurder
+1734,60668,ING,"Sips, Josine",P125463,Bestuurder
+1735,60668,ING,"Wilson, Peggy Mildred Beatrice (Peggy)",P101071,Bestuurder
+1736,60676,IBM Nederland,"Bakker, Leendert Harm den",P126191,Bestuurder
+1737,60676,IBM Nederland,"Beima, Johan",P111302,Bestuurder
+1738,60676,IBM Nederland,"Gielissen, Lucien Anton Nicolaas",P121891,Bestuurder
+1739,60676,IBM Nederland,"Hommes, Ruud",P106377,Bestuurder
+1740,60676,IBM Nederland,"Hus, Martin",P131355,Bestuurder
+1741,60676,IBM Nederland,"Movig, Søren Ludvig",P130228,Bestuurder
+1742,60676,IBM Nederland,"Snoek, Paulus Nicolaas Jozef",P116487,Bestuurder
+1744,60676,IBM Nederland,"Wijffels, Jacobus Gustave Carolus Marie",P129573,Bestuurder
+1745,60677,TDF Botlek,"Gevaerts, Gustave",P121112,Bestuurder
+1746,60677,TDF Botlek,"Gooijer, Yvonne Anna Maria de",P130450,Bestuurder
+1747,60677,TDF Botlek,"Peters-Gerritsen, Maria Henrica Wilhelmina",P107181,Bestuurder
+1748,60677,TDF Botlek,"Schoots, Alexander",P112439,Bestuurder
+1749,60677,TDF Botlek,"Schuchner, Alfred Werner",P107170,Bestuurder
+1750,60677,TDF Botlek,"Siebesma, Raimond Jan Pieter",P117247,Bestuurder
+1751,60677,TDF Botlek,"Vermeulen, Marc Omer Elisa",P107166,Bestuurder
+1753,60689,Sagittarius,"Berg, Arend Jan van den",P110117,Bestuurder
+1754,60689,Sagittarius,"Farla, Machiel Matthijs Adriana Maria",P131598,Bestuurder
+1755,60689,Sagittarius,"Joop, René",P109895,Bestuurder
+1756,60689,Sagittarius,"Lind, Michel",P122062,Bestuurder
+1758,60689,Sagittarius,Stolk,P118623,Bestuurder
+1759,60689,Sagittarius,"Vos, Monica Antoinette",P130627,Bestuurder
+1760,60697,DuPont ,"Blaauw, Marco",P114448,Bestuurder
+1762,60697,DuPont ,"Hermans, Leonardus Johannes Cornelis",P126586,Bestuurder
+1763,60697,DuPont ,"Kinderen, Pavel Martinus Johannes der",P113394,Bestuurder
+1764,60697,DuPont ,"Morabit, Najim el",P126732,Bestuurder
+1765,60697,DuPont ,"Ritterbex, Jan Jozef Louis",P126592,Bestuurder
+1766,60697,DuPont ,"Smouter, Willem Maarten",P121597,Bestuurder
+1767,60701,SNS Reaal ,"Altena, Johan Karel Eduard",P131597,Bestuurder
+1768,60701,SNS Reaal ,"Berg, Erwin van den",P110331,Bestuurder
+1769,60701,SNS Reaal ,"Blocq, Benjamin",P114842,Bestuurder
+1770,60701,SNS Reaal ,"Bot, Eric Volquines Gerardus",P116411,Bestuurder
+1771,60701,SNS Reaal ,"Honsdrecht, Benno",P132385,Bestuurder
+1772,60701,SNS Reaal ,"Linger, Julien Milton",P130017,Bestuurder
+1773,60701,SNS Reaal ,"Ossel, Johannes",P108972,Bestuurder
+1775,60709,Reisbranche,"Boot, Willem Jan",P117930,Bestuurder
+1778,60709,Reisbranche,"Dwarswaard, Jacobus Cornelis",P120246,Bestuurder
+1779,60709,Reisbranche,"Eggen, Johannes Wilhelmus",P122708,Bestuurder
+1780,60709,Reisbranche,"Kasper, Arend",P121448,Bestuurder
+1783,60709,Reisbranche,"Vaan, Hendrikus Wilhelmus Theodorus de",P118043,Bestuurder
+1784,60709,Reisbranche,"Verbeek-Jansen, Theodora Johanna",P106792,Bestuurder
+1785,60709,Reisbranche,"Verborg, Johannes Wilhelmus Maria",P106030,Bestuurder
+1786,60709,Reisbranche,"Wever, Hindrik (Rik)",P111053,Bestuurder
+1788,60713,Smurfit Nederland,"Elschot, Franciscus Johannes Maria",P110573,Bestuurder
+1789,60713,Smurfit Nederland,"Ginkel, Teus van",P116796,Bestuurder
+1790,60713,Smurfit Nederland,"Paauw, Jan Antonius",P131704,Bestuurder
+1791,60713,Smurfit Nederland,Schotman,P117998,Bestuurder
+1792,60732,Gomacon,"Schuiteman, Jan Martin",P106437,Bestuurder
+1793,60732,Gomacon,"Steenbakker Morilyon Loijsen, Janny Neeltje",P106896,Bestuurder
+1794,60734,Nike ,"Frenzel, Bernd",P113407,Bestuurder
+1795,60734,Nike ,"Haterd, Wilhelmina Dorothea van de",P106338,Bestuurder
+1796,60734,Nike ,"O´Sullivan, Margaret Mary",P100088,Bestuurder
+1797,60734,Nike ,"Stam, Ronald Leendert",P106534,Bestuurder
+1798,60734,Nike ,"Veldhuis, Franciscus Henricus Bernardus",P112365,Bestuurder
+1799,60734,Nike ,"Weith, Richard Alan",P114859,Bestuurder
+1800,60754,Consumentenbond,"Bakker, Robertus Cornelis Louis",P102309,Bestuurder
+1801,60754,Consumentenbond,"Campen, Willem Johannes van",P107456,Bestuurder
+1802,60754,Consumentenbond,"Dahmen - Wesseling, Francisca",P130139,Bestuurder
+1803,60754,Consumentenbond,"Heijden, Reinout Amatus Maria van der",P127256,Bestuurder
+1804,60754,Consumentenbond,"Huis in 't Veld, Gerhardus Johannes Paulus",P114940,Bestuurder
+1805,60754,Consumentenbond,"Meijer, Marinus",P131431,Bestuurder
+1806,60754,Consumentenbond,"Willigenburg, Leo Philip",P114941,Bestuurder
+1807,60755,Vleeswaren Prepensionering,"Beek, Jan van",P120395,Bestuurder
+1808,60755,Vleeswaren Prepensionering,"Dijkstra, Erik",P102913,Bestuurder
+1810,60755,Vleeswaren Prepensionering,"Kruijk, Richard Peter van der",P129562,Bestuurder
+1811,60755,Vleeswaren Prepensionering,"Odink, Berend Jan",P101545,Bestuurder
+1813,60755,Vleeswaren Prepensionering,"Ploeg, Roelf Kornelis van der",P131265,Bestuurder
+1814,60755,Vleeswaren Prepensionering,"Post, Barthold Jacob",P116576,Bestuurder
+1816,60755,Vleeswaren Prepensionering,"Trepels, Johannes Petrus Gerardus Marie (Johan)",P112316,Bestuurder
+1818,60755,Vleeswaren Prepensionering,"Wevers, Jan Willem",P118800,Bestuurder
+1819,60767,KPN,"Belilos-Wessels, Alida Josephina Maria",P110859,Bestuurder
+1820,60767,KPN,"Blomsma, Roel Petrus Ferdinand",P104064,Bestuurder
+1821,60767,KPN,"Boogaerdt, Cornelis Johannes",P103942,Bestuurder
+1822,60767,KPN,"Burcksen, Jeroen Dyonisius Arnoldus",P113276,Bestuurder
+1823,60767,KPN,"Dijk, Johannes Auke van",P125682,Bestuurder
+1825,60767,KPN,"Harmsen, Robertus Hendrik",P120798,Bestuurder
+1826,60767,KPN,"Herpen, Joseph Paulus Onésimus Maria van",P107643,Bestuurder
+1827,60767,KPN,"Le Blanc, Lambertus Johannes Carolus Maria (Bart)",P124852,Bestuurder
+1828,60767,KPN,"Michielse, Cornelis Adrianus Maria",P117369,Bestuurder
+1830,60767,KPN,"Ooms, Frederik Hendrik Karel",P107512,Bestuurder
+1831,60767,KPN,"Osch, Jan-Maarten van",P130841,Bestuurder
+1832,60767,KPN,"Sluis, Corstiaan Christina van der",P120603,Bestuurder
+1833,60767,KPN,"Smit, Johan",P127134,Bestuurder
+1834,60767,KPN,"Snoeij, Edith Louise",P107716,Bestuurder
+1835,60767,KPN,"Velding, Wilhelmus Emma",P130935,Bestuurder
+1836,60767,KPN,"Verheij, Gerard",P108908,Bestuurder
+1837,60767,KPN,"Wallet, Willem",P103951,Bestuurder
+1838,60767,KPN,"Zelfde, Anne van 't",P120673,Bestuurder
+1839,60767,KPN,"Zwaagstra, Anselma Johanna Helena",P105977,Bestuurder
+1840,60777,SCA Hygiene,"Bulten, Frank",P113767,Bestuurder
+1841,60777,SCA Hygiene,"Eldijk, Ronald van",P129753,Bestuurder
+1842,60777,SCA Hygiene,"Engelen, Antonius Johannes Franciscus Maria van",P101351,Bestuurder
+1843,60777,SCA Hygiene,"Harten, Gerrit Jan van",P106981,Bestuurder
+1844,60777,SCA Hygiene,"Krauts, Robert Antonius Aleida Maria",P127019,Bestuurder
+1847,60777,SCA Hygiene,"Luiken, Eddy",P129764,Bestuurder
+1848,60777,SCA Hygiene,"Quint, Carolien Neely Henriëtte",P131575,Bestuurder
+1849,60777,SCA Hygiene,"Schapendonk, Fransiscus Antonius Cornelis",P100415,Bestuurder
+1850,60777,SCA Hygiene,"Sintemaartensdijk, Richard van",P129848,Bestuurder
+1851,60786,Bavaria,"Meeuws, Nicky Cornelis Antonius Lambertus",P132272,Bestuurder
+1852,60786,Bavaria,"Steen, Lambertus Marinus Maria van der",P131049,Bestuurder
+1854,60786,Bavaria,"Veen, Johannes Pieter van der",P104977,Bestuurder
+1855,60786,Bavaria,"Verbakel, Lidwien",P129372,Bestuurder
+1858,60788,Technische Groothandel Vroegpensioen,"Jong, Arjen Willem de",P113913,Bestuurder
+1859,60788,Technische Groothandel Vroegpensioen,"Kleijer-Blok, Lena Irene",P114495,Bestuurder
+1860,60788,Technische Groothandel Vroegpensioen,"Mol, Hermanus Cornelis",P110162,Bestuurder
+1862,60788,Technische Groothandel Vroegpensioen,"Vaan, Hendrikus Wilhelmus Theodorus de",P118043,Bestuurder
+1864,60788,Technische Groothandel Vroegpensioen,"Wit, Cornelis Jacobus Maria de",P117136,Bestuurder
+1867,60792,STIPP,"Citroen, Paul Adriaan",P127457,Bestuurder
+1868,60792,STIPP,"Dieduksman, Lucia (Lucy)",P112562,Bestuurder
+1869,60792,STIPP,"Jukema, Marten Edwert",P127034,Bestuurder
+1870,60792,STIPP,"Koops, Jurriën Helprig",P121502,Bestuurder
+1872,60792,STIPP,"Neut, Mariette Lucienne Monique van der",P111666,Bestuurder
+1873,60792,STIPP,"Nuijten, Marcel Jozef Maria",P129061,Bestuurder
+1874,60792,STIPP,"Planque, Jan Cornelis de",P121395,Bestuurder
+1875,60792,STIPP,"Raaijmakers, Martijn",P103710,Bestuurder
+1876,60792,STIPP,"Schikhof, Raimond Léon",P121432,Bestuurder
+1877,60792,STIPP,"Seffinga, Jan Gerrit",P105438,Bestuurder
+1879,60792,STIPP,"Tuit, Daniel Jasper",P107353,Bestuurder
+1882,60793,Xerox,"Geer, Jacobus Leonardus Petrus van der",P112098,Bestuurder
+1884,60793,Xerox,"Jansen, Adrianus Petrus Maria",P132332,Bestuurder
+1885,60793,Xerox,"Martens, Robert Karel Petrus",P128403,Bestuurder
+1886,60793,Xerox,"Muijsenberg, Johannes Franciscus Maria Antonius van den",P117010,Bestuurder
+1887,60793,Xerox,"Smeets, Robertus Gerardus Leonardus",P109775,Bestuurder
+1888,60793,Xerox,"Spruijt, Bram Nicolaas",P104788,Bestuurder
+1890,60798,Flexsecurity,"Ganzeboom, Ronaldus Hermanus Hendrikus",P118755,Bestuurder
+1891,60798,Flexsecurity,"Hammen, Edmund Léonard Simon",P129185,Bestuurder
+1893,60798,Flexsecurity,"Verheul, Marion Martha",P130837,Bestuurder
+1894,60799,Recreatie,"Dijk, Robertus Gerardus Antonius van",P110522,Bestuurder
+1895,60799,Recreatie,"Jansen, Franciscus Bernardus Petrus (Frank)",P112684,Bestuurder
+1897,60799,Recreatie,"Merks, Martin",P111554,Bestuurder
+1900,60799,Recreatie,"Schmidt, Aloysius Jozef Marie",P130914,Bestuurder
+1901,60799,Recreatie,"Straten, Marco Willem van",P104731,Bestuurder
+1902,60799,Recreatie,"Vincken, Leonardus Hubertina Carolus",P110366,Bestuurder
+1903,60799,Recreatie,"Vries, Eiltco Pieter de",P109774,Bestuurder
+1904,60800,AT&T,"Dorrepaal, Johanna Margaretha",P105608,Bestuurder
+1906,60800,AT&T,"Loots, Wouter",P121317,Bestuurder
+1907,60800,AT&T,"Minnen, Jeroen Dominicus Antonius van der",P129122,Bestuurder
+1908,60800,AT&T,"Valkenburgh, Tonny",P131649,Bestuurder
+1909,60801,BMS,"Agterberg, Louis Charles",P118216,Bestuurder
+1910,60801,BMS,"Grisin, Scott Andrew",P129702,Bestuurder
+1912,60801,BMS,"Ket, Edwin",P111141,Bestuurder
+1913,60806,Smurfit Kappa Nederland,"Beurskens, Godefridus Peter Franciscus",P115184,Bestuurder
+1914,60806,Smurfit Kappa Nederland,"Dijk, Pieter Riemer van",P102334,Bestuurder
+1915,60806,Smurfit Kappa Nederland,"Gestel, Joseph Anthonius van",P102336,Bestuurder
+1916,60806,Smurfit Kappa Nederland,"Heuvel, Marcelus Petrus Cornelus (Marc) van den",P113291,Bestuurder
+1918,60806,Smurfit Kappa Nederland,"Stoffer, Steven",P114923,Bestuurder
+1919,60806,Smurfit Kappa Nederland,"Vervoort, Edwinus Cornelius Petrus",P117940,Bestuurder
+1920,60818,ORTEC,"Heemskerk, Frederik",P101264,Bestuurder
+1921,60818,ORTEC,"Luijten, Wouter Alexander",P105264,Bestuurder
+1922,60818,ORTEC,"Scholing, Jacqueline Elisabeth Maria",P116574,Bestuurder
+1923,60818,ORTEC,"Timmer, Gerrit Theodoor",P113001,Bestuurder
+1924,60819,PepsiCo Nederland,"Bunschoten, Gerrit",P113925,Bestuurder
+1925,60819,PepsiCo Nederland,"Daas, Diederik Peter Otto den",P104023,Bestuurder
+1926,60819,PepsiCo Nederland,"Hollander, Antonius Jacobus Maria de",P101007,Bestuurder
+1927,60819,PepsiCo Nederland,"Knops, Jozef Hubert Marie",P102571,Bestuurder
+1928,60819,PepsiCo Nederland,"Schaab, Stefanie",P131762,Bestuurder
+1930,60819,PepsiCo Nederland,"Wentrup, Adolf Johannes Antonius Joseph",P131763,Bestuurder
+1931,60827,Watson Nederland,"Doorn, Dirk Everardus van",P122046,Bestuurder
+1932,60827,Watson Nederland,"Riel, van",P101612,Bestuurder
+1933,60834,Sligro,"Cooijmans, Johanna Cornelia Josephia Maria",P109255,Bestuurder
+1934,60834,Sligro,"Dijkstra, Anske Pier",P129819,Bestuurder
+1935,60834,Sligro,"Jansen, Wilhelmus Cornelis Andreas Antonius",P123736,Bestuurder
+1937,60834,Sligro,"Sluijs, Robert Wilhelmus August Johannes van der",P103826,Bestuurder
+1938,60845,Ecolab,"Goemans, Alexander Hein",P130628,Bestuurder
+1940,60845,Ecolab,"Jenner, Anthonius Everardus",P107805,Bestuurder
+1941,60845,Ecolab,"Jong, Wicher de",P129807,Bestuurder
+1942,60845,Ecolab,"Vries, Xander Raymond de",P107241,Bestuurder
+1943,60859,Textielgoederen,"Borm, Josephus Adrianus Johannes Maria",P121243,Bestuurder
+1944,60859,Textielgoederen,"Jansen, Adrianus Johannes Maria",P132432,Bestuurder
+1948,60859,Textielgoederen,"Loon, Christiaan Adrianus van",P129495,Bestuurder
+1951,60859,Textielgoederen,"Savenije, Henricus Joannes Dominicus Gregorius",P118654,Bestuurder
+1952,60859,Textielgoederen,"Timmermans, Maike",P126113,Bestuurder
+1953,60866,Blue Sky Group,"Bajema, Petrus Frederik",P122857,Bestuurder
+1955,60866,Blue Sky Group,"Brons, Sybren",P130490,Bestuurder
+1956,60866,Blue Sky Group,"Keijzers, Theodorus Gerardus Arnoldus",P126390,Bestuurder
+1958,60866,Blue Sky Group,"Paanen, Pepijn",P109844,Bestuurder
+1959,60866,Blue Sky Group,Silven-Keijzer,P116505,Bestuurder
+1960,60866,Blue Sky Group,"Voorhoeve, Erik Jochem Jacob",P116509,Bestuurder
+1961,60872,Abbott,"Broecks, Bert",P108452,Bestuurder
+1962,60872,Abbott,"Merison, Charles Marie Anton",P130952,Bestuurder
+1963,60872,Abbott,"Negro, Jonathan Michael",P106238,Bestuurder
+1964,60872,Abbott,"Voorhaar, Ronald",P110232,Bestuurder
+1965,60873,Sanoma,"Bijbau, Wouter Fridolin",P117512,Bestuurder
+1966,60873,Sanoma,"Dresselhuijs, Willem",P104649,Bestuurder
+1967,60873,Sanoma,"Driessen, Paul Karel Christianus Maria van",P104642,Bestuurder
+1968,60873,Sanoma,"Groenendijk, Alexander Petrus Johannes",P130962,Bestuurder
+1969,60873,Sanoma,"Guis, Jacobus",P130963,Bestuurder
+1970,60873,Sanoma,"Hoppe, Saskia Monique van",P130964,Bestuurder
+1971,60873,Sanoma,"Leenaars, Johannes Wilhelmus Bastianus Maria",P114509,Bestuurder
+1973,60876,E-Way,"Bosch, Nicolaas van den",P106913,Bestuurder
+1974,60876,E-Way,"Ettinger, Adrianus Wilhelmus van",P108992,Bestuurder
+1975,60876,E-Way,"Franquinet, Rémy Marie William Antione Luc",P130614,Bestuurder
+1976,60876,E-Way,Rodenburg,P116704,Bestuurder
+1977,60876,E-Way,"Wolf, Lucia Johanna van der",P107863,Bestuurder
+1979,60882,Vopak,"Bom, Cornelis Anthonij",P125793,Bestuurder
+1980,60882,Vopak,"Brouwer, Rolf Richardus Johannes",P131683,Bestuurder
+1981,60882,Vopak,"Hart, Job 't",P129556,Bestuurder
+1982,60882,Vopak,"Jonge van Ellemeet, Bonifacius Marinus de",P117481,Bestuurder
+1983,60882,Vopak,"Kroon, Anne-Marie Barbara",P131430,Bestuurder
+1985,60882,Vopak,"Vis, Albert",P114424,Bestuurder
+1986,60882,Vopak,"Vletter, Cornelis",P110174,Bestuurder
+1987,60882,Vopak,"Vriesendorp, Jacob",P109029,Bestuurder
+1988,60882,Vopak,"Wassenaar, Tjeerd",P112264,Bestuurder
+1989,60882,Vopak,"Wesseloo, Sandra",P111208,Bestuurder
+1990,60883,AVIKO,"Brandenburg, Johannes Bernardus Maria van",P120048,Bestuurder
+1991,60883,AVIKO,"Hendrix, Peter Hendrikus Theodorus",P117746,Bestuurder
+1992,60883,AVIKO,"Pater, Johan Jacob",P116644,Bestuurder
+1993,60883,AVIKO,"Peters, Hendrikus Jan Willem",P109912,Bestuurder
+1994,60883,AVIKO,"Tilburg, Peter Alexander van",P121063,Bestuurder
+1996,60883,AVIKO,"Zikken, Jantinus",P110769,Bestuurder
+1997,60886,Royal Leerdam,"Beurskens, Joost Jacobus Marie",P130823,Bestuurder
+1998,60886,Royal Leerdam,"Maanen, Richard Ferdinand Elbert Charles",P121550,Bestuurder
+1999,60886,Royal Leerdam,"Meijer, Martinus Arnoldus Johannes",P120579,Bestuurder
+2000,60886,Royal Leerdam,"Pak, Aart Antoon",P130824,Bestuurder
+2001,60886,Royal Leerdam,"Pleijsier, Marcel Klaas Jan Willem",P126177,Bestuurder
+2002,60886,Royal Leerdam,"Wijbenga, Gerard",P113359,Bestuurder
+2003,60887,Trespa,"Goris, Erik Jan",P128695,Bestuurder
+2004,60887,Trespa,"Herten-Cuijpers, Ingrid Elisabeth Caspar van",P117994,Bestuurder
+2005,60887,Trespa,"Niemantsverdriet, Marten Peter",P114404,Bestuurder
+2006,60887,Trespa,"Rosbergen, Johannes Matheus Catharina",P117995,Bestuurder
+2007,60889,UWV,"Aarts, Antonius Johannes Maria Christiaan",P110715,Bestuurder
+2008,60889,UWV,"Berendsen, Eduard Maria",P107158,Bestuurder
+2009,60889,UWV,"Bouwknegt, Harm Jan",P104912,Bestuurder
+2011,60889,UWV,"Hernandez Lara, Martha Lucia",P110725,Bestuurder
+2012,60889,UWV,"Huizing, Eric",P132375,Bestuurder
+2013,60889,UWV,"Kok, André Wouterus Maria",P107156,Bestuurder
+2014,60889,UWV,"Kruijf, Johannes Antonius Maria de",P103760,Bestuurder
+2016,60889,UWV,"Lemkes, Franciscus Joseph",P107157,Bestuurder
+2017,60889,UWV,"Raak, Josephus Henricus Maria van",P103751,Bestuurder
+2019,60889,UWV,"Schuurmans, Cornelis Ronald",P130506,Bestuurder
+2021,60891,SABIC,"Croonen, Guido Maria Martin",P113909,Bestuurder
+2022,60891,SABIC,"Dorn, Petrus Gerardus Henricus Maria",P117922,Bestuurder
+2023,60891,SABIC,"Gisbergen, Josephus Gerardus Maria van",P109015,Bestuurder
+2024,60891,SABIC,"Grin, Willem",P107117,Bestuurder
+2025,60891,SABIC,"Mastenbroek, Johannes Petrus",P131843,Bestuurder
+2026,60891,SABIC,"Nagtegaal, Andries Abert (Dries)",P121999,Bestuurder
+2027,60891,SABIC,"Sluis, Corstiaan Christina van der",P120603,Bestuurder
+2028,60891,SABIC,"Smit, Arthur James",P121200,Bestuurder
+2029,60891,SABIC,"Verwoort, Giselle",P104379,Bestuurder
+2030,60896,TrueBlue,"Dijkstra, Sijbe",P118491,Bestuurder
+2031,60896,TrueBlue,"Eggen, Johannes Wilhelmus",P122708,Bestuurder
+2033,60896,TrueBlue,"Ridder, Robert Hendrik de",P107723,Bestuurder
+2036,60896,TrueBlue,"Tuk, Jacob",P127808,Bestuurder
+2037,60896,TrueBlue,"Vaan, Hendrikus Wilhelmus Theodorus de",P118043,Bestuurder
+2040,60898,Fracties,"Geerts, Vincent Martijn",P129713,Bestuurder
+2041,60898,Fracties,"Imming, Ronaldus Johannes Titus (Ron)",P118339,Bestuurder
+2042,60898,Fracties,"Koning, Herman Dirk",P101486,Bestuurder
+2043,60898,Fracties,"Omvlee, Hans Marcel",P109561,Bestuurder
+2044,60898,Fracties,"Ree, Johannes Hendrikus Maria (Hans) van",P123785,Bestuurder
+2045,60899,Pensura,"Berge, Johan Herman Martin ten",P126775,Bestuurder
+2046,60899,Pensura,"Geerlings, Detlef Heiko Michael",P106971,Bestuurder
+2047,60899,Pensura,"Gengler, Arnoud Ubald Maria",P123415,Bestuurder
+2048,60899,Pensura,"Horssen, Sander van",P127545,Bestuurder
+2049,60899,Pensura,"Layton, Mark",P127553,Bestuurder
+2050,60899,Pensura,"Leeftink, Berend Jan",P118357,Bestuurder
+2051,60899,Pensura,"Mooij, Nicolaas",P118360,Bestuurder
+2052,60910,Huisartsen in Opleiding,"Bolderen, Alex Wilhelmus Johannes Maria van",P107297,Bestuurder
+2053,60910,Huisartsen in Opleiding,"Brugman, Edwin René",P109715,Bestuurder
+2054,60910,Huisartsen in Opleiding,"Esser, Cornelis Jeronimus",P111082,Bestuurder
+2055,60910,Huisartsen in Opleiding,"Molekamp, Franciscus Augustinus",P110286,Bestuurder
+2056,60910,Huisartsen in Opleiding,"Rumpt, Meindert van",P101728,Bestuurder
+2057,60910,Huisartsen in Opleiding,"Wit, Martinus Johannes Antonius de",P109395,Bestuurder
+2058,60911,Invista,"Harrison, Toby Gene",P104657,Bestuurder
+2059,60911,Invista,"Sipkema, Erik Nico",P126318,Bestuurder
+2060,60911,Invista,"Thomas, Jozef Hubertus Gerardus",P114902,Bestuurder
+2061,60911,Invista,"War, Tjeerd Jan",P126309,Bestuurder
+2062,60911,Invista,"Westhuis, Andreas Samuel",P103735,Bestuurder
+2063,60911,Invista,"Wita, Martin Joseph Johan",P112227,Bestuurder
+2064,60911,Invista,"Wouters-Vankan, Johanna Maria Elisabeth",P103741,Bestuurder
+2065,60914,YARA,"Berge, Eusebius Johannes Maria ten",P113639,Bestuurder
+2066,60914,YARA,"Feijter, Francois Martinus de",P101284,Bestuurder
+2067,60914,YARA,"Ploeg, Pieterjan van der",P106496,Bestuurder
+2068,60914,YARA,"Sneppen, Eric Jacobus van der",P130256,Bestuurder
+2070,60914,YARA,"Zwijns, Marco Herman",P114498,Bestuurder
+2073,60917,Achmea,"Graaf, Anne Martin de",P104234,Bestuurder
+2074,60917,Achmea,"Helm, Theodorus Johannes van der",P113690,Bestuurder
+2075,60917,Achmea,"Hoogteijling, Andrea Wilhelmina",P121352,Bestuurder
+2076,60917,Achmea,"Meulenbroek, Gijsbertus Theodorus Josephus",P121466,Bestuurder
+2077,60917,Achmea,"Mittertreiner, Franciscus Johannes",P127074,Bestuurder
+2079,60917,Achmea,"Raghoe, Rabinder Balkrishne",P131484,Bestuurder
+2080,60917,Achmea,"Roos, Willem Albert",P111256,Bestuurder
+2081,60917,Achmea,"Son, Garardus Adrianus Maria van",P128344,Bestuurder
+2082,60917,Achmea,"Tuyl, Johannes Matheus Maria van",P105859,Bestuurder
+2084,60917,Achmea,"Warmerdam, Gerardus Cornelis Maria",P128435,Bestuurder
+2085,60919,Buizerdlaan,"Bijkerk, Peter Jacobus",P130409,Bestuurder
+2086,60919,Buizerdlaan,"Bos, Mark Hendrik Robert",P107006,Bestuurder
+2087,60919,Buizerdlaan,"Hout, Jan van der",P132328,Bestuurder
+2088,60919,Buizerdlaan,"Jeu, Leonardus Theodorus Jacobus de",P121895,Bestuurder
+2089,60919,Buizerdlaan,"Meurs, Adrianus Everhardus",P128659,Bestuurder
+2090,60919,Buizerdlaan,"Vollebregt, Cornelis Antonius",P128908,Bestuurder
+2091,60920,Albemarle,"Booys, Jacob Lucius de",P105395,Bestuurder
+2092,60920,Albemarle,"Borm, Josephus Adrianus Johannes Maria",P121243,Bestuurder
+2093,60920,Albemarle,"Cornel, Jordy",P114490,Bestuurder
+2094,60920,Albemarle,"Duhoux, IJpeus Johannes",P105401,Bestuurder
+2095,60920,Albemarle,"Minnesma, Annemarie",P112800,Bestuurder
+2096,60920,Albemarle,"Plantenga, Frans Lodewijk",P110707,Bestuurder
+2097,60920,Albemarle,"Wiele, Kees van der",P114480,Bestuurder
+2098,60921,Vredestein Banden,"Blokhuis, Berend",P111335,Bestuurder
+2099,60921,Vredestein Banden,"Hettema, Kornelis Tetman",P128337,Bestuurder
+2100,60921,Vredestein Banden,"Mos, Johannes Albertus Nicolaas",P111320,Bestuurder
+2101,60921,Vredestein Banden,"Ottens, Johannes Zier",P127537,Bestuurder
+2102,60921,Vredestein Banden,"Schuring, Harm",P111334,Bestuurder
+2103,60921,Vredestein Banden,"Willigen, Jacobus Hubertus Gerrit van",P110256,Bestuurder
+2104,60924,B&S,"Amerongen, Olaf Marinus Hendrikus",P129156,Bestuurder
+2105,60924,B&S,"Kampers, Michiel",P109556,Bestuurder
+2106,60924,B&S,"Neele, Chantal Cathalina Elizabeth",P109565,Bestuurder
+2107,60924,B&S,"Stamkot, Christiaan",P103322,Bestuurder
+2108,60929,Bloemen en Planten,"Bosman, Erwin Hermanus Wilhelmus",P115387,Bestuurder
+2109,60929,Bloemen en Planten,"Dekkers, Gerrit Frederik",P111696,Bestuurder
+2111,60929,Bloemen en Planten,"Kraijpoel, Jacob Christinus",P103934,Bestuurder
+2113,60929,Bloemen en Planten,"Roodenburg, Robert",P122503,Bestuurder
+2114,60929,Bloemen en Planten,"Seffinga, Jan Gerrit",P105438,Bestuurder
+2118,60929,Bloemen en Planten,"Westhuis, Robert Mannes",P122506,Bestuurder
+2119,60929,Bloemen en Planten,"Zwaard, Pieter van der",P122507,Bestuurder
+2120,60933,IKEA,"Clooster Barones Sloet tot Everlo, Angénis Rudolphine Reynira Machteld van den",P131677,Bestuurder
+2121,60933,IKEA,"Haas, Johannes Jacobus Stephanus",P132027,Bestuurder
+2122,60933,IKEA,"Martens, Albert Johannes",P100980,Bestuurder
+2123,60933,IKEA,"Meer, Hendrik Jan van der",P116814,Bestuurder
+2124,60933,IKEA,"Zegwaard, Mariska Leonie",P132458,Bestuurder
+2125,60942,Givaudan,"Bockweg, Annemieke",P108411,Bestuurder
+2126,60942,Givaudan,"Bosch, Steven van den",P101380,Bestuurder
+2128,60942,Givaudan,"Houthuijzen, Barend Cornelis",P108762,Bestuurder
+2129,60943,Croda,"Hof, Cornelis van 't",P101610,Bestuurder
+2130,60943,Croda,"Keijzer, Willem",P128347,Bestuurder
+2131,60943,Croda,"Man, Nicolaas Hendrik",P101590,Bestuurder
+2132,60943,Croda,"Myers, Graham Lloyd",P101591,Bestuurder
+2133,60943,Croda,"Ronde, Hendrik Aloysius de",P110052,Bestuurder
+2134,60943,Croda,"Verburgh, Peter",P101588,Bestuurder
+2136,60944,General Electric ,"Bakker, Yvonne Magteld Marjolein den",P129405,Bestuurder
+2137,60944,General Electric ,"Kruijs, Theodorus Hendrikus Maria",P111895,Bestuurder
+2138,60944,General Electric ,"Kruize, RA",P109832,Bestuurder
+2139,60944,General Electric ,"Sardar, Taugir Akhtar",P127131,Bestuurder
+2140,60944,General Electric ,"Unnik, Diederik van",P101304,Bestuurder
+2141,60944,General Electric ,"Veenhuis, Klaas Jan",P104072,Bestuurder
+2142,60944,General Electric ,"Vroegh, Bastiaan",P102390,Bestuurder
+2144,60952,Caribisch Nederland,"Bergsma, Gerard Hendrik",P114057,Bestuurder
+2145,60952,Caribisch Nederland,"Bijleveld-Schouten, Ank",P126842,Bestuurder
+2147,60952,Caribisch Nederland,"Johnson, William",P109005,Bestuurder
+2148,60952,Caribisch Nederland,"Linkels, Harald Wolfgang Thorvald",P108999,Bestuurder
+2149,60952,Caribisch Nederland,"Maas, Cornelis Johannes Andreas",P109019,Bestuurder
+2150,60952,Caribisch Nederland,"Marcha, Valdemar Florentino",P109010,Bestuurder
+2151,60953,RBS Nederland,"Berg, Catharina Theodora Maria van den",P103004,Bestuurder
+2152,60953,RBS Nederland,"Heemskerk, J.J.",P108413,Bestuurder
+2153,60953,RBS Nederland,"Hegeman, Cornelis Johan",P110171,Bestuurder
+2154,60953,RBS Nederland,"Mathu, Stephan Garardus",P122543,Bestuurder
+2155,60953,RBS Nederland,"Ruiter, Johannes Anton (Jan) de",P128687,Bestuurder
+2156,60953,RBS Nederland,"Sibinga, Petrus Gerhardus",P116081,Bestuurder
+2157,60953,RBS Nederland,"Smeets, Lidwien Wilhelmien",P123088,Bestuurder
+2158,60960,Shell Nederland (SNPS),"Bouma, Janwillem",P106550,Bestuurder
+2159,60960,Shell Nederland (SNPS),"Breunesse, Ewald Andries",P115316,Bestuurder
+2160,60960,Shell Nederland (SNPS),"Handels, Willem Jozef",P103946,Bestuurder
+2162,60960,Shell Nederland (SNPS),"Tabak, Stefan Rafael",P117936,Bestuurder
+2163,60960,Shell Nederland (SNPS),"Westgeest, Petrus Martinus",P109876,Bestuurder
+2164,60960,Shell Nederland (SNPS),"Wildenberg, Hein Wendel Adriaan Louis van den",P131464,Bestuurder
+2165,60961,AFM,"Baars, Sander",P126290,Bestuurder
+2166,60961,AFM,"Bracco Gartner, Margaretha Elisabeth Josephine",P125754,Bestuurder
+2167,60961,AFM,"Vooijs, Paul Edwin",P103590,Bestuurder
+2168,60961,AFM,"Wouterson, Jerry Marc",P103593,Bestuurder
+2169,M0003,Transavia Grond- en Cabinepersoneel,"Borm, Josephus Adrianus Johannes Maria",P121243,Bestuurder
+2170,M0003,Transavia Grond- en Cabinepersoneel,"Gerritsma, Albert Willem",P121173,Bestuurder
+2171,M0003,Transavia Grond- en Cabinepersoneel,"Marée, Paulinus Antonius Maria",P104759,Bestuurder
+2173,M0003,Transavia Grond- en Cabinepersoneel,"Olk-Donker, Annemarie",P125554,Bestuurder
+2174,M0003,Transavia Grond- en Cabinepersoneel,"Parson, Bastiaan Gerard",P130679,Bestuurder
+2175,M0003,Transavia Grond- en Cabinepersoneel,"Spierings, Victor Andre Theodoor",P125868,Bestuurder
+2176,R127942,ING Bank CDC fonds,Boers,P130528,Bestuurder
+2177,R127942,ING Bank CDC fonds,"Dalen, Hasko Jan van",P107508,Bestuurder
+2178,R127942,ING Bank CDC fonds,"Hollenkamp, Andre Louis",P107510,Bestuurder
+2179,R127942,ING Bank CDC fonds,"Lundgren, Elina Victoria",P127244,Bestuurder
+2180,R127942,ING Bank CDC fonds,"Prins, Rients",P125156,Bestuurder
+2182,R127942,ING Bank CDC fonds,"Veldink, Laurens",P113159,Bestuurder
+2183,R127943,NN CDC fonds,"Dalen, Hasko Jan van",P107508,Bestuurder
+2184,R127943,NN CDC fonds,"Hollenkamp, Andre Louis",P107510,Bestuurder
+2185,R127943,NN CDC fonds,"Lundgren, Elina Victoria",P127244,Bestuurder
+2186,R127943,NN CDC fonds,"Prins, Rients",P125156,Bestuurder
+2188,R127943,NN CDC fonds,"Veldink, Laurens",P113159,Bestuurder
+2189,R127943,NN CDC fonds,"Wilson, Peggy Mildred Beatrice (Peggy)",P101071,Bestuurder
+2190,R128839,TNT express,"Eijgermans, Susan Yvon",P108306,Bestuurder
+2192,R128839,TNT express,"Haaksman, Bernd Jan",P114160,Bestuurder
+2193,R128839,TNT express,"Harmsen, Robertus Hendrik",P120798,Bestuurder
+2194,R128839,TNT express,"Renirie, Johannes Emenuel Robertus",P110125,Bestuurder
+2195,R128839,TNT express,"Stevens-Moes, Anna Joostina",P108009,Bestuurder
+2196,R129401,Zuivel en aanverwante industrie,"Gelder, Martin de",P105294,Bestuurder
+2201,R129401,Zuivel en aanverwante industrie,"Suarez Menendez, José",P101017,Bestuurder
+691,12345,Pensioenfederatie,"Rutten, Gerard",P118435,Bestuurder PF
+692,12345,Pensioenfederatie,"Wijngaarden, Arend van",P121177,Bestuurder PF
+693,12345,Pensioenfederatie,"Willemse, Dick",P117404,Bestuurder PF
+695,12345,Pensioenfederatie,"Bouma, Janwillem",P106550,Bestuurder PF
+696,12345,Pensioenfederatie,"Bruijn-Nooteboom, Petra Arina de",P100065,Bestuurder PF
+697,12345,Pensioenfederatie,"Heuvel, Theodora, Paulina, Johanna, Adriana van den",P113692,Bestuurder PF
+698,12345,Pensioenfederatie,"Kragten, Robertus Jacobus Jozef",P110378,Bestuurder PF
+699,12345,Pensioenfederatie,"Meijer, Josepha",P126621,Bestuurder PF
+700,12345,Pensioenfederatie ,"Noordman, Willem Johannes Maria",P120002,Bestuurder PF
+701,12345,Pensioenfederatie ,"Snellen, Andreas Hedrik Jacob",P120743,Bestuurder PF
+702,12345,Pensioenfederatie ,"Werf-de Koning, Catharina Maria van der",P100240,Bestuurder PF
+703,12345,Pensioenfederatie,"Wilson, Peggy Mildred Beatrice (Peggy)",P101071,Bestuurder PF
+5,1,Huisartsen ,"Reesink, Johan",P106276,Bestuursvoorzitter
+9,2,Tandartsen  ,"Hoovers, Constant Louis Johannes Maria",P123567,Bestuursvoorzitter
+14,3,Medische Specialisten,"Bijl, Micon",P100298,Bestuursvoorzitter
+24,4,Apothekers,"Hagenzieker, Mark Anton",P120550,Bestuursvoorzitter
+36,8,Verloskundigen,"Bartels, Maria Elisabeth Adriana",P128809,Bestuursvoorzitter
+44,9,Dierenartsen,"Smit, Mannes",P111719,Bestuursvoorzitter
+47,12,Loodsen ,"Duyzer, Jan Willem",P116746,Bestuursvoorzitter
+50,13,Roeiers  ,"Boogaard, Ralph van den",P113818,Bestuursvoorzitter
+55,29,Notarieel,"Greup, Eric Peter",P128391,Bestuursvoorzitter
+94,44,Kuwait Petroleum Nederland,"Thomassen, Petrus Maria Johannes",P113416,Bestuursvoorzitter
+106,102,Huysman,"Siebesma, Raimond Jan Pieter",P117247,Bestuursvoorzitter
+113,342,Henkel,"Janssen, Hubertus Maria Eugenius",P100143,Bestuursvoorzitter
+117,608,Mn Services,"Heerkens, Robertus Wilhelmus Jozef",P116851,Bestuursvoorzitter
+131,692,TNO,"Schmidt, Dick Philip",P103289,Bestuursvoorzitter
+147,900,Philips,"Wijmenga, Roel Theunis",P119339,Bestuursvoorzitter
+149,1491,Protector,"Linden, Antonius Jozef Van der",P102752,Bestuursvoorzitter
+156,1626,Media PNO ,"Altenburg, Petronelle Maria",P104364,Bestuursvoorzitter
+174,1757,Heineken,"Hoytema van Konijnenburg, Robin Paul",P120266,Bestuursvoorzitter
+196,2200,KLM Vliegend Personeel,"Kok, Eltjo Herman",P100474,Bestuursvoorzitter
+203,2392,Personeelspensioenfonds APG,"Brouwer, Marco",P129504,Bestuursvoorzitter
+214,2585,GE Artesia Bank,"Roodbol, Laurencius Johannes Maria",P121739,Bestuursvoorzitter
+227,2776,HAL,"Vink, Ard Sebastiaan",P131607,Bestuursvoorzitter
+229,2931,Lucht- en Ruimtevaartlaboratorium,"Esselman, Leendert Willem",P123850,Bestuursvoorzitter
+241,3053,Grolsch Bierbrouwerij,"Thoman, Henri Jacques",P119229,Bestuursvoorzitter
+245,3054,British American Tobacco,"Dulst, Johannes van",P129492,Bestuursvoorzitter
+249,3062,Deutsche Bank Nederland,"Huis in 't Veld, Simone Erlinde",P109707,Bestuursvoorzitter
+256,3580,Norit,"Bakker, Robertus Cornelis Louis",P102309,Bestuursvoorzitter
+264,3691,ANWB ,"Groen, Jacob",P101581,Bestuursvoorzitter
+274,4071,Douwe Egberts,"Ligtenstein, Quirijn Gijsbrecht",P118234,Bestuursvoorzitter
+287,4306,Kas Bank,"Stoffels, Mark Rene",P105808,Bestuursvoorzitter
+292,4308,ERIKS ,"Boer, de",P117473,Bestuursvoorzitter
+312,4634,Shell (SSPF),"Louw, Garmt Johan Ageruurd",P117710,Bestuursvoorzitter
+319,4654,Hagee,"Groot, Gerard Thomas Felix Maria",P125557,Bestuursvoorzitter
+335,5087,Cindu International,"Pernis, Robbert Adriaan van",P114454,Bestuursvoorzitter
+343,5514,Ballast Nedam,"Vis, Dirk Johan",P109864,Bestuursvoorzitter
+354,5543,Provisum,"Pieters, Gerrit Jan Martinus",P126700,Bestuursvoorzitter
+363,5580,Transport,"Wurff, Adrianus Wilhelmus Ignatius Maria van der",P120960,Bestuursvoorzitter
+380,6085,Ernst & Young,"Jager, Nicolaas Guiseppe de",P121735,Bestuursvoorzitter
+389,6102,Mercer,"Wit, Marcel Gérard Andreas Bernhard de",P115964,Bestuursvoorzitter
+415,7044,Hoogovens,"Mensonides, Jelle",P114077,Bestuursvoorzitter
+422,7065,NIBC,"Punt, Leendert Willem",P111500,Bestuursvoorzitter
+430,7113,ABN AMRO Bank,"Horzen, Johan Adri van",P109632,Bestuursvoorzitter
+441,7158,Heinz,"Theunissen, Arthur Jan Elisabeth Joseph",P128816,Bestuursvoorzitter
+445,7777,Cosun,"Nieuwenhof, Wilhelmus Petrus Charles van den",P125807,Bestuursvoorzitter
+457,7781,APF,"Kuijken, Cornelis David (Kees)",P122758,Bestuursvoorzitter
+469,7837,Nederlandsche Bank,"Schilthuis, Floris Andreas",P112370,Bestuursvoorzitter
+475,7842,Co-op,"Bergervoet, Jacqueline Aleida Maria",P121377,Bestuursvoorzitter
+477,7842,Co-op,"Gameren, Theodorus van",P121577,Bestuursvoorzitter
+489,8416,Grontmij,"Visser, Epeus Rinze",P104507,Bestuursvoorzitter
+490,9041,Alliance,"Duivenvoorden, Wilhelmus Cornelis",P105273,Bestuursvoorzitter
+502,9873,IFF,"Kippersluis, Hendricus Josephus van",P121472,Bestuursvoorzitter
+512,10036,Lanschot,"Zeverijn, Willem Sako",P104875,Bestuursvoorzitter
+516,10541,"Mode-, Interieur-, Tapijt- en Textielindustrie (MITT)","Hofman, Nicolette Louise",P102314,Bestuursvoorzitter
+528,10542,Metalektro (PME),"Briët, Francois Cornelis Willem",P119791,Bestuursvoorzitter
+555,10547,Bouwnijverheid,"Ruis, Jan",P121094,Bestuursvoorzitter
+557,10547,Bouwnijverheid,"Veldhuizen- van der Bijl, Maria Bernardina van",P121506,Bestuursvoorzitter
+561,10549,"Schilders-, Afwerkings- en Glaszetbedrijf","Haaster, Theodorus Johannes Maria van",P116713,Bestuursvoorzitter
+568,10549,"Schilders-, Afwerkings- en Glaszetbedrijf","Veldhuizen- van der Bijl, Maria Bernardina van",P121506,Bestuursvoorzitter
+600,10560,Sigarenindustrie,"Hompe, Gijsbert Willem",P105982,Bestuursvoorzitter
+607,10561,Slagersbedrijf,"Brink, Willem van den",P126481,Bestuursvoorzitter
+615,10561,Slagersbedrijf,"Klijn, Johannes Eduard",P121695,Bestuursvoorzitter
+622,10565,Landbouw,"Clercq, Rene Le",P110490,Bestuursvoorzitter
+632,10565,Landbouw,"Roest, Gerardus Petrus Maria Joseph",P121288,Bestuursvoorzitter
+637,10682,Bakkersbedrijf,"Beekum, Leo van",P116861,Bestuursvoorzitter
+650,10682,Bakkersbedrijf,"Vall, Jacobus Hendrikus Maria van de",P117322,Bestuursvoorzitter
+657,11322,Koopvaardij,"Hylkema, Hijlke Johan Augustinus Hubertus",P115315,Bestuursvoorzitter
+665,11492,Telegraaf,"Arkel, Gerrit Hermanus Jan van",P119826,Bestuursvoorzitter
+673,11756,Schoen en Leder,"Dassen-Soons, Charlotte",P125385,Bestuursvoorzitter
+678,11756,Schoen en Leder,"Nuijten-van Aard, Adriana Johanna Antonetta",P114900,Bestuursvoorzitter
+682,12212,Meubelindustrie,"Bruijn-Nooteboom, Petra Arina de",P100065,Bestuursvoorzitter
+704,13358,Notariaat,"Baakman, Antonius Bernardus Maria",P121561,Bestuursvoorzitter
+708,13358,Notariaat,"Greup, Eric Peter",P128391,Bestuursvoorzitter
+711,13358,Notariaat,"Marks, Augustinus Jules Antonius",P106739,Bestuursvoorzitter
+720,13579,Will Niemeijer,"Smink, Wilhelmus Johannes Lambertus",P128409,Bestuursvoorzitter
+726,14089,Grafische Bedrijven (PGB),"Degenhardt, Rudolf",P121043,Bestuursvoorzitter
+741,14311,Vleesindustrie,"Klijn, Johannes Eduard",P121695,Bestuursvoorzitter
+756,14400,Waterbouw,"Crombeen, Johannes Gijsbertus (Hans)",P127269,Bestuursvoorzitter
+762,14400,Waterbouw,"Roozemond, Christine Elizabeth",P100615,Bestuursvoorzitter
+776,15133,Betonproducten,"Korthof, Henk",P108935,Bestuursvoorzitter
+801,15565,Medewerkers Apotheken,"Zijl, Anthoni van",P105805,Bestuursvoorzitter
+804,15629,Houtverwerkende industrie,"Custers, Stephanus Maria Johannes",P121081,Bestuursvoorzitter
+814,16458,Bouwmaterialen,"Alferink, Gijs",P105365,Bestuursvoorzitter
+819,16458,Bouwmaterialen,"Lonsain, Christian",P102997,Bestuursvoorzitter
+826,16534,Architectenbureaus,"Boot, Willem Jan",P117930,Bestuursvoorzitter
+832,16534,Architectenbureaus,"Parênt, Wilhelmus Maria",P128307,Bestuursvoorzitter
+841,16761,Delta Lloyd,"Mazijk, Rob van",P129110,Bestuursvoorzitter
+855,17571,Vlakglas Verf,"Vall, Jacobus Hendrikus Maria van de",P117322,Bestuursvoorzitter
+864,17687,Bibliotheken,"Teunissen, Cornelie Petronella Margaretha",P102331,Bestuursvoorzitter
+873,18397,Molenaars,"Slob, Dirk Pieter",P109148,Bestuursvoorzitter
+899,20118,Woningcorporaties,"Schuyt, Jacobus Gerardus Clemens Maria",P104950,Bestuursvoorzitter
+903,20269,Atradius,"Hall, Alphonsus Maria van der",P102348,Bestuursvoorzitter
+917,22742,Nielsen AC,"Harmsen, Eric Theodorus",P107884,Bestuursvoorzitter
+929,23361,Zorgverzekeraars,"Wurff, Adrianus Wilhelmus Ignatius Maria van der",P120960,Bestuursvoorzitter
+949,32181,Schoenmakerij,"Hoekenga-Idema, Maria Geertruida",P116829,Bestuursvoorzitter
+953,32181,Schoenmakerij,"Nuijten-van Aard, Adriana Johanna Antonetta",P114900,Bestuursvoorzitter
+956,32436,Zoetwarenindustrie,"Dekker, Leo Jacques Louis",P108078,Bestuursvoorzitter
+961,32436,Zoetwarenindustrie,"Jansen, Leonne Fransisca Aleida Maria",P127257,Bestuursvoorzitter
+974,32489,TOTAL,"Schaik, Alexander van",P107278,Bestuursvoorzitter
+978,32595,Textielverzorging,"Katerberg, Thie",P118702,Bestuursvoorzitter
+979,32595,Textielverzorging,Neijenhuijs,P118807,Bestuursvoorzitter
+982,32868,Horeca,"Aben, Gerardus Theodorus Cornelis Antonius",P121662,Bestuursvoorzitter
+993,32868,Horeca,"Vries, Eiltco Pieter de",P109774,Bestuursvoorzitter
+1001,33519,Beroepsvervoer,"Ceelen, Leonardus Joannes Henricus",P116731,Bestuursvoorzitter
+1002,33519,Beroepsvervoer,"Hidding, Roelofje",P123423,Bestuursvoorzitter
+1008,33708,Kunststof- en Rubber,"Altundal, Nurettin",P110134,Bestuursvoorzitter
+1012,33708,Kunststof- en Rubber,"Jager, Arnoldus Nicolaas",P126056,Bestuursvoorzitter
+1018,34124,Hunter Douglas,"Luijben, Cornelis Henricus Jozef (Kees)",P120590,Bestuursvoorzitter
+1021,34561,Levensmiddelen Groothandel,"Bergervoet, Jacqueline Aleida Maria",P121377,Bestuursvoorzitter
+1031,34780,Mars,"Ettinger, Adrianus Wilhelmus van",P108992,Bestuursvoorzitter
+1045,36105,Gasunie,Pisuisse,P121025,Bestuursvoorzitter
+1076,36945,Zeevisserij,"Schaap, Margaretha Anna Geertruida (Marga)",P122626,Bestuursvoorzitter
+1079,37247,Rabobank,"Bruggink, Albertus",P106196,Bestuursvoorzitter
+1098,37681,Forbo,"Mak, Herman",P131376,Bestuursvoorzitter
+1107,39775,Hewitt Nederland,"Mandos, René Johannes",P113498,Bestuursvoorzitter
+1122,42049,Groothandel,"Slikkerveer, Ivo",P111378,Bestuursvoorzitter
+1127,42467,Levensmiddelen,"Have, Hendrikus Bernardus Maria ten",P114039,Bestuursvoorzitter
+1152,42569,Deloitte,"Volkers, Jorrit",P111098,Bestuursvoorzitter
+1156,42937,Schoonmaak- en Glazenwassers,"Penders, Henri Joseph Paul",P121248,Bestuursvoorzitter
+1167,43756,OWASE,Meijerink,P120587,Bestuursvoorzitter
+1173,44057,Randstad,"Leeuw, Sietze de",P111381,Bestuursvoorzitter
+1184,44380,Kappersbedrijf,"Lahoye, René Antonius Johannes",P117431,Bestuursvoorzitter
+1199,44862,Zorg en Welzijn,"Alders, Johannes Gerardus Maria",P120810,Bestuursvoorzitter
+1217,46210,Allianz Nederland,"Boeve, Henk Leo Roger",P101285,Bestuursvoorzitter
+1234,47068,Ardagh,"Vissers, Johannes Charles Elisabeth Marie",P120503,Bestuursvoorzitter
+1240,47074,Metro,"Rijksen, Adriaan Frank",P130158,Bestuursvoorzitter
+1242,47121,Nedlloyd,"Machielsen, Herman Jeppe",P110958,Bestuursvoorzitter
+1248,47162,Calpam,"Cappelle, Karel Frederik van",P107247,Bestuursvoorzitter
+1257,47678,Detailhandel,"Kolk, Hendrik Tiem van der",P117543,Bestuursvoorzitter
+1262,47678,Detailhandel,"Popta, Klaas Benne van",P121257,Bestuursvoorzitter
+1266,47678,Detailhandel,"Snellen, Andreas Hedrik Jacob",P120743,Bestuursvoorzitter
+1271,47985,TDV,"Möller, Frederik Andre",P122684,Bestuursvoorzitter
+1279,48375,Staples,"Haker, Michel Jean Marie",P109805,Bestuursvoorzitter
+1298,48477,Dow,"Thomas, Arnold Jozef Maria",P131088,Bestuursvoorzitter
+1302,48965,Legal & General,"Bruijne, Pieter Cornelis de",P120738,Bestuursvoorzitter
+1316,49417,DSM,"Nicolaï, Atzo",P102943,Bestuursvoorzitter
+1322,50018,Brocacef,"Eeken, Johannes Petrus",P117696,Bestuursvoorzitter
+1334,50051,MSD,"Mattijssen, Franciscus Robertus Maria",P121454,Bestuursvoorzitter
+1347,50052,Elsevier,"Schepen, Jacob Roland",P112675,Bestuursvoorzitter
+1351,50555,Heijmans,"Oostrom, Hermanus Stephanus Maria van",P117451,Bestuursvoorzitter
+1355,50558,Wijsmuller,"Maris, Williebrordus Jacobus van",P121269,Bestuursvoorzitter
+1360,50560,Lloyd's Register,"Holthuis, Anthonius Wilhelmus Maria",P105933,Bestuursvoorzitter
+1367,51180,Robeco,"Frielink, Ivo Reinier Maria",P100208,Bestuursvoorzitter
+1378,60011,AZL,"Beckers, Wilhelmus Nicolaas Caspar",P121271,Bestuursvoorzitter
+1395,60019,Ten Cate,"Mol, Niek",P128262,Bestuursvoorzitter
+1399,60056,Vitol Anker,"Eeltink, Andries Pieter",P108784,Bestuursvoorzitter
+1407,60082,Coram,"Hulshof, Paulus Franciscus Maria",P106663,Bestuursvoorzitter
+1413,60084,Witteveen & Bos,"Graaf, Jacob Hendrik Joseph Maria van der",P125283,Bestuursvoorzitter
+1432,60109,KLM-Cabinepersoneel,"Kok, Eltjo Herman",P100474,Bestuursvoorzitter
+1444,60114,Progress Unilever,"Stolk, Cornelis Jacob",P104158,Bestuursvoorzitter
+1453,60123,Fluor Nederland,Touw,P117333,Bestuursvoorzitter
+1455,60127,VNU,"Penninx, Egidius Gijbertus Maria",P109024,Bestuursvoorzitter
+1464,60171,Unirobe Meeus,"Mik, Dirk Henk",P103337,Bestuursvoorzitter
+1479,60212,Fresenius ,"Siebesma, Raimond Jan Pieter",P117247,Bestuursvoorzitter
+1483,60216,Hewlett-Packard,"Lasonder, Marcel",P111809,Bestuursvoorzitter
+1498,60263,Bisdommen,"Frankort, Martinus Maria Wilhelmus",P108131,Bestuursvoorzitter
+1517,60276,Openbaar Vervoer,"Witte, Peter Paul",P125869,Bestuursvoorzitter
+1519,60291,Remia,"Eekelen, Pieter Johannes Cornelis van",P121838,Bestuursvoorzitter
+1541,60327,Martinair Vliegers,"Hougée, Robert (Rob)",P107809,Bestuursvoorzitter
+1551,60342,TBI,"Poldervaart, Willem",P112437,Bestuursvoorzitter
+1555,60348,BP,"Gunnewijk, Sjoerd",P110312,Bestuursvoorzitter
+1572,60374,Banden- en Wielen,"Spruijbroek, Rudolph Jan Leonard",P101962,Bestuursvoorzitter
+1577,60376,Getronics,"Ooms, Frederik Hendrik Karel",P107512,Bestuursvoorzitter
+1579,60388,Unisys,"Brandse, Wim Paul",P109044,Bestuursvoorzitter
+1587,60397,AHOLD,"Dik, Christianus Willebrordus",P107203,Bestuursvoorzitter
+1611,60465,Loodswezen,"Schaap, Margaretha Anna Geertruida (Marga)",P122626,Bestuursvoorzitter
+1624,60514,Particuliere Beveiliging,"Kestens, Johannes Christoffel Antonius",P119873,Bestuursvoorzitter
+1635,60523,Security,"Zeeuw, Krijn de",P126591,Bestuursvoorzitter
+1636,60527,Towers Watson,"Doorn, Dirk Everardus van",P122046,Bestuursvoorzitter
+1657,60543,Cap Gemini ,"Knol, Hendrik",P117890,Bestuursvoorzitter
+1663,60553,Astellas,"Veenvliet, Dirk",P107472,Bestuursvoorzitter
+1668,60561,Atos Origin,"Penders, Henri Joseph Paul",P121248,Bestuursvoorzitter
+1676,60564,Campina,"Ridder, Cornelis de",P115381,Bestuursvoorzitter
+1687,60592,Urenco,"Vis, Dirk Johan",P109864,Bestuursvoorzitter
+1689,60602,Avebe,Miedema,P118875,Bestuursvoorzitter
+1695,60607,Alcatel-Lucent,"Koenhein, Jasper",P101372,Bestuursvoorzitter
+1709,60641,Astellas Fut,"Veenvliet, Dirk",P107472,Bestuursvoorzitter
+1723,60661,McCain,"Bemd, Henricus Antonius Maria van den",P109670,Bestuursvoorzitter
+1733,60668,ING,"Prins, Rients",P125156,Bestuursvoorzitter
+1743,60676,IBM Nederland,"Vledder, Roeland Henricus Adrianus van",P126806,Bestuursvoorzitter
+1757,60689,Sagittarius,"Mol, Niek",P128262,Bestuursvoorzitter
+1761,60697,DuPont ,"Dorsten, Franciscus Willibrordus van",P111859,Bestuursvoorzitter
+1774,60701,SNS Reaal ,"Thoman, Henri Jacques",P119229,Bestuursvoorzitter
+1781,60709,Reisbranche,"Radstake, Frank",P104249,Bestuursvoorzitter
+1787,60713,Smurfit Nederland,"Dijk, Pieter Riemer van",P102334,Bestuursvoorzitter
+1809,60755,Vleeswaren Prepensionering,"Klijn, Johannes Eduard",P121695,Bestuursvoorzitter
+1824,60767,KPN,"Gameren, Petrus van",P110121,Bestuursvoorzitter
+1829,60767,KPN,"Nieuwenhoven, Rudolf Antonie",P122986,Bestuursvoorzitter
+1845,60777,SCA Hygiene,"Ligthart, Eliza (Loek)",P129411,Bestuursvoorzitter
+1853,60786,Bavaria,"Swinkels, Petrus Johannes Franciscus",P102137,Bestuursvoorzitter
+1857,60788,Technische Groothandel Vroegpensioen,"Diem, Theo van",P111456,Bestuursvoorzitter
+1866,60792,STIPP,"Bosman, Erwin Hermanus Wilhelmus",P115387,Bestuursvoorzitter
+1889,60793,Xerox,"Zeverijn, Willem Sako",P104875,Bestuursvoorzitter
+1892,60798,Flexsecurity,"Schikhof, Raimond Léon",P121432,Bestuursvoorzitter
+1905,60800,AT&T,"Hertog, Vincent Hubrecht den",P109845,Bestuursvoorzitter
+1911,60801,BMS,"Janssen, Els Hetty",P131038,Bestuursvoorzitter
+1929,60819,PepsiCo Nederland,"Siebesma, Raimond Jan Pieter",P117247,Bestuursvoorzitter
+1936,60834,Sligro,"Rozendaal, van",P120583,Bestuursvoorzitter
+1939,60845,Ecolab,"Hagoort, Roelf Jozias",P107237,Bestuursvoorzitter
+1945,60859,Textielgoederen,"Kelder, Johan Eduard",P118563,Bestuursvoorzitter
+1946,60859,Textielgoederen,"Lanz, Julius Frederik",P105441,Bestuursvoorzitter
+1954,60866,Blue Sky Group,"Bisschop, Orpa",P116508,Bestuursvoorzitter
+1957,60866,Blue Sky Group,"Nagtegaal, Robert George",P120788,Bestuursvoorzitter
+1972,60873,Sanoma,"Marseille, Mark",P107087,Bestuursvoorzitter
+1984,60882,Vopak,"Ravenstein, Michiel van",P117483,Bestuursvoorzitter
+2010,60889,UWV,"Galen, Franciscus van",P104914,Bestuursvoorzitter
+2032,60896,TrueBlue,"Keukelaar, Johannis Pieter",P118497,Bestuursvoorzitter
+2039,60898,Fracties,"Dijk, Erica van",P107899,Bestuursvoorzitter
+2069,60914,YARA,"Vlaeminck, Peter Emiel Marie",P121620,Bestuursvoorzitter
+2071,60917,Achmea,"Brink, Johannes Robert Peter van den",P117296,Bestuursvoorzitter
+2112,60929,Bloemen en Planten,"Roest, Gerardus Petrus Maria Joseph",P121288,Bestuursvoorzitter
+2116,60929,Bloemen en Planten,"Verschuren, Frank",P117042,Bestuursvoorzitter
+2127,60942,Givaudan,"Deursen, Ineke Huberdina Maria van",P123007,Bestuursvoorzitter
+2143,60949,GSFS,"Ravenzwaaij, Paul Michael van",P128224,Bestuursvoorzitter
+2161,60960,Shell Nederland (SNPS),"Louw, Garmt Johan Ageruurd",P117710,Bestuursvoorzitter
+2172,M0003,Transavia Grond- en Cabinepersoneel,"Nijman, Johannes Petrus Simon Ignatius",P114127,Bestuursvoorzitter
+2191,R128839,TNT express,"Gameren, Petrus van",P110121,Bestuursvoorzitter
+2197,R129401,Zuivel en aanverwante industrie,"Jager, Arnoldus Nicolaas",P126056,Bestuursvoorzitter
+11,2,Tandartsen  ,"Verhulst, Jaqueline Louise",P130668,Lid Raad van Toezicht
+16,3,Medische Specialisten,"Kleynen, Rudolf Hubert Marie Arie",P108092,Lid Raad van Toezicht
+17,3,Medische Specialisten,"Melis, Danielle Adriana Maria",P130375,Lid Raad van Toezicht
+18,3,Medische Specialisten,"Schuit, Steven Reinier",P130373,Lid Raad van Toezicht
+57,29,Notarieel,"Kiliaan, Juanita",P100838,Lid Raad van Toezicht
+66,30,ABP ,"Groot, Peter de",P130351,Lid Raad van Toezicht
+70,30,ABP ,"Loonen - van Es, Nicole Cornelia Geertruida",P130919,Lid Raad van Toezicht
+72,30,ABP ,"Meer, Johanna Francisca Maria van der",P130918,Lid Raad van Toezicht
+75,30,ABP,"Roozemond, Christine Elizabeth",P100615,Lid Raad van Toezicht
+119,608,Mn Services,"Made, Lysanne Adriane Cornelia van der",P120795,Lid Raad van Toezicht
+122,608,Mn Services,"Reeuwijk, Hendrik Arie van",P130525,Lid Raad van Toezicht
+163,1626,Media PNO ,"Penders, Henri Joseph Paul",P121248,Lid Raad van Toezicht
+164,1626,Media PNO ,"Pontier, Johan Hendrik",P124266,Lid Raad van Toezicht
+262,3691,ANWB ,"Boer, Hendrik Maarten den",P128227,Lid Raad van Toezicht
+265,3691,ANWB ,"Lint, Meeuwis Marinus de",P101597,Lid Raad van Toezicht
+305,4634,Shell (SSPF),"Baljet, Willem Aaldert Hendrinus",P126878,Lid Raad van Toezicht
+455,7781,APF,"Gram, Anne",P110723,Lid Raad van Toezicht
+458,7781,APF,"Smit, Dirk Jan",P130827,Lid Raad van Toezicht
+459,7781,APF,"Voorhoeve, Erik Jochem Jacob",P116509,Lid Raad van Toezicht
+465,7837,Nederlandsche Bank,"Gram, Anne",P110723,Lid Raad van Toezicht
+466,7837,Nederlandsche Bank,"Groot, Peter de",P130351,Lid Raad van Toezicht
+513,10541,"Mode-, Interieur-, Tapijt- en Textielindustrie (MITT)","Eekelen, Pieter Johannes Cornelis van",P121838,Lid Raad van Toezicht
+514,10541,"Mode-, Interieur-, Tapijt- en Textielindustrie (MITT)","Eikenboom, Antoinetta Elisabeth",P131079,Lid Raad van Toezicht
+525,10541,"Mode-, Interieur-, Tapijt- en Textielindustrie (MITT)","Tromp, Adriaan Christiaan",P127594,Lid Raad van Toezicht
+545,10547,Bouwnijverheid,"Capitain, Erwin Robert",P110208,Lid Raad van Toezicht
+547,10547,Bouwnijverheid,"Hommes, Ruud",P106377,Lid Raad van Toezicht
+559,10549,"Schilders-, Afwerkings- en Glaszetbedrijf","Boersma, Meike Ottilia",P130269,Lid Raad van Toezicht
+567,10549,"Schilders-, Afwerkings- en Glaszetbedrijf","Uijen, Everhardus Anthonius Wilhelmus Maria",P116805,Lid Raad van Toezicht
+577,10557,Metaal en Techniek (PMT),"Klopper, Jan Philip Walter",P127188,Lid Raad van Toezicht
+584,10557,Metaal en Techniek (PMT),"Veen, Aalko van der",P106422,Lid Raad van Toezicht
+585,10557,Metaal en Techniek (PMT),"Verheij, Gerard",P108908,Lid Raad van Toezicht
+589,10559,Houthandel,"Carrière, Johan Daniël",P130611,Lid Raad van Toezicht
+595,10559,Houthandel,"Slob, Dirk Pieter",P109148,Lid Raad van Toezicht
+598,10560,Sigarenindustrie,"Doorduyn, Arie drs",P113104,Lid Raad van Toezicht
+603,10560,Sigarenindustrie,"Manning, Robert Philippe",P113223,Lid Raad van Toezicht
+608,10561,Slagersbedrijf,"Bruijn-Nooteboom, Petra Arina de",P100065,Lid Raad van Toezicht
+619,10561,Slagersbedrijf,"Uyl, Xander Johannes den",P107770,Lid Raad van Toezicht
+627,10565,Landbouw,"Heiden- Aantjes, Leentje Hendrika van der",P131094,Lid Raad van Toezicht
+634,10565,Landbouw,"Smolenaers, Albert Henricus Dorothea",P131093,Lid Raad van Toezicht
+639,10682,Bakkersbedrijf,"Elema, Mattheus",P105287,Lid Raad van Toezicht
+645,10682,Bakkersbedrijf,"Leeuwen, Rob Philip van",P119479,Lid Raad van Toezicht
+647,10682,Bakkersbedrijf,"Siegmann, Paulien Martine",P115301,Lid Raad van Toezicht
+652,11322,Koopvaardij,"Bitter, Karin",P113424,Lid Raad van Toezicht
+654,11322,Koopvaardij,"Hagen, Ernst Eduard",P102920,Lid Raad van Toezicht
+660,11322,Koopvaardij,"Nieuwenhoven, Rudolf Antonie",P122986,Lid Raad van Toezicht
+662,11322,Koopvaardij,"Swagerman, Dirk Marcel",P115154,Lid Raad van Toezicht
+679,11756,Schoen en Leder,"Rijken, Hendrikus",P130953,Lid Raad van Toezicht
+680,11756,Schoen en Leder,"Tromp, Adriaan Christiaan",P127594,Lid Raad van Toezicht
+713,13358,Notariaat,"Tromp, Adriaan Christiaan",P127594,Lid Raad van Toezicht
+716,13358,Notariaat,"Zeverijn, Willem Sako",P104875,Lid Raad van Toezicht
+724,14089,Grafische Bedrijven (PGB),"Bisschop, Orpa",P116508,Lid Raad van Toezicht
+732,14089,Grafische Bedrijven (PGB),"Kieft, Lubertus Cornelis (Rene) van de",P103909,Lid Raad van Toezicht
+733,14089,Grafische Bedrijven (PGB),"Meeuwisse, Nicolaas Cornelis Johannes",P130680,Lid Raad van Toezicht
+745,14311,Vleesindustrie,"Ophem, Johannes Gerardus Maria van",P122315,Lid Raad van Toezicht
+750,14311,Vleesindustrie,"Uyl, Xander Johannes den",P107770,Lid Raad van Toezicht
+757,14400,Waterbouw,"Eekelen, Pieter Johannes Cornelis van",P121838,Lid Raad van Toezicht
+765,14400,Waterbouw,"Wuffel, Charles Theodorus de",P120220,Lid Raad van Toezicht
+780,15133,Betonproducten,"Simon, Maas",P120260,Lid Raad van Toezicht
+781,15133,Betonproducten,"Sirks, Gerardus Laurens",P112981,Lid Raad van Toezicht
+786,15565,Medewerkers Apotheken,"Berkemeijer, Joseph Nicolaas",P120185,Lid Raad van Toezicht
+793,15565,Medewerkers Apotheken,"Kuilen, Gerard Elbertus van de",P113957,Lid Raad van Toezicht
+797,15565,Medewerkers Apotheken,"Snoeij, Edith Louise",P107716,Lid Raad van Toezicht
+808,15629,Houtverwerkende industrie,"Labadie, Rob Cornelis",P118461,Lid Raad van Toezicht
+809,15629,Houtverwerkende industrie,"Lange, Henriëtte Wilhelmina Laurina Adriana de",P109836,Lid Raad van Toezicht
+810,15629,Houtverwerkende industrie,"Oostveen, Jan Willem Gerard van",P131100,Lid Raad van Toezicht
+813,16458,Bouwmaterialen,"Akkermans, Petrus Johannes Maria",P128633,Lid Raad van Toezicht
+816,16458,Bouwmaterialen,"Bekker, Antonius Mattheus Joseph de",P119003,Lid Raad van Toezicht
+818,16458,Bouwmaterialen,"Hienen, Adrianus Antonius van",P113091,Lid Raad van Toezicht
+825,16534,Architectenbureaus,"Bongers, Marinus Adrianus (Marcel)",P131027,Lid Raad van Toezicht
+828,16534,Architectenbureaus,"Frentrop, Paul Marie Louis",P114917,Lid Raad van Toezicht
+833,16534,Architectenbureaus,"Pluijmaekers-Pessers, Marjo",P131026,Lid Raad van Toezicht
+852,17571,Vlakglas Verf,"Oostveen, Jan Willem Gerard van",P131100,Lid Raad van Toezicht
+854,17571,Vlakglas Verf,"Strang, Henk-Jan Paul",P130965,Lid Raad van Toezicht
+858,17687,Bibliotheken,"Ketellapper, Ronald Helprich",P119802,Lid Raad van Toezicht
+859,17687,Bibliotheken,"Machielsen, Herman Jeppe",P110958,Lid Raad van Toezicht
+871,18397,Molenaars,"Schols - van Oppen, Emilie Marie Francoise van",P130632,Lid Raad van Toezicht
+872,18397,Molenaars,"Simon, Maas",P120260,Lid Raad van Toezicht
+876,20117,Rijn- en Binnenvaart,"Bitter, Karin",P113424,Lid Raad van Toezicht
+885,20117,Rijn- en Binnenvaart,"Nieuwenhoven, Rudolf Antonie",P122986,Lid Raad van Toezicht
+886,20117,Rijn- en Binnenvaart,"Swagerman, Dirk Marcel",P115154,Lid Raad van Toezicht
+893,20118,Woningcorporaties,"Bruijn-Nooteboom, Petra Arina de",P100065,Lid Raad van Toezicht
+895,20118,Woningcorporaties,"Groot, Peter de",P130351,Lid Raad van Toezicht
+902,20118,Woningcorporaties,"Wenting, Dick",P118564,Lid Raad van Toezicht
+931,30355,Drankindustrie,"Carrière, Johan Daniël",P130611,Lid Raad van Toezicht
+932,30355,Drankindustrie,"Duijn-Pennenburg, Ingeborg van",P117815,Lid Raad van Toezicht
+942,30355,Drankindustrie,"Tromp, Adriaan Christiaan",P127594,Lid Raad van Toezicht
+944,32181,Schoenmakerij,"Borm, Josephus Adrianus Johannes Maria",P121243,Lid Raad van Toezicht
+954,32181,Schoenmakerij,"Platenburg, Adriana Gerarda Elisabeth Maria",P131182,Lid Raad van Toezicht
+955,32436,Zoetwarenindustrie,"Belt, Bert van de",P120233,Lid Raad van Toezicht
+963,32436,Zoetwarenindustrie,"Kuilen, Gerard Elbertus van de",P113957,Lid Raad van Toezicht
+985,32868,Horeca,"Essen, Hendrikus Jan van",P103915,Lid Raad van Toezicht
+986,32868,Horeca,"Gram, Anne",P110723,Lid Raad van Toezicht
+989,32868,Horeca,"Ruigh, Barthold de",P108320,Lid Raad van Toezicht
+996,33519,Beroepsvervoer,"Beuken, Nicolette Josephine Marie (Nicole)",P130931,Lid Raad van Toezicht
+998,33519,Beroepsvervoer,"Boeschoten, Willem Cornelis",P130930,Lid Raad van Toezicht
+1000,33519,Beroepsvervoer,"Capitain, Erwin Robert",P110208,Lid Raad van Toezicht
+1022,34561,Levensmiddelen Groothandel,"Eikenboom, Antoinetta Elisabeth",P131079,Lid Raad van Toezicht
+1029,34561,Levensmiddelen Groothandel,"Tromp, Adriaan Christiaan",P127594,Lid Raad van Toezicht
+1054,36722,Agrarische,"Caderius van Veen, Willemina Adriana Paulien Johanna",P117833,Lid Raad van Toezicht
+1061,36722,Agrarische,"Mens, Herialt",P130981,Lid Raad van Toezicht
+1065,36722,Agrarische,"Strang, Henk-Jan Paul",P130965,Lid Raad van Toezicht
+1117,42049,Groothandel,"Groenewoud, Jacobus",P123563,Lid Raad van Toezicht
+1118,42049,Groothandel,"Koomans, Johannes Bernardus",P121971,Lid Raad van Toezicht
+1121,42049,Groothandel,"Raaijmakers, Johannes Jacobus Maria",P126441,Lid Raad van Toezicht
+1124,42467,Levensmiddelen,"Brink, Wichman Gerard van den",P130966,Lid Raad van Toezicht
+1136,42467,Levensmiddelen,"Wenting, Dick",P118564,Lid Raad van Toezicht
+1137,42469,Tandtechniek,"Duijnstee, Lucie Elisabeth Marie",P131300,Lid Raad van Toezicht
+1140,42469,Tandtechniek,"Meijlink, Simon Toby Hendrik",P131299,Lid Raad van Toezicht
+1143,42469,Tandtechniek,"Priester, Peter",P107702,Lid Raad van Toezicht
+1179,44380,Kappersbedrijf,"Blanken, Cornelis Jacobus den",P131161,Lid Raad van Toezicht
+1181,44380,Kappersbedrijf,"Duijn-Pennenburg, Ingeborg van",P117815,Lid Raad van Toezicht
+1182,44380,Kappersbedrijf,"Gameren, Petrus van",P110121,Lid Raad van Toezicht
+1192,44381,Wonen,"Martens, Erik Wouter",P116874,Lid Raad van Toezicht
+1198,44381,Wonen,"Westland, Pieter Johannes",P131078,Lid Raad van Toezicht
+1205,44862,Zorg en Welzijn,"Donders, Monique Wilhelmina Maria",P114345,Lid Raad van Toezicht
+1206,44862,Zorg en Welzijn,"Engelen, Johannes Marie Lucien van",P107742,Lid Raad van Toezicht
+1253,47678,Detailhandel,"Beetsma, Roel Maria Wilhelmus Jozef",P114170,Lid Raad van Toezicht
+1260,47678,Detailhandel,"Meijs, Antonius Maria Christiaan",P120244,Lid Raad van Toezicht
+1264,47678,Detailhandel,"Schuijt, Hendrik",P107719,Lid Raad van Toezicht
+1311,49417,DSM,"Jong, Wendy Elizabeth Maria de",P131091,Lid Raad van Toezicht
+1312,49417,DSM,"Kragt, Jacco Christian",P107226,Lid Raad van Toezicht
+1313,49417,DSM,"Maassen, Jaap Frans",P114078,Lid Raad van Toezicht
+1366,51180,Robeco,"Covers, Folquinus Julius Carl",P120585,Lid Raad van Toezicht
+1375,51180,Robeco,"Zeverijn, Willem Sako",P104875,Lid Raad van Toezicht
+1423,60085,Rockwool,"Sijsenaar, Ronald",P130924,Lid Raad van Toezicht
+1424,60085,Rockwool,"Valck, de",P103442,Lid Raad van Toezicht
+1505,60276,Openbaar Vervoer,"Dirks, Peter Bernard Anton",P120996,Lid Raad van Toezicht
+1514,60276,Openbaar Vervoer,"Verhulp, Evert",P131257,Lid Raad van Toezicht
+1515,60276,Openbaar Vervoer,"Vossen, Franka Petronella Clara Gerarda",P131258,Lid Raad van Toezicht
+1561,60374,Banden- en Wielen,"Brandwijk, Hans Adrie",P106583,Lid Raad van Toezicht
+1569,60374,Banden- en Wielen,"Post, Barthold Jacob",P116576,Lid Raad van Toezicht
+1713,60655,Werk en (re)Integratie (PWRI),"Enschedé, Edzard Johan",P131146,Lid Raad van Toezicht
+1717,60655,Werk en (re)Integratie (PWRI),"Poel, Jan Hendrik Roelof van de",P114076,Lid Raad van Toezicht
+1776,60709,Reisbranche,"Bottinga, Sjoerd-Friso Tom",P129219,Lid Raad van Toezicht
+1782,60709,Reisbranche,"Spaans, Cornelis",P100747,Lid Raad van Toezicht
+1812,60755,Vleeswaren Prepensionering,"Ophem, Johannes Gerardus Maria van",P122315,Lid Raad van Toezicht
+1815,60755,Vleeswaren Prepensionering,"Simon, Maas",P120260,Lid Raad van Toezicht
+1817,60755,Vleeswaren Prepensionering,"Uyl, Xander Johannes den",P107770,Lid Raad van Toezicht
+1856,60788,Technische Groothandel Vroegpensioen,"Bottinga, Sjoerd-Friso Tom",P129219,Lid Raad van Toezicht
+1863,60788,Technische Groothandel Vroegpensioen,"Waals, Ronald Pieter",P130609,Lid Raad van Toezicht
+1878,60792,STIPP,"Smit, Mannes",P111719,Lid Raad van Toezicht
+1880,60792,STIPP,"Verhulst, Jaqueline Louise",P130668,Lid Raad van Toezicht
+1896,60799,Recreatie,"Machielsen, Herman Jeppe",P110958,Lid Raad van Toezicht
+1899,60799,Recreatie,"Scheepens, Louter Cornelis Adriaan",P127429,Lid Raad van Toezicht
+1949,60859,Textielgoederen,"Lustgraaf, Evert Eduard",P116584,Lid Raad van Toezicht
+1950,60859,Textielgoederen,"Manning, Robert Philippe",P113223,Lid Raad van Toezicht
+2015,60889,UWV,"Leegwater, Geertruida Alida Catharina (Geraldine)",P109779,Lid Raad van Toezicht
+2020,60889,UWV,"Siegmann, Paulien Martine",P115301,Lid Raad van Toezicht
+2034,60896,TrueBlue,"Simon, Maas",P120260,Lid Raad van Toezicht
+2038,60896,TrueBlue,"Vos, Monique de",P130601,Lid Raad van Toezicht
+2072,60917,Achmea,"Degenhardt, Rudolf",P121043,Lid Raad van Toezicht
+2078,60917,Achmea,"Nieuwenhuizen, Jacobus Petrus",P130974,Lid Raad van Toezicht
+2083,60917,Achmea,"Vernooij, Cornelius Alphonsus Gerardus",P130973,Lid Raad van Toezicht
+2110,60929,Bloemen en Planten,"Groenewoud, Jacobus",P123563,Lid Raad van Toezicht
+2115,60929,Bloemen en Planten,"Strang, Henk-Jan Paul",P130965,Lid Raad van Toezicht
+2117,60929,Bloemen en Planten,"Wenting, Dick",P118564,Lid Raad van Toezicht
+2146,60952,Caribisch Nederland,"Domacassé, Herbert Filomeno",P126853,Lid Raad van Toezicht
+2198,R129401,Zuivel en aanverwante industrie,"Jakobs, Marjan Tine",P131467,Lid Raad van Toezicht
+2199,R129401,Zuivel en aanverwante industrie,"Lind, Michel",P122062,Lid Raad van Toezicht
+2200,R129401,Zuivel en aanverwante industrie,"Simon, John Fitzgerald",P114319,Lid Raad van Toezicht
+1865,60788,Technische Groothandel Vroegpensioen,"Wouters, Augustinus Hyacinthus Maria",P121389,LidVoorzitter
+1,1,Huisartsen ,"Waal, Alexander Victor de",P115948,Mede-beleidsbepaler
+19,3,Medische Specialisten,"Steenvoorden, Jeroen Antoon Gerard",P113908,Mede-beleidsbepaler
+27,4,Apothekers,"Siebesma, Raimond Jan Pieter",P117247,Mede-beleidsbepaler
+56,29,Notarieel,"Hoogterp, Sjoerd Simon",P109081,Mede-beleidsbepaler
+306,4634,Shell (SSPF),"Bouma, Janwillem",P106550,Mede-beleidsbepaler
+406,6184,De Hoop,"Peijl, Govert Willem van der",P118573,Mede-beleidsbepaler
+453,7781,APF,"Bonewit, Peter Philip",P102892,Mede-beleidsbepaler
+586,10557,Metaal en Techniek (PMT),"Wouters, Augustinus Hyacinthus Maria",P121389,Mede-beleidsbepaler
+735,14089,Grafische Bedrijven (PGB),"Vliet, Iman Johannes van",P110677,Mede-beleidsbepaler
+901,20118,Woningcorporaties,"Valck, de",P103442,Mede-beleidsbepaler
+1177,44057,Randstad,"Schikhof, Raimond Léon",P121432,Mede-beleidsbepaler
+1270,47985,TDV,"Hillen, Theodorus Willibrordus Franciscus",P127249,Mede-beleidsbepaler
+1339,50052,Elsevier,"Covers, Folquinus Julius Carl",P120585,Mede-beleidsbepaler
+1677,60564,Campina,"Spaans, Cornelis",P100747,Mede-beleidsbepaler
+1883,60793,Xerox,"Heesen, Niels van",P113902,Mede-beleidsbepaler
+1917,60806,Smurfit Kappa Nederland,"Kiewiet, Marco",P110199,Mede-beleidsbepaler
+1978,60882,Vopak,"Blokzijl, Cornelis Hubertus",P100016,Mede-beleidsbepaler
+2181,R127942,ING Bank CDC fonds,"Smit-Bos, Selma Betruda Pauline",P113193,Mede-beleidsbepaler
+2187,R127943,NN CDC fonds,"Smit-Bos, Selma Betruda Pauline",P113193,Mede-beleidsbepaler
+694,12345,Pensioenfederatie,"Pol, Kick van de",P120723,Voorzitter PF
+58,29,Notarieel,"Niekerk, Nicolaas Clemens Maria van",P118716,Voorzitter Raad van Toezicht
+67,30,ABP ,"Hannen, Hubertus Anna Johannes",P119034,Voorzitter Raad van Toezicht
+123,608,Mn Services,"Wijs, Matheus Wilhelmus Johannes Peter Marie de",P130527,Voorzitter Raad van Toezicht
+165,1626,Media PNO ,"Snoeij, Edith Louise",P107716,Voorzitter Raad van Toezicht
+263,3691,ANWB ,"Bouma, Janwillem",P106550,Voorzitter Raad van Toezicht
+470,7837,Nederlandsche Bank,"Schols - van Oppen, Emilie Marie Francoise van",P130632,Voorzitter Raad van Toezicht
+552,10547,Bouwnijverheid,"Nagtegaal, Andries Abert (Dries)",P121999,Voorzitter Raad van Toezicht
+564,10549,"Schilders-, Afwerkings- en Glaszetbedrijf","Penders, Henri Joseph Paul",P121248,Voorzitter Raad van Toezicht
+593,10559,Houthandel,"Peijl, Govert Willem van der",P118573,Voorzitter Raad van Toezicht
+604,10560,Sigarenindustrie,"Vall, Jacobus Hendrikus Maria van de",P117322,Voorzitter Raad van Toezicht
+618,10561,Slagersbedrijf,"Simon, Maas",P120260,Voorzitter Raad van Toezicht
+624,10565,Landbouw,"Duijzer, Dirk",P122392,Voorzitter Raad van Toezicht
+677,11756,Schoen en Leder,"Keun, Fokko",P105617,Voorzitter Raad van Toezicht
+714,13358,Notariaat,"Uyl, Xander Johannes den",P107770,Voorzitter Raad van Toezicht
+748,14311,Vleesindustrie,"Simon, Maas",P120260,Voorzitter Raad van Toezicht
+763,14400,Waterbouw,"Smith, Bert Nico",P109504,Voorzitter Raad van Toezicht
+778,15133,Betonproducten,"Priester, Peter",P107702,Voorzitter Raad van Toezicht
+851,17571,Vlakglas Verf,"Mik, Dirk Henk",P103337,Voorzitter Raad van Toezicht
+860,17687,Bibliotheken,"Meijer-Zaalberg, Marianne",P111121,Voorzitter Raad van Toezicht
+875,18397,Molenaars,"Wit, Cornelis Jacobus Maria de",P117136,Voorzitter Raad van Toezicht
+946,32181,Schoenmakerij,"Dijkstra, George",P117738,Voorzitter Raad van Toezicht
+965,32436,Zoetwarenindustrie,"Lecq, Sofia Gepke (Fieke) van der",P111538,Voorzitter Raad van Toezicht
+1025,34561,Levensmiddelen Groothandel,"Hilbrands, Jeroen",P131220,Voorzitter Raad van Toezicht
+1134,42467,Levensmiddelen,"Strang, Henk-Jan Paul",P130965,Voorzitter Raad van Toezicht
+1196,44381,Wonen,"Strang, Henk-Jan Paul",P130965,Voorzitter Raad van Toezicht
+1208,44862,Zorg en Welzijn,"Hoevenaars, Arnoldus Henricus Antonius (Arnold)",P124428,Voorzitter Raad van Toezicht
+1370,51180,Robeco,"Lecq, Sofia Gepke (Fieke) van der",P111538,Voorzitter Raad van Toezicht
+1422,60085,Rockwool,"Schols - van Oppen, Emilie Marie Francoise van",P130632,Voorzitter Raad van Toezicht
+1563,60374,Banden- en Wielen,"Eenshuistra, Pieter Dirk",P107075,Voorzitter Raad van Toezicht
+1712,60655,Werk en (re)Integratie (PWRI),"Eekelen, Pieter Johannes Cornelis van",P121838,Voorzitter Raad van Toezicht
+1777,60709,Reisbranche,"Braker, Johannes Garrelt",P111640,Voorzitter Raad van Toezicht
+1871,60792,STIPP,"Linden, Pieter Cornelis van der",P110865,Voorzitter Raad van Toezicht
+1898,60799,Recreatie,"Peters, Hedwig Gerarda Ignata Maria",P128873,Voorzitter Raad van Toezicht
+1947,60859,Textielgoederen,"Lepoutre, Henri Victor René",P131090,Voorzitter Raad van Toezicht
+2018,60889,UWV,"Ruijgrok, Johannes Theodorus",P120966,Voorzitter Raad van Toezicht
+2035,60896,TrueBlue,"Straatmeijer, Martin",P120821,Voorzitter Raad van Toezicht

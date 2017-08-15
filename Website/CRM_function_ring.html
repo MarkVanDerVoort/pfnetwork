@@ -33,11 +33,9 @@ function GetUrlValue(VarSearch, orElse){
 </div>
 
 
-<!--
-<script type="text/javascript" src="./networks/network-CRM_betweenness2.js"></script>
+<!-- <script type="text/javascript" src="./networks/network-CRM_betweenness2.js"></script>
 <div id="vizall"></div>
--->
-
+ -->
 <script>
   document.getElementById("btnContext").addEventListener("click", function(){
       window.location.href = "CRM_betweenness.html";
@@ -55,14 +53,28 @@ function GetUrlValue(VarSearch, orElse){
 
 
   //gives nice legend but is really slow
-  // var visall = d3plus.viz()
-  //  .container("#vizall")
-  //  .type("network")
-  //  .edges(edges)
-  //  .nodes(nodes)
-  //  .tooltip(["label"])
-  //  .text(["label","id"])
-  //  .size(20)
-  //  .draw()
+//   var visall = d3plus.viz()
+//     .container("#vizall")
+//     .type("network")
+//     .edges(edges)
+//     .nodes(nodes)
+//     .attrs(nodes)
+//     .tooltip(["title"])
+//     .text("")
+//     .id("id")
+//     .dev(true)
+//     .size(20)
+//     .draw()
+
+//   postpone rendering of labels
+//   to speed up initial view
+//   TBD. do this as soon as earlier vis. has finished rather than hardcode it.
+  setTimeout(function(){
+    visall
+        .text("label")
+        .draw()
+    },
+    4000
+  )
 
 </script>

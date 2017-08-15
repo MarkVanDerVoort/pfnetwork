@@ -37,6 +37,10 @@ var network;
       interaction: {
         tooltipDelay: 200,
         hideEdgesOnDrag: true
+      },
+      configure: {
+        enabled:false,
+        showButton: true
       }
     };
     var data = {nodes:nodesDataset, edges:edgesDataset}
